@@ -1,0 +1,913 @@
+[{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d53"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115179.png",
+  "name": "Kvshop.com.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d58"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/47650.png",
+  "name": "Stylus.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d54"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/55284.png",
+  "name": "Telemart.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d63"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/96297.png",
+  "name": "Q-Techno"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d64"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/82542.jpg",
+  "name": "Itbox.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/95308.png",
+  "name": "Berloga.kh.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6c"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) CoolGamer"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Innsystems"
+},{
+  "_id": {
+    "$oid": "6320cd92332e9aa69419bc28"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/93077.png",
+  "name": "Tomdom.prom.ua"
+},{
+  "_id": {
+    "$oid": "6320cd92332e9aa69419bc29"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/94614.png",
+  "name": "Timesport.prom.ua"
+},{
+  "_id": {
+    "$oid": "6320cdc2332e9aa6941a2e44"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115173.png",
+  "name": "Qube.ua"
+},{
+  "_id": {
+    "$oid": "6320d010332e9aa6941f837b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/49860.jpg",
+  "name": "Palladium.ua"
+},{
+  "_id": {
+    "$oid": "6320d028332e9aa6941fba44"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/114642.png",
+  "name": "Cthp.net.ua"
+},{
+  "_id": {
+    "$oid": "6320d04d332e9aa694200b4e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Barberry"
+},{
+  "_id": {
+    "$oid": "6322dcc7332e9aa694f6064d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/86762.gif",
+  "name": "Horoshiy.com.ua"
+},{
+  "_id": {
+    "$oid": "6322e979332e9aa694169e3e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) TehnoGear"
+},{
+  "_id": {
+    "$oid": "6322e984332e9aa69416ba1d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) raSklad"
+},{
+  "_id": {
+    "$oid": "6322f843332e9aa6943d0f83"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Expert Market"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d61"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/46688.jpg",
+  "name": "AKS.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d68"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/104774.png",
+  "name": "Nimpha.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d69"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/55038.jpg",
+  "name": "Ktc.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "Rozetka.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ALEXMAG"
+},{
+  "_id": {
+    "$oid": "6320cd6f332e9aa694196a23"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/94659.png",
+  "name": "Redprice.prom.ua"
+},{
+  "_id": {
+    "$oid": "6320cd8a332e9aa69419ab50"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/63002.png",
+  "name": "FOXTROT.UA"
+},{
+  "_id": {
+    "$oid": "6320cd8a332e9aa69419ab52"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115109.png",
+  "name": "Click.ua"
+},{
+  "_id": {
+    "$oid": "6320cd92332e9aa69419bc26"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/56482.jpg",
+  "name": "Denika.ua"
+},{
+  "_id": {
+    "$oid": "6320cdc2332e9aa6941a2e43"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/104524.png",
+  "name": "Artline.ua"
+},{
+  "_id": {
+    "$oid": "6320cdc2332e9aa6941a2e46"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/52257.png",
+  "name": "COMFY.ua"
+},{
+  "_id": {
+    "$oid": "6320cffe332e9aa6941f5e53"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/60965.jpg",
+  "name": "Openshop.ua"
+},{
+  "_id": {
+    "$oid": "6320d002332e9aa6941f676a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/55995.jpg",
+  "name": "Pulsepad.com.ua"
+},{
+  "_id": {
+    "$oid": "6320d010332e9aa6941f837d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/84062.gif",
+  "name": "Mobitek.com.ua"
+},{
+  "_id": {
+    "$oid": "6320d028332e9aa6941fba45"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/105284.png",
+  "name": "Click24.in.ua"
+},{
+  "_id": {
+    "$oid": "6320d03a332e9aa6941fe6ba"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Smart click"
+},{
+  "_id": {
+    "$oid": "6320d03a332e9aa6941fe6bb"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Two friends"
+},{
+  "_id": {
+    "$oid": "63219eda332e9aa694f992b4"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/92709.gif",
+  "name": "Notebooker.ua"
+},{
+  "_id": {
+    "$oid": "63219eda332e9aa694f992b6"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) UnderCover"
+},{
+  "_id": {
+    "$oid": "63219f0f332e9aa694fa1855"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ЭЛЕКТРОН 24"
+},{
+  "_id": {
+    "$oid": "63219f35332e9aa694fa7a02"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ВІХА"
+},{
+  "_id": {
+    "$oid": "6322dce4332e9aa694f65a13"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/55872.jpg",
+  "name": "Megadom.biz"
+},{
+  "_id": {
+    "$oid": "6322e9d5332e9aa69417c6f4"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) CS"
+},{
+  "_id": {
+    "$oid": "6322edf9332e9aa69422e7ba"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) S-техника"
+},{
+  "_id": {
+    "$oid": "6322ee03332e9aa694230020"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ZXShop"
+},{
+  "_id": {
+    "$oid": "6322ee1d332e9aa694233ee1"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) KohAccess"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d66"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/95622.png",
+  "name": "Bigmo.com.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d55"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/104591.png",
+  "name": "Compx.com.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d5a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/76823.gif",
+  "name": "Enko.com.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d5b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/99008.png",
+  "name": "Denika.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d5d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/88100.gif",
+  "name": "Luckylink.kiev.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d5f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/56142.gif",
+  "name": "Tviy-Dim.com"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d65"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/114740.png",
+  "name": "Nkt.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d70"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Мой компьютер"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d71"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) NBK Shop"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d72"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) MountainShop"
+},{
+  "_id": {
+    "$oid": "6320cd6f332e9aa694196a22"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/61697.jpg",
+  "name": "Brain.com.ua"
+},{
+  "_id": {
+    "$oid": "6320cd8a332e9aa69419ab4f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115354.png",
+  "name": "Dendi.ua"
+},{
+  "_id": {
+    "$oid": "6320cd8a332e9aa69419ab51"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/86059.png",
+  "name": "ШО"
+},{
+  "_id": {
+    "$oid": "6320cd8a332e9aa69419ab53"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Vendedor"
+},{
+  "_id": {
+    "$oid": "6320cd92332e9aa69419bc23"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/61163.png",
+  "name": "Цифра"
+},{
+  "_id": {
+    "$oid": "6320cda7332e9aa69419f0da"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/87225.gif",
+  "name": "Foroom.com.ua"
+},{
+  "_id": {
+    "$oid": "6320cdc2332e9aa6941a2e47"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) UCG"
+},{
+  "_id": {
+    "$oid": "6320cffe332e9aa6941f5e51"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/46137.png",
+  "name": "Tehno-mart.com.ua"
+},{
+  "_id": {
+    "$oid": "6320d010332e9aa6941f8379"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/50344.jpg",
+  "name": "Moyo.ua"
+},{
+  "_id": {
+    "$oid": "6320d063332e9aa694203f0d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90986.jpg",
+  "name": "Repka.ua"
+},{
+  "_id": {
+    "$oid": "6320d067332e9aa69420487a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) DSW Systems"
+},{
+  "_id": {
+    "$oid": "63219edf332e9aa694f9a2df"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Sferrum"
+},{
+  "_id": {
+    "$oid": "63219ee3332e9aa694f9ae6e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/112642.png",
+  "name": "Flick І Все для геймерів"
+},{
+  "_id": {
+    "$oid": "63219ef0332e9aa694f9cda1"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) UNITED HARDWARE SOLUTIONS"
+},{
+  "_id": {
+    "$oid": "63219ef4332e9aa694f9d90f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ХЄХ"
+},{
+  "_id": {
+    "$oid": "63219efd332e9aa694f9f03e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Partner IT"
+},{
+  "_id": {
+    "$oid": "6322dced332e9aa694f67511"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/84503.png",
+  "name": "Diagonal.in.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d67"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/61575.png",
+  "name": "Mta.ua"
+},{
+  "_id": {
+    "$oid": "6320c248332e9aa694fe5d6e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Orangetraid"
+},{
+  "_id": {
+    "$oid": "6320cd7c332e9aa694198b5e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Red2Shop"
+},{
+  "_id": {
+    "$oid": "6320cffe332e9aa6941f5e50"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/98485.png",
+  "name": "Tehnopostavka.com.ua"
+},{
+  "_id": {
+    "$oid": "6320cffe332e9aa6941f5e52"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/99017.png",
+  "name": "click24.biz"
+},{
+  "_id": {
+    "$oid": "6320d002332e9aa6941f6769"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/53699.png",
+  "name": "Avic.ua"
+},{
+  "_id": {
+    "$oid": "6320d007332e9aa6941f7194"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90102.png",
+  "name": "Smartmag.biz.ua"
+},{
+  "_id": {
+    "$oid": "6320d03a332e9aa6941fe6b9"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/95594.png",
+  "name": "Zhuk.ua"
+},{
+  "_id": {
+    "$oid": "6320d051332e9aa69420151f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) PCS"
+},{
+  "_id": {
+    "$oid": "6320d063332e9aa694203f0f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/43132.png",
+  "name": "Ctrs.com.ua"
+},{
+  "_id": {
+    "$oid": "63219edf332e9aa694f9a2da"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/58367.jpg",
+  "name": "TTT.ua"
+},{
+  "_id": {
+    "$oid": "63219ee3332e9aa694f9ae6f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) D`n`D Group"
+},{
+  "_id": {
+    "$oid": "6322dcd0332e9aa694f61b1b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/46860.jpg",
+  "name": "AVR-group.com.ua"
+},{
+  "_id": {
+    "$oid": "6322dcd0332e9aa694f61b1c"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/53926.jpg",
+  "name": "Orb.com.ua"
+},{
+  "_id": {
+    "$oid": "6322e51c332e9aa6940b515f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/42910.png",
+  "name": "A-techno.com.ua"
+},{
+  "_id": {
+    "$oid": "6322e52e332e9aa6940b83dc"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) BordoMe"
+},{
+  "_id": {
+    "$oid": "6322e553332e9aa6940bea98"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/96957.png",
+  "name": "(Synthetic.com.ua) ONE-shop"
+},{
+  "_id": {
+    "$oid": "6322edc8332e9aa694225dc5"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) KramStore"
+},{
+  "_id": {
+    "$oid": "6322ee26332e9aa694234faa"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) E-TOCHKA"
+},{
+  "_id": {
+    "$oid": "6322f86d332e9aa6943d9d35"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Mini Shop"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb8262f3"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/104591.png",
+  "name": "Compx.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb8262f4"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/76823.png",
+  "name": "Enko.com.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb8262f8"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116426.png",
+  "name": "Wintik.com.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb8262fb"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/96297.png",
+  "name": "Q-techno.com.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb8262fd"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/77792.jpg",
+  "name": "Exe.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb826302"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/47473.gif",
+  "name": "Comtrading.ua"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb826307"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) vsim"
+},{
+  "_id": {
+    "$oid": "644e8f56b68c4f46eb826309"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) digtec"
+},{
+  "_id": {
+    "$oid": "644e91a1b68c4f46eb84c248"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116361.png",
+  "name": "Ebox24.biz"
+},{
+  "_id": {
+    "$oid": "644e91deb68c4f46eb85024d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/94614.png",
+  "name": "Timesport.com.ua"
+},{
+  "_id": {
+    "$oid": "644e920cb68c4f46eb8530e6"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Енергія Руху"
+},{
+  "_id": {
+    "$oid": "644f94d5b68c4f46eb852a36"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116643.png",
+  "name": "Pcsmart.ua"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be21f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/1075.png",
+  "name": "Sokol.ua"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be220"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/50552.jpg",
+  "name": "Ntools.com.ua"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be225"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/60965.png",
+  "name": "Openshop.ua"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be227"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116117.png",
+  "name": "SellPoint"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be22e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/112090.png",
+  "name": "Orbita.te.ua"
+},{
+  "_id": {
+    "$oid": "644faaa6b68c4f46eb9be234"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) LAWIX"
+},{
+  "_id": {
+    "$oid": "644faab8b68c4f46eb9bf2f2"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) DIGITALFPS"
+},{
+  "_id": {
+    "$oid": "644faabfb68c4f46eb9bfbae"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ArtIn"
+},{
+  "_id": {
+    "$oid": "644fae09b68c4f46eb9f342e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/42353.png",
+  "name": "АЛЛО"
+},{
+  "_id": {
+    "$oid": "644fae09b68c4f46eb9f3430"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/78402.jpg",
+  "name": "Touch"
+},{
+  "_id": {
+    "$oid": "644fae09b68c4f46eb9f3435"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115854.png",
+  "name": "Mobicase.net"
+},{
+  "_id": {
+    "$oid": "644fae09b68c4f46eb9f343a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Geekon"
+},{
+  "_id": {
+    "$oid": "644fae12b68c4f46eb9f3d40"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/58967.png",
+  "name": "Tehnoezh.ua"
+},{
+  "_id": {
+    "$oid": "644fae12b68c4f46eb9f3d43"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/41495.jpg",
+  "name": "skymarket.ua"
+},{
+  "_id": {
+    "$oid": "644fae1ab68c4f46eb9f4446"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) STC"
+},{
+  "_id": {
+    "$oid": "644fae4fb68c4f46eb9f765b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/89584.gif",
+  "name": "Mikcep.store"
+},{
+  "_id": {
+    "$oid": "644fae4fb68c4f46eb9f765e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/50941.jpg",
+  "name": "ABCphoto.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb516b68c4f46eba62b0f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/42070.jpg",
+  "name": "Ител Лтд"
+},{
+  "_id": {
+    "$oid": "644fb516b68c4f46eba62b12"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/57878.png",
+  "name": "E-server.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb539b68c4f46eba64ce8"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/56860.gif",
+  "name": "Tv-mir.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb539b68c4f46eba64ce9"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115108.png",
+  "name": "Foractive.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb7edb68c4f46eba8fc20"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/44888.jpg",
+  "name": "Portativ.ua"
+},{
+  "_id": {
+    "$oid": "644fb9a6b68c4f46ebaab659"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115695.png",
+  "name": "Technoplay.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb9afb68c4f46ebaabf3a"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116458.png",
+  "name": "Tradecome.in.ua"
+},{
+  "_id": {
+    "$oid": "644fb9b8b68c4f46ebaac999"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) mMarket24"
+},{
+  "_id": {
+    "$oid": "644fb9c1b68c4f46ebaad2be"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) iT Family"
+},{
+  "_id": {
+    "$oid": "644fb9cbb68c4f46ebaadc08"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/53800.jpg",
+  "name": "GoodLife.ua"
+},{
+  "_id": {
+    "$oid": "644fb9cbb68c4f46ebaadc0d"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/111602.png",
+  "name": "Cyberdream.com.ua"
+},{
+  "_id": {
+    "$oid": "644fb9cbb68c4f46ebaadc16"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Девайси Че"
+},{
+  "_id": {
+    "$oid": "644fb9d5b68c4f46ebaae530"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Maxima"
+},{
+  "_id": {
+    "$oid": "644fb9e6b68c4f46ebaaf749"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Your House"
+},{
+  "_id": {
+    "$oid": "644fb9efb68c4f46ebaaffdc"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) First Toys"
+},{
+  "_id": {
+    "$oid": "644fba21b68c4f46ebab3259"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/61749.png",
+  "name": "Reader.ua"
+},{
+  "_id": {
+    "$oid": "644fba40b68c4f46ebab5207"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/45667.jpg",
+  "name": "ACDC.com.ua"
+},{
+  "_id": {
+    "$oid": "644fba49b68c4f46ebab5a87"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Technerik"
+},{
+  "_id": {
+    "$oid": "644fba49b68c4f46ebab5a88"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) FreeDay"
+},{
+  "_id": {
+    "$oid": "644fbb69b68c4f46ebac79aa"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/54795.gif",
+  "name": "Setevuha.ua"
+},{
+  "_id": {
+    "$oid": "644fbb69b68c4f46ebac79ad"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/116441.png",
+  "name": "Onekit.com.ua"
+},{
+  "_id": {
+    "$oid": "644fbbf8b68c4f46ebad0701"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/79375.gif",
+  "name": "Domus.co.ua"
+},{
+  "_id": {
+    "$oid": "644fbbf8b68c4f46ebad0704"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/115953.png",
+  "name": "Shopsmart.com.ua"
+},{
+  "_id": {
+    "$oid": "644fbd8db68c4f46ebae956f"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Robotemi"
+},{
+  "_id": {
+    "$oid": "644fbecbb68c4f46ebafd58b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) ArtPower"
+},{
+  "_id": {
+    "$oid": "644fc682b68c4f46ebb78f31"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) anytech"
+},{
+  "_id": {
+    "$oid": "644fc682b68c4f46ebb78f32"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) igoods+"
+},{
+  "_id": {
+    "$oid": "644fcc1fb68c4f46ebbdbb5b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/63125.png",
+  "name": "Aligator.com.ua"
+},{
+  "_id": {
+    "$oid": "644fcc8fb68c4f46ebbe2e8e"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) iHealsi"
+},{
+  "_id": {
+    "$oid": "644fd10db68c4f46ebc2c42b"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/79406.png",
+  "name": "Royko.com.ua"
+},{
+  "_id": {
+    "$oid": "644fd1acb68c4f46ebc362f1"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/90852.gif",
+  "name": "(Rozetka.ua) Kebu"
+},{
+  "_id": {
+    "$oid": "644fdce6b68c4f46ebcf0366"
+  },
+  "imageUrl": "https://ek.ua/logo_shop/98642.png",
+  "name": "Fragment.com.ua"
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63089938d502ea1ee8e1f669"
+  },
+  "name": "CPUs",
+  "ekatalog_id": "186"
+},{
+  "_id": {
+    "$oid": "6315bb81cd3c761514825091"
+  },
+  "name": "coolings",
+  "ekatalog_id": "303"
+},{
+  "_id": {
+    "$oid": "6308a14973b1ad71acacd54a"
+  },
+  "name": "motherboards",
+  "ekatalog_id": "187"
+},{
+  "_id": {
+    "$oid": "6311b26e3a73738be26bfb2c"
+  },
+  "name": "RAM",
+  "ekatalog_id": "188"
+},{
+  "_id": {
+    "$oid": "6311b2ede787d9073ab187ed"
+  },
+  "name": "hardDrives",
+  "ekatalog_id": "190"
+},{
+  "_id": {
+    "$oid": "6311be6a122e688a87b466bf"
+  },
+  "name": "cases",
+  "ekatalog_id": "193"
+},{
+  "_id": {
+    "$oid": "6311b2b6e787d9073ab187ec"
+  },
+  "name": "graphicsCards",
+  "ekatalog_id": "189"
+},{
+  "_id": {
+    "$oid": "6311b339122e688a87b466be"
+  },
+  "name": "solidStateDrives",
+  "ekatalog_id": "61"
+},{
+  "_id": {
+    "$oid": "6315bb49cd3c761514825090"
+  },
+  "name": "PSUs",
+  "ekatalog_id": "351"
+}]

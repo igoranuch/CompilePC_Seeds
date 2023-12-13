@@ -1,0 +1,2450 @@
+[{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c5297"
+  },
+  "id": "CHIEFTEC-BDF-600S",
+  "name": "Chieftec Proton BDF-600S",
+  "mainImage": "https://s.ek.ua/jpg/1226207.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=1PP8031J552J1J18231J512J1J30431J0P031J013J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J57&model_=CHIEFTEC+Proton+600W+%28BDF&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2633,
+        "link": "https://ek.ua/en/clcp.php?ep_=V6TO031J57331J421J1J512J1J320J1J1K131J044J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J52531J0Q031371331J57&model_=Chieftec+600W+Proton+%28BDF&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2788,
+        "link": "https://ek.ua/en/clcp.php?ep_=VI01031J55331J28131J512J1J32331J4H331J262J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J57&model_=Chieftec+Proton+BDF-600S+&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=6IPL031J552J1J03431J512J1J30431J12231J4J4J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J54531J0Q031371531N&model_=Chieftec+600W+ATX+FAN+12c&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2633,
+        "link": "https://ek.ua/en/clcp.php?ep_=34RA031J58431J0G031J512J1J313J1J3H1J1J4P331J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J55531J0Q031371531N&model_=Chieftec+600W+Proton+%28BDF&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 2716,
+        "link": "https://ek.ua/en/clcp.php?ep_=UN0O031J592J1J32131J512J1J322J1J321J1J410J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J56531J0Q0313703J1J57&model_=Chieftec+Proton+BDF-600S+&idSite_=1&idGood_=1226210"
+      },
+      {
+        "storeId": "63219edf332e9aa694f9a2df",
+        "price": 2520,
+        "link": "https://ek.ua/en/clcp.php?ep_=4KVC031J59031J45131J512J1J304J1J3G3J1J234J1J51331J424J1J271J1J1G531J0A1J1J2H531J0Q1J1J57531J0Q031370331J57&model_=Chieftec+BDF-600S+Proton%2C&idSite_=1&idGood_=1226210"
+      }
+    ],
+    "range": {
+      "minPrice": 2520,
+      "maxPrice": 2788
+    }
+  },
+  "brand": "Chieftec",
+  "description": "<p><span class=\"desc-ai-initcap\">U</span>niversal block of the middle price range, high quality and wide possibilities of which are confirmed by the certificate \"80 PLUS BRONZE\". This model has a decent level of energy efficiency — the efficiency reaches 85%. The PSU uses a unique circuitry based on DC-DC converters. In particular, thanks to this, the device provides the most stable voltage, without any drawdowns in the network.</p><p>Chieftec Proton BDF-600S can be trusted to power expensive high-performance components. A wide range of protective systems of this power supply will allow the owner of a PC not to worry about the quality of the power supply of the system unit. So, the manufacturer provides protection against high and low output voltage, short circuit and overheating, overload in power and current strength of each channel.</p><p>Additionally, a stabilizer is provided to prevent surges and voltage surges. The power supply is made in the ATX form factor, the maximum power is 600 watts. The wiring harness is non-detachable. The list of interfaces includes the following connectors: one 20 + 4 and 4 + 4, several PCIe 6 + 2, three SATA and PATA. Forced cooling is implemented by a fan with a bladed impeller with a diameter of 120 mm.</p>",
+  "power": "600 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "85 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "sliding",
+  "certification": "80+ Bronze",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8 (4+4) pin",
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "450 mm",
+  "cpuCableLength": "550 mm",
+  "PCIECableLength": "450 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c5298"
+  },
+  "id": "GIGABYTE-P750GM",
+  "name": "Gigabyte P-Series 2020 P750GM",
+  "mainImage": "https://s.ek.ua/jpg/1859784.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 3799,
+        "link": "https://ek.ua/en/clcp.php?ep_=VPSF031J552J1J18231J512J1J30431J0P231J123J1J51331J424J1J271J1J1O531J0A1J1J2H531J0Q1J1J51531J0Q0313711J1J55&model_=Gigabyte+P750GM+750W+%28GP-&idSite_=1&idGood_=1859784"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 3800,
+        "link": "https://ek.ua/en/clcp.php?ep_=U81J031J573J1J3P131J512J1J304J1J05031J4K431J51331J424J1J271J1J1O531J0A1J1J2H531J0Q1J1J52531J0Q0313710J1J55&model_=Gigabyte+750W+%28GP-P750GM%29&idSite_=1&idGood_=1859784"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 8814,
+        "link": "https://ek.ua/en/clcp.php?ep_=08OT031J510J1J33331J0Q0J1J2M0J1J2G3J1J163J1J4Q0J1J38131J4K3J1J1J431J50531J1L0J1J51531J1Q1J1J51531I0E031J3Q2J&model_=GIGABYTE+ZASILACZ+P750GM+&idSite_=1&idGood_=1859784"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 3819,
+        "link": "https://ek.ua/en/clcp.php?ep_=UATE031J59031J45131J512J1J30031J360J1J32331J51331J424J1J271J1J1O531J0A1J1J2H531J0Q1J1J54531J0Q031370331J55&model_=Gigabyte+P750GM+80%2B+Gold+&idSite_=1&idGood_=1859784"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 5499,
+        "link": "https://ek.ua/en/clcp.php?ep_=QUT9031J510J1J33331J0Q0J1J2M0J1J2G431J2G231J3A0J1J38131J4K3J1J1J431J50531J1L0J1J51531J1Q2J1J51531I0E0J1J55&model_=Gigabyte+P-Series+2020+P7&idSite_=1&idGood_=1859784"
+      }
+    ],
+    "range": {
+      "minPrice": 3799,
+      "maxPrice": 8814
+    }
+  },
+  "brand": "Gigabyte",
+  "officialWebsite": "gigabyte.com",
+  "power": "750 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Gold",
+  "atx12vVersion": 2.31,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "600 mm",
+  "PCIECableLength": "600 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c5299"
+  },
+  "id": "CROWN-CM-PS500",
+  "name": "Crown Standart CM-PS500",
+  "mainImage": "https://s.ek.ua/jpg/563242.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1015,
+        "link": "https://ek.ua/en/clcp.php?ep_=SP1C031J57331J421J1J512J1J320J1J1M3J1J0M231J51331J424J1J271J1J25531J0A1J1J2H531J0Q1J1J51531J0Q031371331J55&model_=Crown+CM-PS+500W&idSite_=1&idGood_=563242"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 754,
+        "link": "https://ek.ua/en/clcp.php?ep_=S5UO031J55331J0K131J512J1J32031J0L0J1J4G331J51331J424J1J271J1J25531J0A1J1J2H531J0Q1J1J52531J0Q0313703J1J55&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Crown+cm-ps&idSite_=1&idGood_=563242"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 989,
+        "link": "https://ek.ua/en/clcp.php?ep_=RQTR031J59031J45131J512J1J30031J360J1J330J1J51331J424J1J271J1J25531J0A1J1J2H531J0Q1J1J53531J0Q031370331J55&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Crown+CM-PS&idSite_=1&idGood_=563242"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1052,
+        "link": "https://ek.ua/en/clcp.php?ep_=R5UR031J55331J0K131J512J1J32031J0L0J1J4H231J51331J424J1J271J1J25531J0A1J1J2H531J0Q1J1J54531J0Q0313703J1J55&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Crown+cm-ps&idSite_=1&idGood_=563242"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1099,
+        "link": "https://ek.ua/en/clcp.php?ep_=1B03031J59031J45131J512J1J311J1J4M131J4O331J51331J424J1J271J1J25531J0A1J1J2H531J0Q1J1J55531J0Q031370331J55&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Crown+CM-PS&idSite_=1&idGood_=563242"
+      }
+    ],
+    "range": {
+      "minPrice": 754,
+      "maxPrice": 1099
+    }
+  },
+  "brand": "Crown",
+  "description": "<p><span class=\"desc-ai-initcap\">I</span>nexpensive medium power supply (500 W) with a traditional layout of cable lines. Complies with the ATX 2.3 standard, is positioned as a product of the basic price category. It has a length increased by 20 mm (160 mm instead of the standard 140 mm), which should be taken into account when installing in compact cases. Designed for use in low-cost configurations of universal home PCs or low-cost gaming builds equipped with video cards that consume less than 150 watts of power.</p><p>It can become a source of energy for entry-level workstations (including those equipped with graphics accelerators). The Crown Standard CM-PS500 power supply is based on a hardware platform with traditional circuitry based on the principle of group voltage stabilization. The maximum claimed current on the +12V line is 30 A, which is 72% of the nameplate capacity. The unit is not 80 Plus certified. At 50% load, its efficiency is 77%, which is typical for low-cost solutions in this price category. Provides good output voltage stability, as well as low ripple and high-frequency noise. A controlled 140mm ball bearing fan is used to cool the PCB elements.</p>",
+  "power": "500 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "coolingSystem": "1 fan",
+  "fanSize": "140 mm",
+  "certification": "without 80+",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8 (4+4) pin",
+  "SATA": 4,
+  "MOLEX": 4,
+  "cableSystem": "non-modular",
+  "braidedWires": true
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529a"
+  },
+  "id": "GAMEMAX-GM-500",
+  "name": "Gamemax GM Series GM-500",
+  "mainImage": "https://s.ek.ua/jpg/708955.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1336,
+        "link": "https://ek.ua/en/clcp.php?ep_=P9QE031J510J1J2H3J1J4Q0J1J2M131J313J1J2N0J1J2A0J1J38131J4K3J1J1L0J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1G&model_=GAMEMAX+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 889,
+        "link": "https://ek.ua/en/clcp.php?ep_=5CPO031J552J1J18231J512J1J30431J0P2J1J231J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J52531J0Q031371431J5303&model_=GAMEMAX+GM-500+500W+%28GM-5&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1158,
+        "link": "https://ek.ua/en/clcp.php?ep_=4RRM031J543J1J35031J512J1J32231J391J1J21331J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5303&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+GameMax+GM-&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 862,
+        "link": "https://ek.ua/en/clcp.php?ep_=VP0K031J57331J421J1J512J1J320J1J1J3J1J4H031J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5303&model_=Gamemax+500W+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 971,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8PC031J55331J0K131J512J1J32031J0L0J1J3M231J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5303&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+GameMax+gm-5&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1032,
+        "link": "https://ek.ua/en/clcp.php?ep_=2USJ031J59331J193J1J512J1J32031J1N231J4N3J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J56531J0Q031371131J5303&model_=Gamemax+500W+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 889,
+        "link": "https://ek.ua/en/clcp.php?ep_=3QOR031J560J1J393J1J512J1J301J1J46331J0G131J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J5303&model_=Gamemax+500W+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=18OH031J58131J2K131J512J1J32331J121J1J1O2J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5303&model_=Gamemax+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 897,
+        "link": "https://ek.ua/en/clcp.php?ep_=22P4031J552J1J03431J512J1J30431J12231J1G031J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J59531J0Q031371531J1G&model_=Gamemax+GM-500+500+%D0%92%D1%82+Bul&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 897,
+        "link": "https://ek.ua/en/clcp.php?ep_=IJOF031J510J1J27231J0A0J1J2M0J1J023J1J103J1J0A0J1J38131J4K3J1J1L0J1J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q1J1G&model_=GAMEMAX+500+%D0%92%D1%82+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 897,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BN4031J55231J3P2J1J512J1J31031J1I0J1J114J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5303&model_=GameMax+GM-500&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 897,
+        "link": "https://ek.ua/en/clcp.php?ep_=3TMF031J58431J0G031J512J1J313J1J3H231J052J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5303&model_=GameMax+GM-500&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1226,
+        "link": "https://ek.ua/en/clcp.php?ep_=5AON031J560J1J2N2J1J512J1J320J1J40331J2L3J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5303&model_=GAMEMAX+ATX+500W+GM-500+8&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1225,
+        "link": "https://ek.ua/en/clcp.php?ep_=2AQA031J543J1J271J1J512J1J322J1J224J1J08131J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5303&model_=GameMax+GM-500+80%2B+APFC+G&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 1188,
+        "link": "https://ek.ua/en/clcp.php?ep_=ADNR031J59131J3G4J1J512J1J322J1J303J1J004J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5303&model_=GAMEMAX+GM-500+80%2B+APFC+G&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=4FQ5031J592J1J32131J512J1J322J1J32131J3O1J1J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5303&model_=GameMax+GM-500+500W&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=PLS7031J510J1J36231J1Q0J1J2M131J344J1J2P0J1J1Q0J1J38131J4K3J1J1L0J1J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q1J1G&model_=Gamemax+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1185,
+        "link": "https://ek.ua/en/clcp.php?ep_=38Q8031J592J1J2P231J512J1J32331J2K0J1J1K031J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3Q1J1G&model_=GameMax+GM-500+80%2B+APFC+5&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 889,
+        "link": "https://ek.ua/en/clcp.php?ep_=3QQ2031J59031J45131J512J1J30031J360J1J2K431J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A1J1G&model_=GameMax+GM500+OEM+%28GM-500&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=1JST031J552J1J18231J512J1J322J1J43431J29131J51331J424J1J271J1J2H531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J3Q1J1G&model_=GAMEMAX+500W+%28GM-500W-80%2B&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1187,
+        "link": "https://ek.ua/en/clcp.php?ep_=1BR2031J57331J421J1J512J1J322J1J4P131J01131J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J2Q1J1G&model_=Gamemax+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1414,
+        "link": "https://ek.ua/en/clcp.php?ep_=2QTO031J59331J193J1J512J1J322J1J463J1J30231J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J1A1J1G&model_=Gamemax+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LRH031J560J1J393J1J512J1J322J1J443J1J19431J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J0Q1J1G&model_=Gamemax+500W+%28GM-500+80%2B+&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 889,
+        "link": "https://ek.ua/en/clcp.php?ep_=0KVC031J58131J2K131J512J1J32331J4H431J4P131J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J0Q1J1G&model_=Gamemax+500W+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1165,
+        "link": "https://ek.ua/en/clcp.php?ep_=OJQH031J510J1J27231J0A0J1J2M0J1J023J1J321J1J3Q0J1J38131J4K3J1J1L231J50531J1L0J1J51531J1Q131J2Q0J1J50721J0Q1J1G&model_=GAMEMAX+GM-500+80%2B+APFC&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1174,
+        "link": "https://ek.ua/en/clcp.php?ep_=6DMJ031J58431J0G031J512J1J313J1J3H231J05331J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J5303&model_=GameMax+GM-500+80%2B+APFC&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 1225,
+        "link": "https://ek.ua/en/clcp.php?ep_=8CQG031J55231J3P2J1J512J1J322J1J43431J0O2J1J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J523J1J51531I0E0J1J5303&model_=GameMax+GM-500+80%2B+APFC&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 873,
+        "link": "https://ek.ua/en/clcp.php?ep_=5SVA031J592J1J2P231J512J1J32331J2O4J1J2I2J1J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J52431J51531I0E031J3Q1J1G&model_=GameMax+GM-500&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 983,
+        "link": "https://ek.ua/en/clcp.php?ep_=1ARL031J59031J45131J512J1J30031J360J1J431J1J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J524J1J51531I0E031J3A1J1G&model_=Gamemax+500W+%28GM-500%29&idSite_=1&idGood_=708955"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=ULN9031J59031J45131J512J1J322J1J3H031J040J1J51331J424J1J271J1J2K531J0A1J1J2H531J0Q1J1J53031J51531I0E031J3A1J1G&model_=GameMax+GM-500+80%2B+APFC+5&idSite_=1&idGood_=708955"
+      }
+    ],
+    "range": {
+      "minPrice": 862,
+      "maxPrice": 1414
+    }
+  },
+  "brand": "Gamemax",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>ffordable medium power computer power supply (500 W) with a classic fixed (non-detachable) cable subsystem. The manufacturer is positioning itself as a product of the basic price category, designed to power universal home and budget gaming systems equipped with video cards with a typical power consumption of up to 180 watts. It can be successfully used as a regular PSU of budget workstations (including those equipped with entry-level or mid-level graphics accelerators).</p><p>For internal cooling of the unit, a controllable low-noise 120 mm fan with a 9-blade optimized crescent-shaped impeller is used. The Gamemax GM Series GM-500 power supply is based on a simple and time-tested hardware platform with traditional circuitry that uses the principle of group voltage stabilization. The use of a reliable element base and sufficiently developed aluminum radiators allow the device to deliver up to 78% of the power along the + 12V line in continuous mode, operating with a current load of up to 32A (up to 40 A for a short time). The unit has a conditional certificate of 80 Plus and its efficiency at 50% load exceeds 80%. In addition to standard ATX 24-pin (20+4) and EPS/ATX12V 8-pin (4+4) cables, it is equipped with a cable with a PCI-E 8-pin (6+2) connector, two 2xSATA+MOLEX cables and one SATA+ MOLEX. The block has a complete set of necessary protective systems.</p>",
+  "power": "500 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "80 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "certification": "80+",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8 (4+4) pin",
+  "SATA": 3,
+  "MOLEX": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529b"
+  },
+  "id": "MSI-A850GF",
+  "name": "MSI MPG GF A850GF",
+  "mainImage": "https://s.ek.ua/jpg/1945550.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 5335,
+        "link": "https://ek.ua/en/clcp.php?ep_=T7UJ031J573J1J3P131J512J1J304J1J050J1J012J1J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J51531J0Q031371131J58&model_=MSI+MPG+A850GF+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 4999,
+        "link": "https://ek.ua/en/clcp.php?ep_=T534031J58131J2K131J512J1J32331J4H4J1J44031J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J52531J0Q0313710J1J58&model_=MSI+850W+%28MPG+A850GF%29&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 5460,
+        "link": "https://ek.ua/en/clcp.php?ep_=OURH031J510J1J33331J0Q0J1J2M0J1J2G3J1J132J1J1A0J1J38131J4K3J1J1L4J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J58&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 5341,
+        "link": "https://ek.ua/en/clcp.php?ep_=VOT0031J59231J31231J512J1J322J1J24431J24031J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J54531J0Q031371531O&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 6112,
+        "link": "https://ek.ua/en/clcp.php?ep_=07OD031J594J1J013J1J512J1J32331J0J031J20031J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J55531J0Q031371531O&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 5676,
+        "link": "https://ek.ua/en/clcp.php?ep_=30PV031J51031J2I431J2A0J1J2M131J322J1J1I4J1J4A0J1J38131J4K3J1J1L4J1J50531J1L0J1J51531J1Q331J51531I0E0J1J58&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 5335,
+        "link": "https://ek.ua/en/clcp.php?ep_=4QUB031J59231J354J1J512J1J322J1J264J1J2O2J1J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J57531J0Q031371531O&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 5338,
+        "link": "https://ek.ua/en/clcp.php?ep_=3SL7031J591J1J073J1J512J1J322J1J28031J1H2J1J51331J424J1J271J1J2P531J0A1J1J2H531J0Q1J1J58531J0Q031371531O&model_=MSI+MPG+A850GF&idSite_=1&idGood_=1945558"
+      }
+    ],
+    "range": {
+      "minPrice": 4999,
+      "maxPrice": 6112
+    }
+  },
+  "brand": "MSI",
+  "officialWebsite": "msi.com",
+  "power": "850 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "140 mm",
+  "certification": "80+ Gold",
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 6,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "600 mm",
+  "cpuCableLength": "700 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529c"
+  },
+  "id": "CHIEFTEC-BBS-600S",
+  "name": "Chieftec Core BBS-600S",
+  "mainImage": "https://s.ek.ua/jpg/1565033.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2930,
+        "link": "https://ek.ua/en/clcp.php?ep_=O8MN031J510J1J2H3J1J4Q0J1J2M0J1J00131J1O031J2A0J1J38131J4K3J1J1M3J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131N&model_=Chieftec+RETAIL+Core+BBS-&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2629,
+        "link": "https://ek.ua/en/clcp.php?ep_=5R0U031J552J1J18231J512J1J30431J0O4J1J33231J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J52531J0Q031371431J523J&model_=CHIEFTEC+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2667,
+        "link": "https://ek.ua/en/clcp.php?ep_=77RS031J560J1J0M1J1J512J1J313J1J24431J113J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J523J&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2667,
+        "link": "https://ek.ua/en/clcp.php?ep_=4QVH031J543J1J35031J512J1J32231J391J1J1L331J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J523J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Chieftec+60&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "63219edf332e9aa694f9a2da",
+        "price": 2960,
+        "link": "https://ek.ua/en/clcp.php?ep_=6820031J55431J1M3J1J512J1J32131J25331J3I3J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J55531J0Q031371331J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2416,
+        "link": "https://ek.ua/en/clcp.php?ep_=5E3U031J57331J421J1J512J1J322J1J2P331J432J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J56531J0Q031371331J523J&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2747,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OU6031J55331J28131J512J1J310J1J362J1J0L0J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J523J&model_=Chieftec+BBS-600S+BBS-600&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=TNTV031J55331J0K131J512J1J32031J0L0J1J400J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J523J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Chieftec+bbs&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=6T4M031J59431J282J1J512J1J32331J1M431J4I431J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J523J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+600W+Chieft&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2952,
+        "link": "https://ek.ua/en/clcp.php?ep_=SBQ9031J59331J193J1J512J1J32031J1N2J1J081J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131N&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2629,
+        "link": "https://ek.ua/en/clcp.php?ep_=0KU5031J560J1J393J1J512J1J301J1J434J1J2M231J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131N&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2629,
+        "link": "https://ek.ua/en/clcp.php?ep_=SNOE031J58131J2K131J512J1J320J1J0K131J0I4J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131N&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 2768,
+        "link": "https://ek.ua/en/clcp.php?ep_=0ASE031J55231J3P2J1J512J1J31031J1I231J0L1J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J523J&model_=Chieftec+BBS-600S&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 3383,
+        "link": "https://ek.ua/en/clcp.php?ep_=6VS8031J59231J31231J512J1J31231J3J131J27431J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2629,
+        "link": "https://ek.ua/en/clcp.php?ep_=S2NE031J510J1J36231J1Q0J1J2M0J1J311J1J18131J2A0J1J38131J4K3J1J1M3J1J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131N&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2466,
+        "link": "https://ek.ua/en/clcp.php?ep_=7CQH031J58431J0G031J512J1J313J1J3H231J01431J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J523J&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2960,
+        "link": "https://ek.ua/en/clcp.php?ep_=7RRQ031J543J1J271J1J512J1J314J1J24231J03331J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2630,
+        "link": "https://ek.ua/en/clcp.php?ep_=5AQ1031J560J1J2N2J1J512J1J320J1J41031J2P131J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 2960,
+        "link": "https://ek.ua/en/clcp.php?ep_=42RR031J583J1J122J1J512J1J32231J0N231J18131J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J523J&model_=Chiefte%D1%81+CORE+BBS-600S+12&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 2684,
+        "link": "https://ek.ua/en/clcp.php?ep_=2ERO031J592J1J32131J512J1J322J1J32231J042J1J51331J424J1J271J1J37531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J523J&model_=Chieftec+BBS-600S+Core&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2536,
+        "link": "https://ek.ua/en/clcp.php?ep_=0T02031J592J1J2P231J512J1J32331J2O4J1J2N131J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131N&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2639,
+        "link": "https://ek.ua/en/clcp.php?ep_=TQQA031J59031J45131J512J1J30031J360J1J251J1J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131N&model_=Chieftec+CORE+BBS-600S+12&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 3380,
+        "link": "https://ek.ua/en/clcp.php?ep_=6HQ5031J591J1J073J1J512J1J31231J3L131J342J1J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 3377,
+        "link": "https://ek.ua/en/clcp.php?ep_=A2Q3031J59231J354J1J512J1J31231J3M0J1J044J1J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J523J&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2811,
+        "link": "https://ek.ua/en/clcp.php?ep_=4KRA031J58431J0G031J512J1J313J1J3H231J193J1J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3Q131N&model_=Chieftec+Core+600W+%28BBS-6&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6f",
+        "price": 2673,
+        "link": "https://ek.ua/en/clcp.php?ep_=0AQP031J59031J45131J512J1J31131J1M031J332J1J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131N&model_=Chieftec+CORE+BBS-600S+12&idSite_=1&idGood_=1565041"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 2614,
+        "link": "https://ek.ua/en/clcp.php?ep_=1DQD031J59031J45131J512J1J31431J1P2J1J07031J51331J424J1J271J1J3G531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3A131N&model_=Chieftec+600W+%28BBS-600S%29&idSite_=1&idGood_=1565041"
+      }
+    ],
+    "range": {
+      "minPrice": 2416,
+      "maxPrice": 3383
+    }
+  },
+  "brand": "Chieftec",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>ffordable and energy-efficient ATX v2.3 high power power supply (600 W). It has a classic cable layout (no detachable cables), standard overall dimensions and moderate weight. Built on a modern CWT hardware platform using a highly efficient circuit solution — a resonant rectifier with DC-DC converters. Equipped with all the necessary protective subsystems: OVP (against network overvoltage), SCP (against short circuit), OPP (against overcurrent).</p><p>It is positioned as an affordable model of the middle price category, focused on use in high-performance gaming PCs equipped with video cards with increased heat dissipation. In addition, the Chieftec Core BBS-600S power supply can power entry-level / mid-level workstations, including equipped with professional video adapters. It features a high level of output voltage stabilization on all lines and excellent energy efficiency of the 80 Plus Gold level. The dissipation of the unit's own heat is carried out by a 120 mm fan with a simple plain bearing. It is important that at low and medium loads (up to 400-450 W) it rotates at a minimum speed (500-600 rpm) and is completely silent.</p>",
+  "officialWebsite": "chieftec.eu",
+  "power": "600 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "85 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "sliding",
+  "certification": "80+ Gold",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8 (4+4) pin",
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "650 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529d"
+  },
+  "id": "ASUS-ROG-THOR-1000P2-GAMING",
+  "name": "Asus ROG Thor Platinum II ROG-THOR-1000P2-GAMING",
+  "mainImage": "https://s.ek.ua/jpg/2210237.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 13828,
+        "link": "https://ek.ua/en/clcp.php?ep_=53VC031J543J1J35031J512J1J322J1J234J1J04431J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J511J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Asus+Rog+Th&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 13546,
+        "link": "https://ek.ua/en/clcp.php?ep_=56PA031J560J1J0M1J1J512J1J322J1J2K3J1J0G231J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J511J&model_=Asus+Rog+Thor+1000W+80+Pl&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 15546,
+        "link": "https://ek.ua/en/clcp.php?ep_=75UE031J57331J421J1J512J1J322J1J2I2J1J0N4J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J53531J0Q031371331J511J&model_=ASUS+1000W+ROG+THOR+80%2B+P&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 15546,
+        "link": "https://ek.ua/en/clcp.php?ep_=TTLN031J51031J25131J2A0J1J2M131J2L131J27231J4Q0J1J38131J4K3J1J1N331J50531J1L0J1J51531J1Q231J51531I0E0J1J2Q0J1J&model_=ASUS+ROG+THOR+1000W+80%2B+P&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 15546,
+        "link": "https://ek.ua/en/clcp.php?ep_=1ASF031J55331J28131J512J1J32331J390J1J2G0J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J511J&model_=Asus+ROG-THOR-1000P2-GAMI&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 22425,
+        "link": "https://ek.ua/en/clcp.php?ep_=V7R0031J510J1J33331J0Q0J1J2M131J284J1J35131J3Q0J1J38131J4K3J1J1N331J50531J1L0J1J51531J1Q331J51531I0E0J1J511J&model_=Asus+ROG+Thor+Platinum+II&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 15546,
+        "link": "https://ek.ua/en/clcp.php?ep_=1JT5031J560J1J2N2J1J512J1J322J1J22231J4L1J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0J&model_=Asus+%28ROG-THOR-1000P2-GAM&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 14471,
+        "link": "https://ek.ua/en/clcp.php?ep_=11U1031J543J1J271J1J512J1J322J1J224J1J0G231J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0J&model_=ASUS+1000W+ROG+THOR+80%2B+P&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 13963,
+        "link": "https://ek.ua/en/clcp.php?ep_=43U7031J55231J3P2J1J512J1J322J1J43431J13231J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0J&model_=ASUS+90YE00L1-B0NA00&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 15619,
+        "link": "https://ek.ua/en/clcp.php?ep_=7BQN031J552J1J03431J512J1J322J1J44131J4K3J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J511J&model_=ASUS+1000W+Rog+Thor+1000P&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 13491,
+        "link": "https://ek.ua/en/clcp.php?ep_=05V3031J58431J0G031J512J1J32331J4I4J1J300J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3Q0J1J&model_=ASUS+RETAIL+ROG-THOR-1000&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 15619,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LNB031J59031J45131J512J1J322J1J3H031J033J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3A0J1J&model_=ASUS+ROG-THOR-1000P2-GAMI&idSite_=1&idGood_=2210239"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 15546,
+        "link": "https://ek.ua/en/clcp.php?ep_=1ATU031J543J1J271J1J512J1J322J1J241J1J470J1J51331J424J1J271J1J3M531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J511J&model_=ASUS+1000W+ROG+THOR+%28ROG-&idSite_=1&idGood_=2210239"
+      }
+    ],
+    "range": {
+      "minPrice": 13491,
+      "maxPrice": 22425
+    }
+  },
+  "brand": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of the models of the Asus ROG Thor Platinum II family of top-end power supplies of 2022 for demanding users, enthusiasts and modders who create spectacular PC exhibition copies in transparent / translucent cases. It features a high power rating of 1000W, outstanding energy efficiency of 80 Plus Platinum (92% efficiency or more) and practical modular cabling. It is also worth noting the presence of a PCI-E 16-pin connector, an OLED screen (shows the output power) and a special proprietary Asus Aura Sync backlight.</p><p>It can work properly in a network with a voltage of 100 to 240 V, which makes it insensitive to drawdowns and voltage fluctuations in domestic power systems. It is positioned as the flagship product of 2022, designed to power high-performance gaming systems with top-end graphics cards. Also, the Asus ROG Thor Platinum II ROG-THOR-1000P2-GAMING power supply is quite suitable for bold overclocking experiments. The basis of this model was a high-tech hardware platform with a resonant LLC converter, a synchronous rectifier and DC-DC converters. Provides extremely high stability of output voltages and allows you to give up to 99.6% of power through the +12V channel. The cooling system can operate in hybrid mode, in which the 135mm fan does not spin at loads less than 400W.</p>",
+  "officialWebsite": "rog.asus.com",
+  "power": "1000 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "92 %",
+  "coolingSystem": "semi-passive",
+  "fanSize": "135 mm",
+  "fanBearings": "rolling",
+  "certification": "80+ Platinum",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "MOLEX": 6,
+  "PCIE8pin": 8,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "670 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529e"
+  },
+  "id": "ZALMAN-ZM650-GVII",
+  "name": "Zalman GigaMax GV II ZM650-GVII",
+  "mainImage": "https://s.ek.ua/jpg/1760067.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2499,
+        "link": "https://ek.ua/en/clcp.php?ep_=NOPR031J510J1J2H3J1J4Q0J1J2M0J1J00231J48131J2A0J1J38131J4K3J1J1O231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1P&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=1A1P031J552J1J18231J512J1J30431J0O4J1J20131J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J514J&model_=Zalman+GigaMax+GVII+650W+&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=THLC031J51031J254J1J0Q0J1J2M031J4P0J1J251J1J1Q0J1J38131J4K3J1J1O231J50531J1L0J1J51531J1Q1J1J51531I0E0J1J4A0J1P&model_=Zalman+650W+GIGAMAX+Bronz&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be21f",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=TVR9031J51031J3L531J0L331J0L231J36331J36531J0M431J19231J3J431J2A031J532J1J0Q0J1J53531J2A0J1J50721J0N531J0P&model_=ZALMAN+650-GVII+GigaMax+%28&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=66TR031J560J1J0M1J1J512J1J313J1J24431J112J1J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J514J&model_=Zalman+GigaMax+650W+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=3A1G031J543J1J35031J512J1J32231J391J1J1L1J1J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J56531J0Q0313713J1J514J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Zalman+Giga&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320d063332e9aa694203f0d",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=5U39031J59031J4O331J512J1J2P331J0O3J1J3J331J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J57531J0Q031371331J514J&model_=ZALMAN+650-GVII+GigaMax+%28&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2285,
+        "link": "https://ek.ua/en/clcp.php?ep_=VOV2031J57331J421J1J512J1J320J1J1L031J08031J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J58531J0Q031371331J514J&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2485,
+        "link": "https://ek.ua/en/clcp.php?ep_=06VU031J55331J0K131J512J1J32031J0L0J1J41331J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J514J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Zalman+650w+&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2530,
+        "link": "https://ek.ua/en/clcp.php?ep_=UQPP031J59331J193J1J512J1J32031J1M031J1P3J1J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1Q0J1P&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 2285,
+        "link": "https://ek.ua/en/clcp.php?ep_=TBTK031J573J1J3P131J512J1J32331J092J1J04331J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J1A0J1P&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=3KUK031J560J1J393J1J512J1J301J1J434J1J2M4J1J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q0J1P&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PTV031J552J1J03431J512J1J30431J12231J3G031J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J514J&model_=Zalman+GigaMax+ZM650-GVII&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2318,
+        "link": "https://ek.ua/en/clcp.php?ep_=K3R2031J510J1J27231J0A0J1J2M0J1J023J1J471J1J0A0J1J38131J4K3J1J1O231J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q0J1P&model_=Zalman+ZM650-GVII+650W&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 2599,
+        "link": "https://ek.ua/en/clcp.php?ep_=1Q37031J55231J3P2J1J512J1J31031J1I4J1J31231J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J514J&model_=Zalman+ZM650-GVII&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 2499,
+        "link": "https://ek.ua/en/clcp.php?ep_=5NV4031J55131J153J1J512J1J31131J3G4J1J2I1J1J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J514J&model_=Zalman+ZM650-GVII+650W&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2332,
+        "link": "https://ek.ua/en/clcp.php?ep_=7RT3031J58431J0G031J512J1J313J1J3H231J0M431J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J514J&model_=Zalman+GigaMax+650W+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2264,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLPU031J510J1J36231J1Q0J1J2M131J34431J1K231J4A0J1J38131J4K3J1J1O231J50531J1L0J1J51531J1Q0J1J4A0J1J50721J0Q0J1P&model_=Zalman+650W+GigaMax+%28ZM65&idSite_=1&idGood_=1760067"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2361,
+        "link": "https://ek.ua/en/clcp.php?ep_=8K2C031J592J1J2P231J512J1J32331J2O4J1J2L331J51331J424J1J271J1J44531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J514J&model_=Zalman+GigaMax+650W+%28ZM65&idSite_=1&idGood_=1760067"
+      }
+    ],
+    "range": {
+      "minPrice": 2264,
+      "maxPrice": 2599
+    }
+  },
+  "brand": "Zalman",
+  "officialWebsite": "zalman.com",
+  "power": "650 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "88 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "certification": "80+ Bronze",
+  "atx12vVersion": 2.31,
+  "powerSupply": "24+8 (4+4) pin",
+  "MOLEX": 4,
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "500 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "450 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c529f"
+  },
+  "id": "ASUS-TUF-GAMING-750B",
+  "name": "Asus TUF Bronze TUF-GAMING-750B",
+  "mainImage": "https://s.ek.ua/jpg/1986347.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 3799,
+        "link": "https://ek.ua/en/clcp.php?ep_=SP0I031J552J1J18231J512J1J31431J28031J48031J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J51531J0Q0313710J1J56&model_=Asus+TUF+Gaming+650W+%28TUF&idSite_=1&idGood_=1986347"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 4236,
+        "link": "https://ek.ua/en/clcp.php?ep_=U40R031J55231J3P2J1J512J1J31031J1J331J4I131J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J52531J0Q031371531M&model_=ASUS+90YE00D0-B0NA00&idSite_=1&idGood_=1986347"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 4206,
+        "link": "https://ek.ua/en/clcp.php?ep_=1P3B031J59231J31231J512J1J322J1J24431J1M3J1J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J53531J0Q0313703J1J56&model_=Asus+TUF+Gaming+750W+%2890Y&idSite_=1&idGood_=1986347"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 6059,
+        "link": "https://ek.ua/en/clcp.php?ep_=USVE031J59031J45131J512J1J30431J18031J2M1J1J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J54531J0Q031370331J56&model_=ASUS+TUF+Gaming+750+%D0%92%D1%82+Go&idSite_=1&idGood_=1986347"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 4200,
+        "link": "https://ek.ua/en/clcp.php?ep_=2R0R031J59231J354J1J512J1J322J1J264J1J3I0J1J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J55531J0Q031371531M&model_=Asus+TUF+Gaming+750W+%2890Y&idSite_=1&idGood_=1986347"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 4203,
+        "link": "https://ek.ua/en/clcp.php?ep_=3CNS031J591J1J073J1J512J1J322J1J28031J2G231J51331J424J1J271J1J4J531J0A1J1J2H531J0Q1J1J56531J0Q031371531M&model_=Asus+TUF+Gaming+750W+%2890Y&idSite_=1&idGood_=1986347"
+      }
+    ],
+    "range": {
+      "minPrice": 3799,
+      "maxPrice": 6059
+    }
+  },
+  "brand": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he senior model of the Asus TUF GAMING line of high-quality gaming power supplies, which includes four devices with a power of 450, 550, 650 and 750 watts. It fully complies with the ATX 12V v2.3 standard, equipped with an APFC module, and works stably in a wide range of input supply voltages (from 100 to 240 V). The latter circumstance makes the unit completely insensitive to significant voltage drops in domestic electrical networks.</p><p>It has a stylish exterior design and a traditional (non-modular) design of the cable subsystem. In addition to the standard ATX 24-pin line and two EPS / ATX12V 8-pin cables, it is equipped with a pair of cables with two PCI-E 8-pin (6 + 2) connectors on each, two cables with 4xSATA and one cable with 4xMolex. The Asus TUF TUF-GAMING-750B power supply is positioned as a high-end product designed to power high-performance gaming systems equipped with powerful graphics cards with a TDP of up to 350W.</p><p>In addition, the block is suitable for working with productive workstations based on AMD Ryzen Threadripper (TR4) and Intel Xeon (LGA3647) platforms. The state-of-the-art hardware platform with LLC resonant converter, synchronous rectifier and DC-DC converters provides excellent output voltage stability and 80 Plus Bronze energy efficiency (&gt;88% efficiency at half load). The quiet 135mm fan turns on if the power exceeds the 225W threshold.</p>",
+  "officialWebsite": "asus.com",
+  "power": "750 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "coolingSystem": "semi-passive",
+  "fanSize": "135 mm",
+  "fanBearings": "rolling",
+  "certification": "80+ Bronze",
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "600 mm",
+  "cpuCableLength": "800 mm",
+  "PCIECableLength": "600 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a0"
+  },
+  "id": "LOGICPOWER-ATX-800W",
+  "name": "Logicpower ATX PSU ATX-800W",
+  "mainImage": "https://s.ek.ua/jpg/2216282.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1769,
+        "link": "https://ek.ua/en/clcp.php?ep_=P8N2031J510J1J2H3J1J4Q0J1J2M0J1J00131J2G1J1J0Q0J1J38131J4K3J1J1P4J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1N&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1714,
+        "link": "https://ek.ua/en/clcp.php?ep_=5A22031J543J1J35031J512J1J32231J391J1J2M3J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J513J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+LogicPower+&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1862,
+        "link": "https://ek.ua/en/clcp.php?ep_=2T0Q031J57331J421J1J512J1J320J1J1P0J1J20331J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J53531J0Q031371331J513J&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1862,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MVF031J55331J0K131J512J1J32031J0L0J1J424J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J513J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Logicpower+a&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1886,
+        "link": "https://ek.ua/en/clcp.php?ep_=1DVN031J59331J193J1J512J1J32031J1O031J44231J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J55531J0Q031371131J513J&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1769,
+        "link": "https://ek.ua/en/clcp.php?ep_=5OV2031J560J1J393J1J512J1J301J1J46331J10331J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J513J&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1769,
+        "link": "https://ek.ua/en/clcp.php?ep_=RQVL031J58131J2K131J512J1J320J1J0M331J1L031J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J513J&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1670,
+        "link": "https://ek.ua/en/clcp.php?ep_=37UQ031J543J1J271J1J512J1J304J1J284J1J04231J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0N&model_=LogicPower+ATX-800W+%28LP10&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1862,
+        "link": "https://ek.ua/en/clcp.php?ep_=RHSK031J510J1J27231J0A0J1J2M0J1J023J1J4J031J2A0J1J38131J4K3J1J1P4J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J513J&model_=Logicpower+ATX-800W%2C+12%D1%81%D0%BC&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1569,
+        "link": "https://ek.ua/en/clcp.php?ep_=RNQV031J510J1J36231J1Q0J1J2M0J1J46431J2M0J1J2Q0J1J38131J4K3J1J1P4J1J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q0J1N&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 2307,
+        "link": "https://ek.ua/en/clcp.php?ep_=0B0U031J55231J3P2J1J512J1J32031J432J1J32031J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J513J&model_=LogicPower+ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1862,
+        "link": "https://ek.ua/en/clcp.php?ep_=5Q1J031J560J1J2N2J1J512J1J320J1J41431J4P4J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J513J&model_=LogicPower+ATX-800W+%28LP10&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1862,
+        "link": "https://ek.ua/en/clcp.php?ep_=5D0K031J592J1J2P231J512J1J32331J2O4J1J2H4J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3Q0J1N&model_=LogicPower+ATX-800W+APFC+&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1769,
+        "link": "https://ek.ua/en/clcp.php?ep_=UQR5031J59031J45131J512J1J30031J360J1J281J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3A0J1N&model_=LogicPower+ATX-800W+APFC+&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1814,
+        "link": "https://ek.ua/en/clcp.php?ep_=S9RI031J55331J0K131J512J1J32031J0P231J1K0J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3Q0J1N&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+LogicPower+8&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "63219f35332e9aa694fa7a02",
+        "price": 1763,
+        "link": "https://ek.ua/en/clcp.php?ep_=UQSF031J59031J45131J512J1J30031J360J1J3I0J1J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3A0J1N&model_=LogicPower+800W+%28ATX-800W&idSite_=1&idGood_=2216283"
+      },
+      {
+        "storeId": "6322e979332e9aa694169e3e",
+        "price": 1482,
+        "link": "https://ek.ua/en/clcp.php?ep_=3MR3031J59031J45131J512J1J303J1J0I0J1J26431J51331J424J1J271J1J4P531J0A1J1J2H531J0Q1J1J513J1J51531I0E031J3A0J1N&model_=Logicpower+ATX-800W+12%D1%81%D0%BC+&idSite_=1&idGood_=2216283"
+      }
+    ],
+    "range": {
+      "minPrice": 1482,
+      "maxPrice": 2307
+    }
+  },
+  "brand": "Logicpower",
+  "description": "<p><span class=\"desc-ai-initcap\">G</span>ood power and at the same time relatively inexpensive power supply. This device has a potential within 800 watts. This level of power is more than enough to assemble a productive gaming-level computer system. At the same time, there will be an opportunity for future PC upgrades. The power supply device will make the system unit as reliable and durable as possible. 80+ BRONZE certification guarantees efficient energy consumption with minimal heat generation.</p><p>The Logicpower ATX PSU ATX-800W computer power supply will allow your PC hardware resources to reach their full potential. After all, the components will be supplied with a stable voltage with a minimum level of ripple. The presence of two 8 pin connectors will allow you to equip your PC with a powerful graphics adapter with an advanced cooling system. Also, the power supply is equipped with a temperature-sensitive fan. The speed of the impeller is adjusted automatically, depending on the heating of the board, determined by the load on the power.</p>",
+  "power": "800 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "certification": "80+ Bronze",
+  "powerSupply": "24+8 (4+4) pin",
+  "SATA": 5,
+  "MOLEX": 2,
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a1"
+  },
+  "id": "COOLER-MASTER-MPE-7001-ACAAB",
+  "name": "Cooler Master MWE V2 Bronze MPE-7001-ACAAB",
+  "mainImage": "https://s.ek.ua/jpg/1762705.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2799,
+        "link": "https://ek.ua/en/clcp.php?ep_=SPRJ031J552J1J18231J512J1J30431J0P231J131J1J51331J424J1J27231J08531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J57&model_=Cooler+Master+MWE+V2+700W&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2675,
+        "link": "https://ek.ua/en/clcp.php?ep_=1CQU031J51031J254J1J0Q0J1J2M0J1J4K231J4O4J1J4A0J1J38131J4K3J1J20431J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q3J&model_=Cooler+Master+700W+Bronze&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2554,
+        "link": "https://ek.ua/en/clcp.php?ep_=IGUL031J510J1J27231J0A0J1J2M0J1J023J1J4P131J0Q0J1J38131J4K3J1J20431J50531J1L0J1J51531J1Q1J1J51531I0E0J1J57&model_=Cooler+Master+MWE+700+Bro&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2530,
+        "link": "https://ek.ua/en/clcp.php?ep_=34MU031J58431J0G031J512J1J313J1J3H231J0M331J51331J424J1J27231J08531J0A1J1J2H531J0Q1J1J54531J0Q031371531N&model_=Cooler+Master+MWE+700+Bro&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2549,
+        "link": "https://ek.ua/en/clcp.php?ep_=UNQQ031J543J1J271J1J512J1J320J1J3O231J39031J51331J424J1J27231J08531J0A1J1J2H531J0Q1J1J55531J0Q031371531N&model_=Cooler+Master+MPE-7001-AC&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2870,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JPA031J560J1J2N2J1J512J1J320J1J42131J06431J51331J424J1J27231J08531J0A1J1J2H531J0Q1J1J56531J0Q0313703J1J57&model_=Cooler+Master+MWE+700+Bro&idSite_=1&idGood_=1762705"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 2716,
+        "link": "https://ek.ua/en/clcp.php?ep_=36SP031J59031J45131J512J1J30331J3I2J1J184J1J51331J424J1J27231J08531J0A1J1J2H531J0Q1J1J57531J0Q031370331J57&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+CoolerMaste&idSite_=1&idGood_=1762705"
+      }
+    ],
+    "range": {
+      "minPrice": 2530,
+      "maxPrice": 2870
+    }
+  },
+  "brand": "Cooler Master",
+  "officialWebsite": "coolermaster.com",
+  "power": "700 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "85 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Bronze",
+  "atx12vVersion": 2.52,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "550 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a2"
+  },
+  "id": "CHIEFTEC-BDK-750FC",
+  "name": "Chieftec SteelPower BDK-750FC",
+  "mainImage": "https://s.ek.ua/jpg/2139561.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 3788,
+        "link": "https://ek.ua/en/clcp.php?ep_=TBNR031J510J1J2H3J1J4Q0J1J2M131J1J331J123J1J3A0J1J38131J4K3J1J21231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1M&model_=Chieftec+Chieftronic+Stee&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 3848,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PTR031J543J1J35031J512J1J32231J391J1J2K231J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J5133&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+Chieftec+St&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 3848,
+        "link": "https://ek.ua/en/clcp.php?ep_=5QMF031J560J1J0M1J1J512J1J322J1J4O231J060J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5133&model_=Chieftec+SteelPower+750W+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 3504,
+        "link": "https://ek.ua/en/clcp.php?ep_=4B36031J57331J421J1J512J1J320J1J1N4J1J4G4J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5133&model_=Chieftec+750W+SteelPower+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 3623,
+        "link": "https://ek.ua/en/clcp.php?ep_=28TF031J55331J28131J512J1J310J1J37431J13231J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5133&model_=Chieftec+SteelPower+750W+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 3426,
+        "link": "https://ek.ua/en/clcp.php?ep_=U6RR031J55331J0K131J512J1J32031J0L0J1J4H131J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5133&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Chieftec+750&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 3773,
+        "link": "https://ek.ua/en/clcp.php?ep_=0UTK031J59331J193J1J512J1J32031J1P1J1J4K1J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J57531J0Q031371131J5133&model_=Chieftec+750W+SteelPower+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 3539,
+        "link": "https://ek.ua/en/clcp.php?ep_=2OR1031J560J1J393J1J512J1J301J1J46331J12031J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5133&model_=Chieftec+750W+SteelPower+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 3539,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MQ1031J58131J2K131J512J1J32331J4I031J343J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5133&model_=Chieftec+750W+SteelPower+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 3487,
+        "link": "https://ek.ua/en/clcp.php?ep_=4VNS031J543J1J271J1J512J1J304J1J29031J0P3J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5133&model_=Chieftec+SteelPower+750W+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 3606,
+        "link": "https://ek.ua/en/clcp.php?ep_=M3PJ031J510J1J27231J0A0J1J2M0J1J02431J222J1J2Q0J1J38131J4K3J1J21231J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q0J1M&model_=CHIEFTEC+RETAIL+Chieftron&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 3647,
+        "link": "https://ek.ua/en/clcp.php?ep_=1QQ8031J55231J3P2J1J512J1J31031J1J331J023J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5133&model_=Chieftec+BDK-750FC&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 3426,
+        "link": "https://ek.ua/en/clcp.php?ep_=P2N8031J510J1J36231J1Q0J1J2M0J1J311J1J18231J0Q0J1J38131J4K3J1J21231J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q0J1M&model_=Chieftec+750W+SteelPower+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 3662,
+        "link": "https://ek.ua/en/clcp.php?ep_=14O8031J58431J0G031J512J1J313J1J3H231J150J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3Q0J1M&model_=Chieftec+SteelPower+750W+&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 3539,
+        "link": "https://ek.ua/en/clcp.php?ep_=1AOA031J59031J45131J512J1J30031J360J1J333J1J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3A0J1M&model_=Chieftec+BDK-750FC+750+W&idSite_=1&idGood_=2139573"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 3811,
+        "link": "https://ek.ua/en/clcp.php?ep_=V6NE031J59031J45131J512J1J303J1J0I0J1J27031J51331J424J1J27231J0K531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3A0J1M&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+750W+CHIEFT&idSite_=1&idGood_=2139573"
+      }
+    ],
+    "range": {
+      "minPrice": 3426,
+      "maxPrice": 3848
+    }
+  },
+  "brand": "Chieftec",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he power supply stands out with good power, high-quality assembly and high energy efficiency. The device uses modular wiring. Circuitry received resistant Japanese-made capacitors. Such a block provides a stable and accurate power supply to components according to 80+ Bronze standards. The main feature of the model is the extremely compact body size. Dimensions of a 750-watt system: 86x150x140 mm.</p><p>The Chieftec SteelPower BDK-750FC power supply will allow you to make a productive gaming computer out of a PC. This device has four PCI-E 6 + 2 pin connectors, which makes it possible to use a combined graphics accelerator. Optionally, two separate processors can be connected. The power supply of the CPU is implemented by 4 + 4 pin connectors. For heat dissipation, a 120 mm fan with an improved impeller shape is used. The speed of the blades is regulated automatically, for which a special controller is responsible. The model is well protected from low-quality power supply. Computer components will be provided with the correct voltage and optimal amperage.</p>",
+  "power": "750 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Bronze",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "650 mm",
+  "cpuCableLength": "600 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a3"
+  },
+  "id": "CHIEFTEC-GPB-500S",
+  "name": "Chieftec iARENA GPB GPB-500S",
+  "mainImage": "https://s.ek.ua/jpg/800197.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1628,
+        "link": "https://ek.ua/en/clcp.php?ep_=LOQF031J510J1J2H3J1J4Q0J1J2M0J1J002J1J3M1J1J1Q0J1J38131J4K3J1J22031J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131L&model_=CHIEFTEC+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1414,
+        "link": "https://ek.ua/en/clcp.php?ep_=0BN6031J552J1J18231J512J1J30431J0P031J0H031J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J522J&model_=CHIEFTEC+I-ARENA+500W+%28GP&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1347,
+        "link": "https://ek.ua/en/clcp.php?ep_=OAP2031J51031J254J1J0Q0J1J2M0J1J22231J3L031J2Q0J1J38131J4K3J1J22031J50531J1L0J1J51531J1Q1J1J51531I0E0J1J3Q131L&model_=Chieftec+iArena+500W+%28GPB&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1345,
+        "link": "https://ek.ua/en/clcp.php?ep_=08Q5031J57331J421J1J512J1J320J1J1K031J030J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J54531J0Q031371331J522J&model_=Chieftec+500W+%28GPB-500S%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 1501,
+        "link": "https://ek.ua/en/clcp.php?ep_=3810031J55331J28131J512J1J310J1J35431J4O331J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J522J&model_=Chieftec+iARENA+GPB+500S+&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1484,
+        "link": "https://ek.ua/en/clcp.php?ep_=UNQN031J55331J0K131J512J1J32031J0L0J1J3H1J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J522J&model_=Chieftec+550w+gpb-500s&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1788,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MS3031J59331J193J1J512J1J322J1J0G4J1J07131J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J57531J0Q031371131J522J&model_=Chieftec+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1519,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PQG031J560J1J393J1J512J1J301J1J46331J0L131J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J522J&model_=Chieftec+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1414,
+        "link": "https://ek.ua/en/clcp.php?ep_=3MVI031J58131J2K131J512J1J32331J4H431J4P1J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J522J&model_=Chieftec+500W+%28GPB-500S%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1566,
+        "link": "https://ek.ua/en/clcp.php?ep_=2FQG031J543J1J271J1J512J1J304J1J283J1J01131J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J522J&model_=Chieftec+GPB-500S8+GPB-50&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1389,
+        "link": "https://ek.ua/en/clcp.php?ep_=I3OQ031J510J1J27231J0A0J1J2M0J1J023J1J19331J0A0J1J38131J4K3J1J22031J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q131L&model_=Chieftec+500+%D0%92%D1%82+%28GPB-500S&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 1560,
+        "link": "https://ek.ua/en/clcp.php?ep_=VAO7031J55231J3P2J1J512J1J31031J1I0J1J0L131J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J522J&model_=Chieftec+GPB-500S8&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1363,
+        "link": "https://ek.ua/en/clcp.php?ep_=4CS0031J58431J0G031J512J1J313J1J3H1J1J4N2J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J522J&model_=Chieftec+GPB-500S&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1470,
+        "link": "https://ek.ua/en/clcp.php?ep_=R1M4031J510J1J36231J1Q0J1J2M0J1J40031J14231J3A0J1J38131J4K3J1J22031J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131L&model_=Chieftec+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 2114,
+        "link": "https://ek.ua/en/clcp.php?ep_=73R2031J59231J354J1J512J1J322J1J27131J3J231J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J522J&model_=Chieftec+iArena+500W+%28GPB&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 1427,
+        "link": "https://ek.ua/en/clcp.php?ep_=4EPF031J592J1J32131J512J1J322J1J321J1J131J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J522J&model_=Chieftec+iARENA+GPB-500S+&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1376,
+        "link": "https://ek.ua/en/clcp.php?ep_=4KTK031J592J1J2P231J512J1J32331J2O4J1J2H031J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J522J&model_=Chieftec+GPB-500S&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6a",
+        "price": 1098,
+        "link": "https://ek.ua/en/clcp.php?ep_=8NPF031J592J1J1G431J512J1J32331J433J1J0G231J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3Q131L&model_=Chieftec+GPB-500S8+GPB-50&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1519,
+        "link": "https://ek.ua/en/clcp.php?ep_=1ANP031J59031J45131J512J1J30031J360J1J1N1J1J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A131L&model_=Chieftec+GPB-500S8+500W&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1519,
+        "link": "https://ek.ua/en/clcp.php?ep_=S6U8031J57331J421J1J512J1J320J1J1K2J1J36131J51331J424J1J27231J10531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J3A131L&model_=Chieftec+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 1564,
+        "link": "https://ek.ua/en/clcp.php?ep_=U7SC031J55331J28131J512J1J310J1J37131J4I231J51331J424J1J27231J13531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J2Q131L&model_=Chieftec+GPB-500S8+GPB-50&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1660,
+        "link": "https://ek.ua/en/clcp.php?ep_=P5PE031J55331J0K131J512J1J32031J0L0J1J3N131J51331J424J1J27231J13531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J1A131L&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Chieftec+gpb&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1519,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLOB031J58131J2K131J512J1J32331J4I031J340J1J51331J424J1J27231J13531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J0Q131L&model_=Chieftec+500W+%28GPB-500S8%29&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1625,
+        "link": "https://ek.ua/en/clcp.php?ep_=6CS4031J58431J0G031J512J1J313J1J3H1J1J4N431J51331J424J1J27231J13531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J522J&model_=Chieftec+GPB-500S8&idSite_=1&idGood_=800223"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1439,
+        "link": "https://ek.ua/en/clcp.php?ep_=6BR6031J543J1J271J1J512J1J32331J4K431J011J1J51331J424J1J27231J13531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J522J&model_=CHIEFTEC+500W+%28GPB-500S%29+&idSite_=1&idGood_=800223"
+      }
+    ],
+    "range": {
+      "minPrice": 1098,
+      "maxPrice": 2114
+    }
+  },
+  "brand": "Chieftec",
+  "description": "<p><span class=\"desc-ai-initcap\">W</span>ith such a power supply, you can significantly improve the efficiency of a computer system - the device can power the components with high quality, accurately observing the voltage and current parameters. The power of 500 W is enough to ensure stable operation of even a computer with gaming potential. This model has a single 4 + 4 pin connector in the list of connectors, which allows you to connect any modern processor.</p><p>To power the video card, one 6 + 2 pin connector is allocated. The connection to the motherboard is implemented by a combined 20+4 pin cable. The Chieftec iARENA GPB-500S power supply uses an active cooling system based on a 120mm fan. The impeller is quiet, as the intelligent control system regulates the fan speed, depending on the load level. The iARENA PSU series uses an improved component base. Such circuitry is more reliable and durable than in similar power solutions of the previous generation. The device has a good efficiency indicator. The power supply will allow you to create an inexpensive computer assembly with good potential. High-quality power supply of components will make the PC more reliable and productive.</p>",
+  "power": "500 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "85 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "certification": "without 80+",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+4 pin",
+  "PCIE8pin": 1,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "400 mm",
+  "cpuCableLength": "400 mm",
+  "PCIECableLength": "400 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a4"
+  },
+  "id": "BE-QUIET--BN344",
+  "name": "be quiet! Pure Power 12 M BN344",
+  "mainImage": "https://s.ek.ua/jpg/2386217.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 5899,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JRS031J552J1J18231J512J1J314J1J3J2J1J02331J51331J424J1J27231J17531J0A1J1J2H531J0Q1J1J51531J0Q0313711J1J52&model_=Be+Quiet%21+Pure+Power+12+M&idSite_=1&idGood_=2386217"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 5899,
+        "link": "https://ek.ua/en/clcp.php?ep_=QNUI031J573J1J3P131J512J1J304J1J050J1J17031J51331J424J1J27231J17531J0A1J1J2H531J0Q1J1J52531J0Q031371131J52&model_=BE+QUIET%21+Pure+Power+12+M&idSite_=1&idGood_=2386217"
+      }
+    ],
+    "range": {
+      "minPrice": 5899,
+      "maxPrice": 5899
+    }
+  },
+  "brand": "be quiet!",
+  "officialWebsite": "bequiet.com",
+  "power": "850 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "93 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "sliding",
+  "certification": "80+ Gold",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "550 mm",
+  "cpuCableLength": "600 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a5"
+  },
+  "id": "MSI-A850G-PCIE5",
+  "name": "MSI MPG PCIE5 A850G PCIE5",
+  "mainImage": "https://s.ek.ua/jpg/2283426.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BR0031J552J1J18231J512J1J30431J0P131J2P231J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J522J&model_=MSI+MPG+850W+PCIE5+%28A850G&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=0HM3031J51031J254J1J0Q0J1J2M031J4P0J1J252J1J4Q0J1J38131J4K3J1J231J1J50531J1L0J1J51531J1Q131J51531I0E0J1J4A131L&model_=MSI+MPG+A850G+PCIE5+850W+&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 6492,
+        "link": "https://ek.ua/en/clcp.php?ep_=54TQ031J560J1J0M1J1J512J1J312J1J1H4J1J4J331J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J522J&model_=Msi+Mpg+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 6338,
+        "link": "https://ek.ua/en/clcp.php?ep_=2MVL031J57331J421J1J512J1J320J1J220J1J4G2J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J54531J0Q031371331J522J&model_=MSI+850W+%28MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 6848,
+        "link": "https://ek.ua/en/clcp.php?ep_=UONS031J55331J0K131J512J1J321J1J060J1J040J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J522J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+msi+mpg+a850&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 6787,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ATN031J59331J193J1J512J1J32031J1K431J1P4J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J56531J0Q0313711J1J522J&model_=MSI+850W+%28MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 6321,
+        "link": "https://ek.ua/en/clcp.php?ep_=V6TV031J573J1J3P131J512J1J31131J022J1J0H331J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J57531J0Q031371131J522J&model_=MSI+MPG+A850G+PCIE5+MPG+A&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=V9PD031J58131J2K131J512J1J320J1J0K131J123J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J522J&model_=MSI+850W+%28MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PRK031J560J1J393J1J512J1J301J1J46331J15131J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J522J&model_=MSI+850W+%28MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHPF031J510J1J2H031J4Q0J1J2M031J403J1J1J431J4Q0J1J38131J4K3J1J231J1J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+850W+&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 6696,
+        "link": "https://ek.ua/en/clcp.php?ep_=I3SB031J510J1J27231J0A0J1J2M0J1J02431J49031J1Q0J1J38131J4K3J1J231J1J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+850W&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 6910,
+        "link": "https://ek.ua/en/clcp.php?ep_=VSUO031J55231J3P2J1J512J1J31031J1K4J1J2J1J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=6UOV031J552J1J03431J512J1J31231J3M2J1J202J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J522J&model_=MSI+850W+MPG+A850G+PCIE5+&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6318,
+        "link": "https://ek.ua/en/clcp.php?ep_=OHPH031J510J1J33331J0Q0J1J2M0J1J2G3J1J132J1J0A0J1J38131J4K3J1J231J1J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+%28MPGA&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 6632,
+        "link": "https://ek.ua/en/clcp.php?ep_=5CPV031J58431J0G031J512J1J313J1J3H231J1J2J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 7174,
+        "link": "https://ek.ua/en/clcp.php?ep_=7IOQ031J560J1J2N2J1J512J1J320J1J49031J3M431J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5+MPG+A&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=6OOO031J543J1J271J1J512J1J32231J210J1J0K4J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5+850W+&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 6893,
+        "link": "https://ek.ua/en/clcp.php?ep_=AJRO031J59231J354J1J512J1J322J1J27131J3M431J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 6528,
+        "link": "https://ek.ua/en/clcp.php?ep_=6FOE031J594J1J013J1J512J1J32331J0J031J201J1J51331J424J1J27231J1J531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J522J&model_=MSI+MPG+A850G+PCIE5+%28MPGA&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 6062,
+        "link": "https://ek.ua/en/clcp.php?ep_=OJO0031J51031J2I431J2A0J1J2M131J322J1J1J031J0Q0J1J38131J4K3J1J231J1J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+%28MPGA&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 6316,
+        "link": "https://ek.ua/en/clcp.php?ep_=R5R9031J510J1J36231J1Q0J1J2M131J34431J282J1J1A0J1J38131J4K3J1J23331J50531J1L0J1J51531J1Q131J0Q0J1J50721J0Q131L&model_=MSI+850W+%28MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=3SVG031J592J1J2P231J512J1J32331J2O4J1J3H3J1J51331J424J1J27231J1M531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3Q131L&model_=MSI+MPG+A850G+PCIE5&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 6649,
+        "link": "https://ek.ua/en/clcp.php?ep_=0APG031J59031J45131J512J1J30031J360J1J2N3J1J51331J424J1J27231J1M531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131L&model_=MSI+MPG+A850G+PCIE5+850W&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 7293,
+        "link": "https://ek.ua/en/clcp.php?ep_=O1PN031J510J1J33331J0Q0J1J2M0J1J2G3J1J19031J0A0J1J38131J4K3J1J23331J50531J1L0J1J51531J1Q131J2A0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+850W+&idSite_=1&idGood_=2283426"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 12558,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q1Q5031J510J1J33331J0Q0J1J2M0J1J2G4J1J0N1J1J0A0J1J38131J4K3J1J23331J50531J1L0J1J51531J1Q131J2Q0J1J50721J0Q131L&model_=MSI+MPG+A850G+PCIE5+850+%D0%92&idSite_=1&idGood_=2283426"
+      }
+    ],
+    "range": {
+      "minPrice": 6062,
+      "maxPrice": 12558
+    }
+  },
+  "brand": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>n advanced and highly efficient power supply for powerful, high performance computing systems. This model is compatible with the ATX 3.0 architecture, which allows you to power the latest solutions for motherboards, processors and graphics subsystems. The model has a 16-pin GPU connector with support for PCIe 5.0. Now it will be possible to use the latest generation video cards on the computer without any problems, like the NVIDIA GeForce RTX 40 and other similar solutions.</p><p>The device is certified according to the 80 Plus Gold standards, which guarantees high energy efficiency of the equipment. The MSI MPG PCIE5 A850G PCIE5 computer power supply is based on the state-of-the-art LLC Half Bridge converter, supplemented with a DC-DC system. Such a device provides the highest accuracy and maximum stability of the output voltage. The model is equipped with a fully modular wire design. To connect the components, practical flat cables are used, which are easily pulled along the assembly lines of the cable management. The power supply received a hybrid heat dissipation system. Silent cooling mode is activated with a special button.</p>",
+  "officialWebsite": "msi.com",
+  "power": "850 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "135 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Gold",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "SATA": 8,
+  "MOLEX": 4,
+  "PCIE8pin": 6,
+  "cableSystem": "modular",
+  "braidedWires": true
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a6"
+  },
+  "id": "AEROCOOL-VX-PLUS-600W",
+  "name": "Aerocool Value Plus VX Plus 600W",
+  "mainImage": "https://s.ek.ua/jpg/1412628.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=MONQ031J510J1J2H3J1J4Q0J1J2M0J1J002J1J0H131J2Q0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1J&model_=Aerocool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=NOPA031J510J1J2H3J1J4Q0J1J2M0J1J00331J1H231J2A0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q1J1J&model_=Aerocool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=4RTV031J552J1J18231J512J1J30431J0O4J1J2O4J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J53531J0Q0313720J1J531J&model_=Aerocool+VX+PLUS+600W+%28VX&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=THMI031J51031J254J1J0Q0J1J2M031J4P0J1J25031J4Q0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q231J51531I0E0J1J3Q1J1J&model_=Aerocool+VX+Plus+600W+%28VX&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=7F18031J57331J421J1J512J1J322J1J2P331J444J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J55531J0Q031371331J531J&model_=AeroCool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=57R8031J58331J054J1J512J1J30431J0H1J1J3I0J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J531J&model_=Aerocool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1580,
+        "link": "https://ek.ua/en/clcp.php?ep_=T8R0031J55331J0K131J512J1J32031J0L0J1J3O031J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J531J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Aerocool+vx+&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q1NV031J510J1J34131J3A0J1J2M131J09031J2J1J1J3A0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q1J1J&model_=AeroCool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=5D1E031J59431J282J1J512J1J32331J1L431J402J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J531J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+AeroCool+VX&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1607,
+        "link": "https://ek.ua/en/clcp.php?ep_=QQV0031J59331J193J1J512J1J32031J1M4J1J39031J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A1J1J&model_=AeroCool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KTR031J560J1J393J1J512J1J301J1J434J1J2M331J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q1J1J&model_=AeroCool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=ONO5031J58131J2K131J512J1J320J1J0K131J0J0J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q1J1J&model_=AeroCool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=SHPT031J510J1J2H031J4Q0J1J2M031J40331J222J1J3Q0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q1J1J&model_=AeroCool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=7RMD031J552J1J03431J512J1J30431J122J1J013J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J531J&model_=AeroCool+600W+VX+Plus+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=8GR3031J543J1J271J1J512J1J304J1J283J1J0J4J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J531J&model_=AEROCOOL+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=N3S6031J510J1J27231J0A0J1J2M0J1J023J1J454J1J0Q0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q1J1J&model_=Aerocool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=2RUJ031J55231J3P2J1J512J1J31031J1I4J1J30231J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BOV031J55131J153J1J512J1J31231J0I2J1J30031J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J531J&model_=AEROCOOL+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be22e",
+        "price": 1423,
+        "link": "https://ek.ua/en/clcp.php?ep_=UMO3031J510J1J104J1J0A0J1J2M0J1J3L431J0P231J3A0J1J38131J4K3J1J240J1J50531J1L0J1J51531J1Q0J1J4Q0J1J50721J0Q1J1J&model_=AeroCool+VX+600+PLUS&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=2TOD031J58431J0G031J512J1J313J1J3H231J0I2J1J51331J424J1J27231J21531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600+%28471&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1416,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHNS031J560J1J2N2J1J512J1J321J1J1N031J36031J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600+%28471&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=32N4031J583J1J122J1J512J1J32231J0M0J1J0J3J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600+%28471&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 1421,
+        "link": "https://ek.ua/en/clcp.php?ep_=5VPN031J592J1J32131J512J1J322J1J32231J0M4J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1290,
+        "link": "https://ek.ua/en/clcp.php?ep_=U5R7031J510J1J36231J1Q0J1J2M131J34431J1N331J3A0J1J38131J4K3J1J24231J50531J1L0J1J51531J1Q131J2A0J1J50721J0Q1J1J&model_=AeroCool+600W+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LTU031J592J1J2P231J512J1J32331J2O4J1J2M131J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J531J&model_=Aerocool+VX+PLUS+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6a",
+        "price": 1337,
+        "link": "https://ek.ua/en/clcp.php?ep_=9NU6031J592J1J1G431J512J1J32331J433J1J3K431J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3Q1J1J&model_=Aerocool+VX+PLUS+600+W+VX&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3AQ6031J59031J45131J512J1J30031J360J1J2H4J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3A1J1J&model_=Aerocool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1404,
+        "link": "https://ek.ua/en/clcp.php?ep_=U5R6031J55331J0K131J512J1J32031J0L0J1J401J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J52431J51531I0E0J1J2Q1J1J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+Aerocool+vx+&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1477,
+        "link": "https://ek.ua/en/clcp.php?ep_=UMN9031J55331J0K131J512J1J321J1J060J1J032J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J0Q1J1J&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F+AeroCool+600&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 1425,
+        "link": "https://ek.ua/en/clcp.php?ep_=UJRV031J55231J3P2J1J512J1J321J1J2J1J1J1J0J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J53031J51531I0E031J3Q1J1J&model_=Aerocool+4713105962772&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1362,
+        "link": "https://ek.ua/en/clcp.php?ep_=VQR7031J59031J45131J512J1J30031J360J1J3H431J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J530J1J51531I0E031J3A1J1J&model_=AeroCool+VX+Plus+600+600W&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6322e979332e9aa694169e3e",
+        "price": 1412,
+        "link": "https://ek.ua/en/clcp.php?ep_=TQR9031J59031J45131J512J1J30031J360J1J3J1J1J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J53131J51531I0E031J3A1J1J&model_=AeroCool+VX+600+PLUS&idSite_=1&idGood_=1412628"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 1488,
+        "link": "https://ek.ua/en/clcp.php?ep_=TQRV031J59031J45131J512J1J30031J360J1J49131J51331J424J1J27231J24531J0A1J1J2H531J0Q1J1J531J1J51531I0E031J3A1J1J&model_=Aerocool+VX+Plus+600W+%28VX&idSite_=1&idGood_=1412628"
+      }
+    ],
+    "range": {
+      "minPrice": 1290,
+      "maxPrice": 1607
+    }
+  },
+  "brand": "Aerocool",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of the most affordable branded 600W ATX 12V v2.3 computer power supplies with a passive PFC module. It is the middle model of the 2018 Aerocool Value Plus budget line, which includes 8 different units with nameplate power from 400 to 800 watts. It has standard overall dimensions and can be easily installed in any ATX cases. It is positioned as a product of the basic price category, designed for powering entry-level and mid-level gaming systems.</p><p>It can become a source of energy for the operation of inexpensive workstations (including those equipped with low / medium power graphics accelerators). The hardware basis of the Aerocool Value Plus VX Plus 600W power supply is a reliable platform with modern circuitry that is capable of providing 92% of the rated power along the + 12V line (at a current of up to 46 A). The unit is not 80 Plus certified, but at 50% load it is about 82% efficient, which is typical for such low cost solutions. The cable subsystem includes six main lines: ATX 24-pin (20+4), EPS/ATX12V 8-pin (4+4), two PCI-E 8-pin lines (6+2), combined 2xSATA+2xMOLEX 4 -pin and combined 2xSATA+MOLEX 4-pin+Floppy. The unit provides good output voltage stability, low ripple and no high-frequency noise. A controlled low-noise 120 mm fan is used to cool its own components.</p>",
+  "power": "600 W",
+  "formFactor": "ATX",
+  "PFC": "passive",
+  "efficiency": "82 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "sliding",
+  "certification": "without 80+",
+  "atx12vVersion": 2.3,
+  "powerSupply": "24+8 (4+4) pin",
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "500 mm",
+  "cpuCableLength": "550 mm",
+  "PCIECableLength": "400 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a7"
+  },
+  "id": "GIGABYTE-UD1000GM-PG5",
+  "name": "Gigabyte Ultra Durable PG5 UD1000GM PG5",
+  "mainImage": "https://s.ek.ua/jpg/2211796.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=ROPD031J510J1J2H3J1J4Q0J1J2M0J1J002J1J26431J1A0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1H&model_=Gigabyte+1000W+GP-UD1000G&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=1COM031J552J1J18231J512J1J30431J0P0J1J29131J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J530J&model_=Gigabyte+UD1000GM+PG5+100&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 6999,
+        "link": "https://ek.ua/en/clcp.php?ep_=01MG031J51031J254J1J0Q0J1J2M031J4P0J1J252J1J1Q0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q1J1J51531I0E0J1J3Q1J1H&model_=Gigabyte+1000W+GP-UD1000G&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 7311,
+        "link": "https://ek.ua/en/clcp.php?ep_=3EVB031J57331J421J1J512J1J320J1J1P3J1J2H3J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J54531J0Q031371331J530J&model_=GIGABYTE+1000W+%28GP-UD1000&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 7634,
+        "link": "https://ek.ua/en/clcp.php?ep_=4RTM031J55331J28131J512J1J310J1J381J1J4M4J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J530J&model_=Gigabyte+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 8062,
+        "link": "https://ek.ua/en/clcp.php?ep_=3DTK031J59331J193J1J512J1J32031J1M331J41431J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J56531J0Q031371131J530J&model_=GIGABYTE+1000W+%28GP-UD1000&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ORP031J560J1J393J1J512J1J313J1J0K431J1M2J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J530J&model_=GIGABYTE+1000W+%28GP-UD1000&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=5NUO031J58131J2K131J512J1J32331J4H431J4O3J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J530J&model_=GIGABYTE+1000W+%28GP-UD1000&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=4IQS031J552J1J03431J512J1J30431J12231J302J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J59531J0Q031371531J1H&model_=Gigabyte+1000W+UD1000GM+P&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 7457,
+        "link": "https://ek.ua/en/clcp.php?ep_=M3RK031J510J1J27231J0A0J1J2M0J1J02431J35131J2Q0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q1J1H&model_=GIGABYTE+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=VDOE031J55231J3P2J1J512J1J31031J1K0J1J1K1J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J530J&model_=Gigabyte+GP-UD1000GM+PG5&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 7241,
+        "link": "https://ek.ua/en/clcp.php?ep_=16Q3031J59131J3G4J1J512J1J31031J1P2J1J2I0J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J530J&model_=GIGABYTE+UD1000GM+PG5+UD1&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 7839,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHRB031J510J1J33331J0Q0J1J2M0J1J2G331J304J1J2A0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q1J1H&model_=Gigabyte+Gp-Ud1000Gm+Pg5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 7241,
+        "link": "https://ek.ua/en/clcp.php?ep_=3TOA031J58431J0G031J512J1J313J1J3H231J191J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J530J&model_=GIGABYTE+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 6999,
+        "link": "https://ek.ua/en/clcp.php?ep_=6DPG031J59231J354J1J512J1J32231J1G2J1J192J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J530J&model_=Gigabyte+UD1000GM+PG5+100&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 7859,
+        "link": "https://ek.ua/en/clcp.php?ep_=7VOA031J594J1J013J1J512J1J32331J0I331J074J1J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J530J&model_=Gigabyte+Gp-Ud1000Gm+Pg5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 7830,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ANQ031J560J1J2N2J1J512J1J32331J100J1J3H131J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J530J&model_=Gigabyte+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 7297,
+        "link": "https://ek.ua/en/clcp.php?ep_=4JQB031J51031J2I431J2A0J1J2M131J32231J412J1J4A0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q0J1J4A0J1J50721J0Q1J1H&model_=Gigabyte+Gp-Ud1000Gm+Pg5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LQ7031J510J1J36231J1Q0J1J2M131J344J1J094J1J4A0J1J38131J4K3J1J24431J50531J1L0J1J51531J1Q0J1J4Q0J1J50721J0Q1J1H&model_=GIGABYTE+1000W+%28GP-UD1000&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=1D0F031J592J1J2P231J512J1J32331J2O4J1J3I231J51331J424J1J27231J28531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3Q1J1H&model_=Gigabyte+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 8127,
+        "link": "https://ek.ua/en/clcp.php?ep_=VARK031J59031J45131J512J1J30031J360J1J3K3J1J51331J424J1J27231J2H531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A1J1H&model_=Gigabyte+1000W+PCI+Expres&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 7639,
+        "link": "https://ek.ua/en/clcp.php?ep_=KUTE031J51031J254J1J0Q0J1J2M0J1J03431J20031J0A0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J1A0J1J50721J0H531J1H&model_=Gigabyte+1000W+GP-UD1000G&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 6486,
+        "link": "https://ek.ua/en/clcp.php?ep_=MJSM031J510J1J27231J0A0J1J2M0J1J02431J46431J1Q0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J1Q0J1J50721J0Q1J1H&model_=GIGABYTE+UD1000GM+PG5+%28GP&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 7452,
+        "link": "https://ek.ua/en/clcp.php?ep_=VDQ7031J55231J3P2J1J512J1J31031J1K0J1J33031J51331J424J1J27231J2H531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J530J&model_=Gigabyte+UD1000GM+PG5&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6591,
+        "link": "https://ek.ua/en/clcp.php?ep_=NHQ3031J510J1J33331J0Q0J1J2M0J1J2G3J1J17031J1Q0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J2Q0J1J50721J0Q1J1H&model_=Gigabyte+GP-UD1000GM+PG5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 11271,
+        "link": "https://ek.ua/en/clcp.php?ep_=T1RS031J510J1J33331J0Q0J1J2M0J1J2G431J2G231J4Q0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J3A0J1J50721J0Q1J1H&model_=Gigabyte+Ultra+Durable+PG&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 12051,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q1QI031J510J1J33331J0Q0J1J2M0J1J2G4J1J0M2J1J0Q0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J3Q0J1J50721J0Q1J1H&model_=Gigabyte+GP-UD1000GM+PG5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 12597,
+        "link": "https://ek.ua/en/clcp.php?ep_=R1QJ031J510J1J33331J0Q0J1J2M0J1J2G4J1J0N031J3Q0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q131J4A0J1J50721J0Q1J1H&model_=Gigabyte+GP-UD1000GM+PG5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 8150,
+        "link": "https://ek.ua/en/clcp.php?ep_=60NM031J594J1J013J1J512J1J32331J0J031J29131J51331J424J1J27231J2H531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J530J&model_=Gigabyte+GP-UD1000GM+PG5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 7568,
+        "link": "https://ek.ua/en/clcp.php?ep_=PJRV031J51031J2I431J2A0J1J2M131J322J1J1K031J1A0J1J38131J4K3J1J250J1J50531J1L0J1J51531J1Q1J1J0A0J1J50721J07531J1H&model_=Gigabyte+GP-UD1000GM+PG5+&idSite_=1&idGood_=2211796"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 7659,
+        "link": "https://ek.ua/en/clcp.php?ep_=UNUK031J59031J45131J512J1J313J1J033J1J3I2J1J51331J424J1J27231J2H531J0A1J1J2H531J0Q1J1J530J1J51531I0E031J3A1J1H&model_=Gigabyte+1000W+80%2B+Gold+%28&idSite_=1&idGood_=2211796"
+      }
+    ],
+    "range": {
+      "minPrice": 6486,
+      "maxPrice": 12597
+    }
+  },
+  "brand": "Gigabyte",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> unique power supply designed to assemble a powerful gaming computer or computing station. The main feature of the device is the presence of a PCI-E 5.0 power line, which is represented by a 16 pin connector. This connection is suitable for powering video cards of the new generation, with a power of up to 600 watts. At the same time, there are four more PCI-E connectors with a 6 + 2 pin connector.</p><p>The device uses a modular design, which allows you not to clutter up the interior of the case with unnecessary wires. The Gigabyte Ultra Durable PG5 UD1000GM PG5 power supply received an improved cooling system. The fan with 120 mm blades is equipped with a hydrodynamic bearing and intelligent speed control. Additionally, a passive radiator with an increased heat absorption area is used. If the load on the PC does not exceed 20% of the maximum power of the power supply, then the fan stops completely. With such a unit, you do not have to worry about the safety of the power supply of expensive components. The device provides the most accurate and stable power supply of computer hardware. This model uses a multi-stage power protection and stabilization system.</p>",
+  "officialWebsite": "gigabyte.com",
+  "power": "1000 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Gold",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "600 mm",
+  "PCIECableLength": "600 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a8"
+  },
+  "id": "BE-QUIET--BN335",
+  "name": "be quiet! Dark Power 13 BN335",
+  "mainImage": "https://s.ek.ua/jpg/2386268.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 21099,
+        "link": "https://ek.ua/en/clcp.php?ep_=PUSF031J510J1J33331J0Q0J1J2M0J1J2G4J1J0M3J1J4A0J1J38131J4K3J1J252J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J53&model_=be+quiet%21+BN335+1000+%D0%92%D1%82&idSite_=1&idGood_=2386268"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 16216,
+        "link": "https://ek.ua/en/clcp.php?ep_=O0QB031J51031J2I431J2A0J1J2M131J322J1J1J031J1Q0J1J38131J4K3J1J252J1J50531J1L0J1J51531J1Q131J51531I0E0J1J53&model_=be+quiet%21+Dark+Power+13+A&idSite_=1&idGood_=2386268"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 13377,
+        "link": "https://ek.ua/en/clcp.php?ep_=MMTR031J510J1J33331J0Q0J1J2M131J284J1J220J1J2Q0J1J38131J4K3J1J252J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J53&model_=be+quiet%21+Dark+Power+13+A&idSite_=1&idGood_=2386268"
+      }
+    ],
+    "range": {
+      "minPrice": 13377,
+      "maxPrice": 21099
+    }
+  },
+  "brand": "be quiet!",
+  "officialWebsite": "bequiet.com",
+  "power": "1000 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "95 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "135 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Titanium",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "600 mm",
+  "cpuCableLength": "700 mm",
+  "PCIECableLength": "600 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52a9"
+  },
+  "id": "MSI-A1000G",
+  "name": "MSI MPG A1000G",
+  "mainImage": "https://s.ek.ua/jpg/2283403.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 12987,
+        "link": "https://ek.ua/en/clcp.php?ep_=JESK031J510J1J33331J0Q0J1J2M0J1J2G4J1J0M231J0Q0J1J38131J4K3J1J26131J50531J1L0J1J51531J1Q0J1J51531I0E0J1J57&model_=MSI+A1000G+1000+%D0%92%D1%82&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 9973,
+        "link": "https://ek.ua/en/clcp.php?ep_=44ST031J59231J354J1J512J1J32231J1G2J1J2N331J51331J424J1J27231J32531J0A1J1J2H531J0Q1J1J52531J0Q031371531N&model_=MSI+MPG+A1000G+1000W+%28306&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 8898,
+        "link": "https://ek.ua/en/clcp.php?ep_=27P9031J594J1J013J1J512J1J32331J0J031J26231J51331J424J1J27231J32531J0A1J1J2H531J0Q1J1J53531J0Q031371531N&model_=MSI+MPG+A1000G&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 8263,
+        "link": "https://ek.ua/en/clcp.php?ep_=TGQG031J51031J2I431J2A0J1J2M131J322J1J1J331J4Q0J1J38131J4K3J1J26131J50531J1L0J1J51531J1Q231J51531I0E0J1J57&model_=MSI+MPG+A1000G&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 11349,
+        "link": "https://ek.ua/en/clcp.php?ep_=R4O0031J510J1J33331J0Q0J1J2M0J1J2M0J1J023J1J4Q0J1J38131J4K3J1J26131J50531J1L0J1J51531J1Q2J1J51531I0E0J1J57&model_=MSI+MPG+A1000G&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 13377,
+        "link": "https://ek.ua/en/clcp.php?ep_=MKOF031J510J1J33331J0Q0J1J2M0J1J2M0J1J0H0J1J2Q0J1J38131J4K3J1J26131J50531J1L0J1J51531J1Q331J51531I0E0J1J57&model_=MSI+A1000G+1000+%D0%92%D1%82&idSite_=1&idGood_=2283403"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 7722,
+        "link": "https://ek.ua/en/clcp.php?ep_=O6U0031J510J1J33331J0Q0J1J2M131J284J1J22231J2A0J1J38131J4K3J1J26131J50531J1L0J1J51531J1Q3J1J51531I0E0J1J57&model_=MSI+MPG+A1000G&idSite_=1&idGood_=2283403"
+      }
+    ],
+    "range": {
+      "minPrice": 7722,
+      "maxPrice": 13377
+    }
+  },
+  "brand": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>his power supply is designed for modern PC builds with the highest levels of performance. The device has hardware support for the flagship 12th generation Intel Core processors and the latest NVIDIA GeForce RTX 30 series graphics cards. With the half-bridge design of the LLC converter, the output current parameters are incredibly high accuracy and stability at any level of power load.</p><p>Good energy efficiency of the device is confirmed by the 80+ Gold certificate. The MSI MPG A1000G computer power supply is equipped with a quiet yet powerful cooler. The standard 135 mm impeller uses a hydrodynamic bearing support. The fan can operate in semi-passive mode. When you press the Zero Fan button, the impeller will only work when the computer reaches a power of more than 400 watts. The wiring received a fully modular device. The set of interfaces includes seven separate PCI-E 6+2 pin connectors and two 4+4 pin connectors. This power supply uses Powered by MSI's design concept and hardware architecture. The device is well compatible with cases and other computer components of this series.</p>",
+  "officialWebsite": "msi.com",
+  "power": "1000 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "135 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Gold",
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 7,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "600 mm",
+  "cpuCableLength": "700 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52aa"
+  },
+  "id": "CORSAIR-TX650M",
+  "name": "Corsair TX-M Series TX650M",
+  "mainImage": "https://s.ek.ua/jpg/1206800.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644fbd8db68c4f46ebae956f",
+        "price": 3300,
+        "link": "https://ek.ua/en/clcp.php?ep_=UB2N031J59031J45131J512J1J321J1J1M331J40231J51331J424J1J27231J38531J0A1J1J2H531J0Q1J1J51531J1Q031370331J51&model_=Corsair+TX650M+%28CP-902013&idSite_=1&idGood_=1206800"
+      }
+    ],
+    "range": {
+      "minPrice": 3300,
+      "maxPrice": 3300
+    }
+  },
+  "brand": "Corsair",
+  "description": "<p><span class=\"desc-ai-initcap\">R</span>eliable 650 W ATX (v2.4) power supply with APFC-correction and semi-modular layout. It is the middle model of the Corsair TX-M Series device line, which includes high-quality and energy-efficient power supplies with power from 550 to 850 W. Positioned as the top mid-range product of 2017, designed to power high-performance gaming systems with top-end graphics cards and powerful workstations with demanding professional graphics accelerators.</p><p>This model is based on the current CWT hardware platform with modern circuitry (resonant LLC converter with DC-DC converters). Thanks to it, the Corsair TX-M Series CP-9020132 power supply shows excellent efficiency, corresponding to the level of 80 Plus Gold (92% efficiency at 50% of the nominal load). It also guarantees excellent stabilization of output voltages and the ability to deliver up to 612 W of power along the +12 V line (current up to 51 A). To cool the heating components of the device, a controlled 120 mm fan with a seven-blade impeller is used, the shape of which is optimized for efficient and quiet operation at low speeds. Such a cooler is almost silent at a load of up to 450 watts.</p>",
+  "power": "650 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "92 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "rolling",
+  "certification": "80+ Gold",
+  "atx12vVersion": 2.4,
+  "powerSupply": "24+8 (4+4) pin",
+  "PCIE8pin": 4,
+  "cableSystem": "semi-modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "750 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52ab"
+  },
+  "id": "ASUS-TUF-GAMING-850W-GOLD",
+  "name": "Asus TUF Gold TUF Gaming 850W Gold",
+  "mainImage": "https://s.ek.ua/jpg/2385631.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6708,
+        "link": "https://ek.ua/en/clcp.php?ep_=M6U1031J510J1J33331J0Q0J1J2M131J284J1J22231J3A0J1J38131J4K3J1J27131J50531J1L0J1J51531J1Q0J1J51531I0E0J1J57&model_=Asus+Zasilacz+TUF+Gaming+&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 7859,
+        "link": "https://ek.ua/en/clcp.php?ep_=17PM031J594J1J013J1J512J1J32331J0J031J24131J51331J424J1J27231J3I531J0A1J1J2H531J0Q1J1J52531J0Q031371531N&model_=Asus+Zasilacz+TUF+Gaming+&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 7297,
+        "link": "https://ek.ua/en/clcp.php?ep_=QGQH031J51031J2I431J2A0J1J2M131J322J1J1J231J3A0J1J38131J4K3J1J27131J50531J1L0J1J51531J1Q1J1J51531I0E0J1J57&model_=Asus+Zasilacz+TUF+Gaming+&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6864,
+        "link": "https://ek.ua/en/clcp.php?ep_=MMU2031J510J1J33331J0Q0J1J2M131J284J1J231J1J2Q0J1J38131J4K3J1J27131J50531J1L0J1J51531J1Q231J51531I0E0J1J57&model_=Asus+TUF+Gaming+850W+80+P&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6396,
+        "link": "https://ek.ua/en/clcp.php?ep_=MMU3031J510J1J33331J0Q0J1J2M131J284J1J24031J3Q0J1J38131J4K3J1J27131J50531J1L0J1J51531J1Q2J1J51531I0E0J1J57&model_=ASUS+TUF-GAMING-850G&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 7775,
+        "link": "https://ek.ua/en/clcp.php?ep_=37PS031J594J1J013J1J512J1J32331J0J031J26331J51331J424J1J27231J3I531J0A1J1J2H531J0Q1J1J56531J0Q031371531N&model_=ASUS+TUF-GAMING-850G&idSite_=1&idGood_=2385631"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 7220,
+        "link": "https://ek.ua/en/clcp.php?ep_=S0QH031J51031J2I431J2A0J1J2M131J322J1J1J3J1J1A0J1J38131J4K3J1J27131J50531J1L0J1J51531J1Q3J1J51531I0E0J1J57&model_=ASUS+TUF-GAMING-850G&idSite_=1&idGood_=2385631"
+      }
+    ],
+    "range": {
+      "minPrice": 6396,
+      "maxPrice": 7859
+    }
+  },
+  "brand": "Asus",
+  "officialWebsite": "asus.com",
+  "power": "850 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "92 %",
+  "coolingSystem": "semi-passive",
+  "fanSize": "135 mm",
+  "fanBearings": "rolling",
+  "certification": "80+ Gold",
+  "atx12vVersion": 3,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 3,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "610 mm",
+  "cpuCableLength": "650 mm",
+  "PCIECableLength": "675 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52ac"
+  },
+  "id": "DEEPCOOL-R-PK600D-FA0B-EU",
+  "name": "Deepcool PK-D R-PK600D-FA0B-EU",
+  "mainImage": "https://s.ek.ua/jpg/2329211.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=QORK031J510J1J2H3J1J4Q0J1J2M0J1J002J1J4P331J1A0J1J38131J4K3J1J27431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131I&model_=DeepCool+PK600D+600W+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=6RSH031J552J1J18231J512J1J30431J0P131J3L331J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J52531J0Q031371431J5213&model_=Deepcool+PK600D+600W+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2600,
+        "link": "https://ek.ua/en/clcp.php?ep_=5NR2031J560J1J0M1J1J512J1J313J1J24431J1M231J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5213&model_=DeepCool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2719,
+        "link": "https://ek.ua/en/clcp.php?ep_=5AVD031J543J1J35031J512J1J32231J391J1J303J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5213&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+DeepCool+PK&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=5E2V031J57331J421J1J512J1J322J1J2P4J1J342J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5213&model_=Deepcool+600W+PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MSU031J58331J054J1J512J1J30431J0H3J1J21131J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5213&model_=DeepCool+PK600D+600W+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1NH031J510J1J34131J3A0J1J2M131J09031J2J3J1J3A0J1J38131J4K3J1J27431J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q131I&model_=DeepCool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 2518,
+        "link": "https://ek.ua/en/clcp.php?ep_=3CVQ031J59431J282J1J512J1J32331J1M2J1J2M0J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J5213&model_=%D0%91%D0%BB%D0%BE%D0%BA+%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F+DeepCool+PK&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2797,
+        "link": "https://ek.ua/en/clcp.php?ep_=09SP031J59331J193J1J512J1J32031J1J3J1J0J0J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J59531J0Q0313711J1J5213&model_=Deepcool+600W+PK600D+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=RNST031J573J1J3P131J512J1J304J1J050J1J120J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131I&model_=DEEPCOOL+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KVG031J560J1J393J1J512J1J301J1J434J1J35331J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131I&model_=Deepcool+600W+PK600D+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=R5TD031J58131J2K131J512J1J321J1J22231J3L0J1J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131I&model_=Deepcool+600W+PK600D+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=THPF031J510J1J2H031J4Q0J1J2M031J40331J223J1J0A0J1J38131J4K3J1J27431J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131I&model_=DeepCool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=4AQR031J552J1J03431J512J1J30431J12231J3O031J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5213&model_=Deepcool+600W+PK600D+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=U3S7031J510J1J27231J0A0J1J2M0J1J02431J444J1J4Q0J1J38131J4K3J1J27431J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131I&model_=DeepCool+PK600D+600W+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79aa",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=3CV1031J55231J3P2J1J512J1J31031J1K3J1J37331J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5213&model_=Deepcool+R-PK600D-FA0B&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=4SSR031J543J1J271J1J512J1J31131J1L431J0J431J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5213&model_=DeepCool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=6CQJ031J58431J0G031J512J1J313J1J3H231J1I231J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5213&model_=Deepcool+600W+PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=71PE031J560J1J2N2J1J512J1J320J1J48231J1L231J51331J424J1J27231J3O531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5213&model_=Deepcool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5SI031J510J1J36231J1Q0J1J2M131J34331J4G2J1J2Q0J1J38131J4K3J1J27431J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q131I&model_=Deepcool+600W+PK600D+%28R-P&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=4D1M031J592J1J2P231J512J1J32331J2O4J1J3G4J1J51331J424J1J27231J40531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131I&model_=DeepCool+PK600D+%28R-PK600D&idSite_=1&idGood_=2329214"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2699,
+        "link": "https://ek.ua/en/clcp.php?ep_=0QS6031J59031J45131J512J1J30031J360J1J364J1J51331J424J1J27231J40531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131I&model_=DeepCool+PK600D+600W+%28R-P&idSite_=1&idGood_=2329214"
+      }
+    ],
+    "range": {
+      "minPrice": 2518,
+      "maxPrice": 2797
+    }
+  },
+  "brand": "Deepcool",
+  "officialWebsite": "deepcool.com",
+  "power": "600 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "85 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Bronze",
+  "atx12vVersion": 2.4,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 2,
+  "cableSystem": "non-modular",
+  "braidedWires": true,
+  "mbCableLength": "500 mm",
+  "cpuCableLength": "620 mm",
+  "PCIECableLength": "500 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52ad"
+  },
+  "id": "BE-QUIET--BN309",
+  "name": "be quiet! Straight Power 11 Platinum BN309",
+  "mainImage": "https://s.ek.ua/jpg/1720954.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 9499,
+        "link": "https://ek.ua/en/clcp.php?ep_=OHLK031J51031J254J1J0Q0J1J2M031J4P0J1J25231J0Q0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1H&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 9499,
+        "link": "https://ek.ua/en/clcp.php?ep_=N1Q2031J510J1J27231J0A0J1J2M0J1J023J1J4I031J3Q0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q131J51531I0E0J1J510J&model_=Be+Quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 12987,
+        "link": "https://ek.ua/en/clcp.php?ep_=UFO2031J510J1J33331J0Q0J1J2M0J1J2G4J1J0M331J3Q0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q1J1J51531I0E0J1J510J&model_=be+quiet%21+BN309+1000+%D0%92%D1%82&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 9505,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PTS031J59231J31231J512J1J322J1J25031J4P431J51331J424J1J27231J44531J0A1J1J2H531J0Q1J1J54531J0Q031371531J0H&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 9771,
+        "link": "https://ek.ua/en/clcp.php?ep_=47QQ031J594J1J013J1J512J1J32331J0J031J26431J51331J424J1J27231J44531J0A1J1J2H531J0Q1J1J55531J0Q031371531J0H&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 9073,
+        "link": "https://ek.ua/en/clcp.php?ep_=0QNF031J51031J2I431J2A0J1J2M131J322J1J1J3J1J2A0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q331J51531I0E031J3Q0J1H&model_=Be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 9499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BRP031J59031J45131J512J1J30031J360J1J30331J51331J424J1J27231J44531J0A1J1J2H531J0Q1J1J57531J0Q031370331J510J&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 13260,
+        "link": "https://ek.ua/en/clcp.php?ep_=S5JT031J510J1J33331J0Q0J1J2M0J1J2M0J1J0H131J0Q0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q431J51531I0E0J1J510J&model_=be+quiet%21+BN309+1000+%D0%92%D1%82&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 8736,
+        "link": "https://ek.ua/en/clcp.php?ep_=1NPE031J510J1J33331J0Q0J1J2M131J284J1J22331J3Q0J1J38131J4K3J1J28231J50531J1L0J1J51531J1Q4J1J51531I0E0J1J510J&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 9499,
+        "link": "https://ek.ua/en/clcp.php?ep_=4HVB031J59231J354J1J512J1J322J1J264J1J38231J51331J424J1J27231J44531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J510J&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 9502,
+        "link": "https://ek.ua/en/clcp.php?ep_=23MM031J591J1J073J1J512J1J322J1J28031J2H031J51331J424J1J27231J44531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J510J&model_=be+quiet%21+Straight+Power+&idSite_=1&idGood_=1720954"
+      }
+    ],
+    "range": {
+      "minPrice": 8736,
+      "maxPrice": 13260
+    }
+  },
+  "brand": "be quiet!",
+  "power": "1000 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "94 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "135 mm / Silent Wings 3 /",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Platinum",
+  "atx12vVersion": 2.51,
+  "powerSupply": "24+8+8(4+4) pin",
+  "PCIE8pin": 6,
+  "cableSystem": "modular",
+  "braidedWires": true,
+  "mbCableLength": "600 mm",
+  "cpuCableLength": "700 mm",
+  "PCIECableLength": "600 mm"
+},{
+  "_id": {
+    "$oid": "644fbda5b46cf6e12d2c52ae"
+  },
+  "id": "AZZA-PSAZ-750G",
+  "name": "AZZA PSAZ GOLD PSAZ-750G",
+  "mainImage": "https://s.ek.ua/jpg/2279336.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 3200,
+        "link": "https://ek.ua/en/clcp.php?ep_=T94H031J552J1J18231J512J1J30431J0O331J4P231J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J57&model_=Azza+750W+Gold+%28PSAZ-750G&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 3259,
+        "link": "https://ek.ua/en/clcp.php?ep_=PQRH031J51031J254J1J0Q0J1J2M0J1J42431J322J1J0A0J1J38131J4K3J1J29031J50531J1L0J1J51531J1Q131J51531I0E0J1J3Q3J&model_=AZZA+PSAZ-750G+750W+PSAZ-&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 3171,
+        "link": "https://ek.ua/en/clcp.php?ep_=UJ6O031J57331J421J1J512J1J320J1J202J1J43431J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J57&model_=AZZA+750W+%28PSAZ-750G%29&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 3389,
+        "link": "https://ek.ua/en/clcp.php?ep_=VR0D031J59331J193J1J512J1J322J1J46331J000J1J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J54531J0Q031371131J57&model_=Azza+750W+%28PSAZ-750G%29&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 3259,
+        "link": "https://ek.ua/en/clcp.php?ep_=1O10031J560J1J393J1J512J1J301J1J46331J14431J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J57&model_=Azza+750W+%28PSAZ-750G%29&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 3259,
+        "link": "https://ek.ua/en/clcp.php?ep_=QQ1S031J58131J2K131J512J1J320J1J0M331J22431J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J57&model_=Azza+750W+%28PSAZ-750G%29&idSite_=1&idGood_=2279336"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 3209,
+        "link": "https://ek.ua/en/clcp.php?ep_=22OL031J552J1J03431J512J1J30431J12231J00031J51331J424J1J27231J4G531J0A1J1J2H531J0Q1J1J57531J0Q031371531N&model_=AZZA+750W+PSAZ-750G+PSAZ-&idSite_=1&idGood_=2279336"
+      }
+    ],
+    "range": {
+      "minPrice": 3171,
+      "maxPrice": 3389
+    }
+  },
+  "brand": "AZZA",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of the most affordable branded 750W computer power supplies with modular cabling, active power factor compensation and high energy efficiency. Meets the ATX 12V v2.4 standard, has standard overall dimensions and considerable weight. Easily installs into any ATX case. It is the middle model in the AZZA PSAZ GOLD line, consisting of four blocks with a rated power of 550, 650, 750 and 850 watts.</p><p>It is positioned as a product of the middle price category in 2020, focused on use as part of high-performance gaming systems equipped with powerful graphics cards. Thanks to the support of the EPS 12V v2.92 standard, the AZZA PSAZ GOLD PSAZ-750G power supply can become a power source for operating workstations based on AMD Ryzen Threadripper (TR4) and Intel Xeon (LGA3647) HEDT platforms. Built on the basis of modern circuit solutions, it is able to provide a return of up to 90% of the rated power along the +12V line. It is over 90% efficient at 50% load and is 80 Plus Gold certified. The unit is cooled by a durable 120mm fan with a low-noise fluid dynamic bearing.</p>",
+  "officialWebsite": "azza.gg",
+  "power": "750 W",
+  "formFactor": "ATX",
+  "PFC": "active",
+  "efficiency": "90 %",
+  "coolingSystem": "1 fan",
+  "fanSize": "120 mm",
+  "fanBearings": "hydrodynamic",
+  "certification": "80+ Gold",
+  "atx12vVersion": 2.4,
+  "powerSupply": "24+8+8(4+4) pin",
+  "SATA": 6,
+  "MOLEX": 3,
+  "PCIE8pin": 4,
+  "cableSystem": "modular",
+  "braidedWires": true
+}]

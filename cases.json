@@ -1,0 +1,2989 @@
+[{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1010f"
+  },
+  "id": "JONSBO-D31-MESH-WHITE",
+  "name": "Jonsbo D31 Mesh white",
+  "mainImage": "https://s.ek.ua/jpg/2412140.jpg",
+  "brand": "Jonsbo",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2238,
+        "link": "https://ek.ua/en/clcp.php?ep_=1GKF031J510J1J2H3J1J4Q0J1J2M131J2N0J1J234J1J4A0J1J38131J4L131J2M331J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1K&model_=Jonsbo+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2101,
+        "link": "https://ek.ua/en/clcp.php?ep_=2J1D031J57331J421J1J512J1J320J1J241J1J3N231J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J52531J0Q031371331J5123&model_=JONSBO+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=SFOG031J51031J254J1J0Q0J1J2M131J16431J3G331J2A0J1J38131J4L131J2M331J50531J1L0J1J51531J1Q1J1J51531I0E0J1J2Q0J1K&model_=JONSBO+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 2100,
+        "link": "https://ek.ua/en/clcp.php?ep_=3M1A031J574J1J20331J512J1J32131J3N1J1J44031J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J5123&model_=Jonsbo+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=RTKL031J51031J25131J2A0J1J2M131J24031J3L431J0Q0J1J38131J4L131J2M331J50531J1L0J1J51531J1Q2J1J51531I0E0J1J2Q0J1K&model_=JONSBO+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2520,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KTH031J59331J193J1J512J1J32031J1K331J10231J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J56531J0Q031371131J5123&model_=JONSBO+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=6DSI031J560J1J393J1J512J1J31431J2G2J1J112J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J5123&model_=JONSBO+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5TL031J58131J2K131J512J1J320J1J0M3J1J17331J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5123&model_=JONSBO+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=6TSE031J552J1J03431J512J1J30431J12231J414J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0K&model_=Jonsbo+D31+Mesh+White+wit&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=6ASD031J543J1J271J1J512J1J304J1J292J1J0O4J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5123&model_=JONSBO+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MU3031J58431J0G031J512J1J313J1J3H2J1J3K0J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5123&model_=JONSBO+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2285,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JRG031J560J1J2N2J1J512J1J320J1J4G3J1J190J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5123&model_=Jonsbo+D31+MESH+White+D31&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2157,
+        "link": "https://ek.ua/en/clcp.php?ep_=1JS6031J592J1J2P231J512J1J32331J2K0J1J2P0J1J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3Q0J1K&model_=Jonsbo+D31+MESH+White&idSite_=1&idGood_=2412140"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 2553,
+        "link": "https://ek.ua/en/clcp.php?ep_=VORP031J59031J45131J512J1J301J1J2P331J12131J51331J424J1J2I2J1J36531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3A0J1K&model_=Jonsbo+%28D31+MESH+White%29&idSite_=1&idGood_=2412140"
+      }
+    ],
+    "range": {
+      "minPrice": 2100,
+      "maxPrice": 2553
+    }
+  },
+  "officialWebsite": "jonsbo.com",
+  "colour": "white",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "1x120мм"
+    },
+    {
+      "fans(Top)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Bottom)": "2x140мм / 3x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on the front",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Top)": "360mm"
+    },
+    {
+      "liquidCooling(Bottom)": "360mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10110"
+  },
+  "id": "1STPLAYER-F4-3B1",
+  "name": "1stPlayer F4-3B1 black",
+  "mainImage": "https://s.ek.ua/jpg/1986916.jpg",
+  "brand": "1stPlayer",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> Midi Tower computer platform can serve as an excellent solution for creating a gaming assembly. An interesting feature of the case is the design of the front panel. The front part is represented by a deep relief surface with triangular mesh inserts. The front panel is breathable, which greatly simplifies the task for the standard ventilation system. The model comes with three pre-installed 120mm turntables.</p><p>The 1stPlayer F4-3B1 computer case allows you to use full-sized components with increased performance. So, in place of the processor, you can put a tower up to 160 mm high, and when creating a graphics system, it is permissible to use a graphics card up to 300 mm long. The chassis layout provides the bottom location of the power supply. There are two slots for memory devices. You can use one drive 3.5″ and 2.5″. The spectacular front panel is complemented by a transparent sidewall, which is made of tinted tempered glass. The body itself is made of sheet steel with an average thickness of 0.5 mm. It's a well-ventilated, stylish platform that can accommodate an advanced gaming build.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=USNF031J510J1J2H3J1J4Q0J1J2M0J1J434J1J0H3J1J2Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131L&model_=1stPlayer+F4-3B1+Black+F4&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=5H12031J552J1J18231J512J1J313J1J0J4J1J2P231J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J52531J0Q031371431J522J&model_=1stPlayer+F4-3B1++%D0%91%D0%9F+Blac&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1410,
+        "link": "https://ek.ua/en/clcp.php?ep_=45UC031J543J1J35031J512J1J32231J391J1J04231J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J522J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+1STPLAYER+F4-3B1+B&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=7J06031J57331J421J1J512J1J32231J431J1J1G3J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J54531J0Q031371331J522J&model_=1stPlayer+F4-3B1&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=4NSP031J58331J054J1J512J1J313J1J0N031J3G031J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J522J&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=QAJL031J51031J254J1J0Q0J1J2M131J010J1J1J331J0Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q331J51531I0E0J1J2Q131L&model_=1stPlayer+F4-3B1+Black+F4&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1380,
+        "link": "https://ek.ua/en/clcp.php?ep_=3N2M031J59431J282J1J512J1J32331J1L4J1J1N0J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J522J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+1stPlayer+F4-3B1+B&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 1100,
+        "link": "https://ek.ua/en/clcp.php?ep_=01NO031J510J1J34131J3A0J1J2M131J381J1J372J1J3Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1317,
+        "link": "https://ek.ua/en/clcp.php?ep_=38TM031J59331J193J1J512J1J32031J1N331J043J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J59531J0Q031371131J522J&model_=1stPlayer+F4-3B1&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=2KQK031J560J1J393J1J512J1J313J1J38031J29331J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q131L&model_=1stPlayer+F4-3B1&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKS8031J58131J2K131J512J1J320J1J0M3J1J0H4J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131L&model_=1stPlayer+F4-3B1&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=O2NO031J510J1J2H031J4Q0J1J2M031J403J1J1O031J0Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NRP031J552J1J03431J512J1J313J1J0K131J3P0J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J522J&model_=1stPlayer+F4-3B1+Black+wi&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1129,
+        "link": "https://ek.ua/en/clcp.php?ep_=33T6031J543J1J271J1J512J1J313J1J212J1J0I0J1J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J522J&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q8NA031J510J1J27231J0A0J1J2M0J1J3M1J1J3K231J1Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=8PO5031J55131J153J1J512J1J313J1J360J1J13231J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J522J&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=48TG031J58431J0G031J512J1J31431J024J1J03331J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J522J&model_=1STPLAYER+F4-3B1+Black&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=8NRU031J560J1J2N2J1J512J1J320J1J43131J39431J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J522J&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=4CTN031J583J1J122J1J512J1J32231J0M031J4N131J51331J424J1J2I2J1J3K531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J522J&model_=1stPlayer+F4-3B1+Black&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1076,
+        "link": "https://ek.ua/en/clcp.php?ep_=SMUB031J510J1J36231J1Q0J1J2M131J34431J3M431J1Q0J1J38131J4L131J2N231J50531J1L0J1J51531J1Q131J0A0J1J50721J07531J15&model_=1stPlayer+F4-3B1&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=14QH031J59031J45131J512J1J313J1J3L131J0N131J51331J424J1J2I2J1J3M531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131L&model_=1stPlayer+F4-3B1+Black&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=0ITG031J59031J45131J512J1J313J1J03431J0M3J1J51331J424J1J2I2J1J3M531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "63219efd332e9aa694f9f03e",
+        "price": 1200,
+        "link": "https://ek.ua/en/clcp.php?ep_=22TG031J59031J45131J512J1J313J1J03431J0M4J1J51331J424J1J2I2J1J3M531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "644faab8b68c4f46eb9bf2f2",
+        "price": 1399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3JVB031J59031J45131J512J1J322J1J4K4J1J20231J51331J424J1J2I2J1J3M531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131L&model_=1stPlayer+F4-3B1+Black&idSite_=1&idGood_=1986916"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=0ORT031J59031J45131J512J1J31431J1P2J1J0J031J51331J424J1J2I2J1J3M531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131L&model_=1stPlayer+F4-3B1+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986916"
+      }
+    ],
+    "range": {
+      "minPrice": 1076,
+      "maxPrice": 1410
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "openMechanism": "removable panel",
+  "fansTotal": "3",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "3.79 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10111"
+  },
+  "id": "GOLDEN-FIELD-M8B-500W",
+  "name": "Golden Field M8B 500W PSU 500 W  black",
+  "mainImage": "https://s.ek.ua/jpg/1986830.jpg",
+  "brand": "Golden Field",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> relatively inexpensive case that can serve as the best solution if the computer is going to be based on a compact format motherboard: micro-ATX or mini-ITX. First of all, let's pay attention to the fact that the case has a pre-installed 500W power supply on board. This model uses the top location of the power supply, as in classic computer platforms. Also, this system unit may appeal to fans of colorful lighting effects - on the front cover there are several LED strips that shimmer with all shades of the RGB spectrum.</p><p>Computer case Golden Field M8B 500W is designed to demonstrate the internal architecture. The transparent side cover allows you to freely get acquainted with the features of the installed components. The platform is blown through the ventilation channels, which are located along the side faces of the front cover. The cooling of the system unit can be significantly improved by adding air fans to the chassis (120 mm front and 80 mm rear). The case has four slots for installing PCI-E expansion cards. This model will allow you to equip your computer system with two 3.5″ drives. If necessary, it will be possible to install a 2.5 ″ solid-state drive.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2213,
+        "link": "https://ek.ua/en/clcp.php?ep_=5VSM031J57331J421J1J512J1J320J1J400J1J163J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51531J0Q031371331J5203&model_=Golden+Field+M8B&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e51",
+        "price": 1190,
+        "link": "https://ek.ua/en/clcp.php?ep_=8CR7031J54331J0J3J1J512J1J30431J1G331J0N3J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J52531J0Q0313712J1J5203&model_=Golden+Field+M8B+500W&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2438,
+        "link": "https://ek.ua/en/clcp.php?ep_=U1TM031J55331J0K131J512J1J32031J0K431J220J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J5203&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+%D1%96%D0%B3%D1%80%D0%BE%D0%B2%D0%B8%D0%B9+golden+fie&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1128,
+        "link": "https://ek.ua/en/clcp.php?ep_=5HQM031J58331J054J1J512J1J321J1J310J1J300J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J5203&model_=Golden+Field+M8B+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1158,
+        "link": "https://ek.ua/en/clcp.php?ep_=5NQR031J59431J282J1J512J1J32331J1M031J0H4J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J5203&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Golden+Field+Phant&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=4TR1031J552J1J03431J512J1J30431J122J1J102J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J56531J0Q031371531J10&model_=Golden+Field+M8B+Black+wi&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1047,
+        "link": "https://ek.ua/en/clcp.php?ep_=V3MB031J510J1J2H031J4Q0J1J2M031J423J1J31131J3Q0J1J38131J4L131J2O0J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J5203&model_=Golden+Field+Phantom+M8B+&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1149,
+        "link": "https://ek.ua/en/clcp.php?ep_=3FTQ031J58431J0G031J512J1J313J1J3H2J1J1P331J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J58531J0Q031371531J10&model_=Golden+Field+M8B&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1169,
+        "link": "https://ek.ua/en/clcp.php?ep_=2IS3031J560J1J2N2J1J512J1J320J1J462J1J19231J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J59531J0Q031371531J10&model_=Golden+Field+%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+M8B+B&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1174,
+        "link": "https://ek.ua/en/clcp.php?ep_=VAT4031J543J1J271J1J512J1J32131J38131J42031J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5203&model_=Golden+Field+Phantom+M8B+&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 1199,
+        "link": "https://ek.ua/en/clcp.php?ep_=43QG031J55131J153J1J512J1J321J1J30331J30231J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5203&model_=Golden+Field+Phantom+M8B+&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 1252,
+        "link": "https://ek.ua/en/clcp.php?ep_=7AUJ031J583J1J122J1J512J1J32231J444J1J36431J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5203&model_=Golden+Field+M8B+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1174,
+        "link": "https://ek.ua/en/clcp.php?ep_=5VU8031J592J1J2P231J512J1J32331J300J1J3K4J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3Q131G&model_=Golden+Field+M8B+%D0%B1%D0%B5%D0%B7+%D0%91%D0%96&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6d",
+        "price": 1091,
+        "link": "https://ek.ua/en/clcp.php?ep_=2OVE031J59031J45131J512J1J30231J294J1J20431J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3A131G&model_=Golden+Field+M8B+w%2Fo+PSU&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1047,
+        "link": "https://ek.ua/en/clcp.php?ep_=2U0V031J57331J421J1J512J1J322J1J1G0J1J4I331J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J3A131G&model_=Golden+Field+M8B+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1091,
+        "link": "https://ek.ua/en/clcp.php?ep_=UFUO031J55331J0K131J512J1J32031J0K431J292J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J2Q131G&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+%D1%96%D0%B3%D1%80%D0%BE%D0%B2%D0%B8%D0%B9+golden+fie&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1150,
+        "link": "https://ek.ua/en/clcp.php?ep_=THT5031J55331J0K131J512J1J321J1J06031J4M231J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J0Q131G&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Golden+Field+m8b+B&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1137,
+        "link": "https://ek.ua/en/clcp.php?ep_=4OTS031J58431J0G031J512J1J32231J124J1J2H431J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5203&model_=Golden+Field+M8B+w%2Fo+PSU&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2522,
+        "link": "https://ek.ua/en/clcp.php?ep_=8FV3031J560J1J2N2J1J512J1J32331J234J1J2H4J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3Q131G&model_=Golden+Field+%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Phant&idSite_=1&idGood_=1986830"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1115,
+        "link": "https://ek.ua/en/clcp.php?ep_=VJ18031J59031J45131J512J1J32231J4J3J1J4N0J1J51331J424J1J2I2J1J41531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131G&model_=Golden+Field+M8B+Black+%D0%B1%D0%B5&idSite_=1&idGood_=1986830"
+      }
+    ],
+    "range": {
+      "minPrice": 1047,
+      "maxPrice": 2522
+    }
+  },
+  "officialWebsite": "goldenfield.com.ua",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "PSU": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x80мм"
+    },
+    {
+      "fans(Front)": "1x120мм"
+    }
+  ],
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "blind door",
+  "weight": "2.9 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10112"
+  },
+  "id": "NZXT-H1-CA-H16WR-WB",
+  "name": "NZXT H1 white",
+  "mainImage": "https://s.ek.ua/jpg/1756246.jpg",
+  "brand": "NZXT",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>his is an ultra-compact case designed to build a high-performance gaming system. Based on a 13-liter Mini Tower platform with a chassis for a Mini-ITX motherboard. This box has a unique cooling system. The NZXT H1 computer case comes with a self-contained liquid cooling system. A 140mm radiator serves the seat for the CPU. Now there is no need to use a tall and bulky air tower for effective CPU cooling.</p><p>This task is perfectly handled by a standard cooler with ultra-compact dimensions and phenomenally high performance. At the same time, a classic 140 mm air fan is also provided in the case. Additionally, the case set also includes a PCIe 16x Gen3 riser, with which you can put the graphics card vertically. The mounting location of the power supply unit is already equipped with a 650 W unit from the factory. The standard power supply has an SFX-L form factor, it is certified according to 80Plus Gold standards. The panel with motherboard connectors is displayed on the bottom cover. On top you can find three ports: USB 3.0, USB Type C 3.0 and a combo jack for connecting a headset.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 6900,
+        "link": "https://ek.ua/en/clcp.php?ep_=M9LM031J510J1J2H3J1J4Q0J1J2M0J1J001J1J282J1J1A0J1J38131J4L131J2P031J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1J&model_=NZXT+H1+MATTE+WHITE+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 7499,
+        "link": "https://ek.ua/en/clcp.php?ep_=7KVD031J552J1J18231J512J1J30431J0O4J1J193J1J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J52531J0Q031371431J511J&model_=NZXT+H1+650W+Tempered+Gla&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 6741,
+        "link": "https://ek.ua/en/clcp.php?ep_=71VC031J560J1J0M1J1J512J1J313J1J243J1J4O331J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J511J&model_=Nzxt+H1+Matte+White+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 6741,
+        "link": "https://ek.ua/en/clcp.php?ep_=651T031J543J1J35031J512J1J32231J39131J48431J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J511J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Nzxt+H1+Matte+Whit&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 6542,
+        "link": "https://ek.ua/en/clcp.php?ep_=141O031J57331J421J1J512J1J320J1J1L2J1J25131J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J55531J0Q031371331J511J&model_=NZXT+H1+MATTE+WHITE+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 7098,
+        "link": "https://ek.ua/en/clcp.php?ep_=O1NJ031J51031J25131J2A0J1J2M0J1J18431J2H431J2Q0J1J38131J4L131J2P031J50531J1L0J1J51531J1Q331J51531I0E0J1J0Q0J1J&model_=NZXT+H1+MATTE+WHITE+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 6899,
+        "link": "https://ek.ua/en/clcp.php?ep_=0SQR031J55131J153J1J512J1J31031J41231J1K031J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0J&model_=NZXT+H1+Matte+White+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 7098,
+        "link": "https://ek.ua/en/clcp.php?ep_=41SD031J552J1J03431J512J1J31231J3M2J1J27131J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0J&model_=NZXT+H1+650W+NP-S650M+Mat&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 6542,
+        "link": "https://ek.ua/en/clcp.php?ep_=3VV4031J58431J0G031J512J1J313J1J3H2J1J303J1J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0J&model_=NZXT+H1+Matte+White+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 7328,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LS1031J560J1J2N2J1J512J1J320J1J421J1J30131J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J511J&model_=NZXT+H1+Matte+White+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 7098,
+        "link": "https://ek.ua/en/clcp.php?ep_=39TN031J543J1J271J1J512J1J322J1J4O0J1J360J1J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J511J&model_=NZXT+H1+MATTE+WHITE+%28CA-H&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 6919,
+        "link": "https://ek.ua/en/clcp.php?ep_=1FUC031J592J1J2P231J512J1J32331J300J1J3M0J1J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3Q0J1J&model_=NZXT+H1+Mini-ITX+Case+wit&idSite_=1&idGood_=1756246"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 6935,
+        "link": "https://ek.ua/en/clcp.php?ep_=28S3031J59031J45131J512J1J31431J1P2J1J0I2J1J51331J424J1J2I2J1J4G531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3A0J1J&model_=NZXT+H1+Matte+White+%28CA-H&idSite_=1&idGood_=1756246"
+      }
+    ],
+    "range": {
+      "minPrice": 6542,
+      "maxPrice": 7499
+    }
+  },
+  "officialWebsite": "nzxt.com",
+  "colour": "white",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "rubberFeet": true,
+  "PSU": true,
+  "expansionSlots": 2,
+  "openMechanism": "removable panel",
+  "fansInfo": [],
+  "dustFilter": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "6.53 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10113"
+  },
+  "id": "2E-GAMING-CALLEO-GB700",
+  "name": "2E GAMING CALLEO GB700 black",
+  "mainImage": "https://s.ek.ua/jpg/1904671.jpg",
+  "brand": "2E",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> compact chassis with enough features to build a stylish and performant computer system. A high performance cooling system is used inside the Mini Tower platform. So, behind the front panel, which is made of a metal grill, three 120 mm fans are mounted. Additionally, a 120 mm impeller is mounted at the rear. The whole set of standard fans is equipped with an interesting ARGB backlight.</p><p>The 2E GAMING CALLEO GB700 case is designed to install a microATX or Mini-ITX motherboard. You can cool the processor with a 150 mm tower. When creating a video subsystem, it is permissible to use graphics with a length of 320 mm. For the construction of the media library, two seats are provided for 3.5″ and 2.5″. This case has an excellent design. The presence of a tempered glass sidewall adds prestige to the platform and opens up a chic view of the beauty of computing power. The motherboard can be equipped with four PCI expansion cards, their seats are reserved by plugs. The I / O panel is represented by two USB 2.0 ports, as well as one USB 3.2 gen 1 connector and a pair of traditional audio jacks (3.5 mm). The power supply is allocated space in the lower section, which is separated from the main chassis.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=PPK1031J510J1J2H3J1J4Q0J1J2M0J1J00131J0J031J2Q0J1J38131J4L131J2P4J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131J&model_=2E+CALLEO+%282E-GB700%29+2E-G&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=00SN031J561J1J00131J512J1J32331J242J1J300J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J52531J0Q031371531J13&model_=2E+Gaming+Calleo+%282E-GB70&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=AKVO031J552J1J18231J512J1J322J1J471J1J484J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J53531J0Q031371431J521J&model_=2E+Gaming+CALLEO+ARGB+Tem&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be21f",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=RUUU031J51031J3L531J0L331J0L231J33331J3H531J0M431J192J1J154J1J4Q031J532J1J0Q0J1J53531J2A0J1J50721J0N531J13&model_=2E+Gaming+CALLEO+%282E-GB70&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JU8031J560J1J0M1J1J512J1J321J1J2L231J4O031J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J521J&model_=2E+Gaming+Calleo+GB700+%282&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=6M28031J543J1J35031J512J1J32231J39131J484J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J56531J0Q0313713J1J521J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+2E+Gaming+Calleo+G&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320d063332e9aa694203f0d",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=3A01031J59031J4O331J512J1J2P331J0O1J1J3M031J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J57531J0Q031371331J521J&model_=2E+Gaming+CALLEO+%282E-GB70&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1752,
+        "link": "https://ek.ua/en/clcp.php?ep_=053L031J57331J421J1J512J1J320J1J1L331J36031J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J58531J0Q031371331J521J&model_=2E+CALLEO+%282E-GB700%29&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=42K5031J51031J254J1J0Q0J1J2M031J4P0J1J23331J2Q0J1J38131J4L131J2P4J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J2Q131J&model_=2E+Calleo+%282E-GB700%29+2E-G&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 1852,
+        "link": "https://ek.ua/en/clcp.php?ep_=R0V3031J55331J28131J512J1J32131J152J1J1L0J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q131J&model_=2E+Gaming+Calleo+GB700+Bl&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2203,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VSI031J55331J0K131J512J1J32231J442J1J0O3J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J1A131J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+2e+Gaming+calleo+%28&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=42V4031J560J1J393J1J512J1J301J1J46431J1N4J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131J&model_=2E+CALLEO+%282E-GB700%29&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GST031J58131J2K131J512J1J32331J121J1J234J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J0Q131J&model_=2E+CALLEO+%282E-GB700%29&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1840,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NT3031J58431J0G031J512J1J313J1J3H2J1J1H131J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J521J&model_=2E+Gaming+CALLEO+%282E-GB70&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q3P9031J510J1J27231J0A0J1J2M131J014J1J2J331J1A0J1J38131J4L131J2P4J1J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131J&model_=2E+Gaming+CALLEO+%28GB700%29+&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2147,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MRQ031J560J1J2N2J1J512J1J320J1J42331J10231J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J521J&model_=2E+Gaming+CALLEO+GB700+%282&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=2L0R031J543J1J271J1J512J1J32231J124J1J21131J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J521J&model_=2E+gaming+CALLEO+%28GB700%29+&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=AQRF031J55131J153J1J512J1J322J1J47031J4N331J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J521J&model_=2E+Gaming+Calleo+GB700+Bl&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=06QQ031J510J1J36231J1Q0J1J2M131J344J1J353J1J0A0J1J38131J4L131J2P4J1J50531J1L0J1J51531J1Q0J1J4Q0J1J50721J0Q131J&model_=2E+CALLEO+%282E-GB700%29&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=3FV2031J592J1J2P231J512J1J32331J300J1J3I3J1J51331J424J1J2I2J1J4P531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3Q131J&model_=2E+Gaming+CALLEO+GB700+%282&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 1941,
+        "link": "https://ek.ua/en/clcp.php?ep_=S5QJ031J59031J45131J512J1J30031J36131J40031J51331J424J1J2I331J02531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131J&model_=2E+Gaming+Calleo+%28GB700%29+&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2076,
+        "link": "https://ek.ua/en/clcp.php?ep_=V0T1031J58431J0G031J512J1J32231J124J1J2H331J51331J424J1J2I331J02531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3Q131J&model_=2E+Gaming+CALLEO+GB700+%282&idSite_=1&idGood_=1904671"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2169,
+        "link": "https://ek.ua/en/clcp.php?ep_=11PJ031J59031J45131J512J1J30331J3I2J1J1G0J1J51331J424J1J2I331J02531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131J&model_=2E+Gaming+Calleo+%28GB700%29&idSite_=1&idGood_=1904671"
+      }
+    ],
+    "range": {
+      "minPrice": 1752,
+      "maxPrice": 2203
+    }
+  },
+  "officialWebsite": "2e.ua",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansTotal": "4 / 120 /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "4.1 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10114"
+  },
+  "id": "DEEPCOOL-MATREXX-55-MESH",
+  "name": "Deepcool Matrexx 55 MESH black",
+  "mainImage": "https://s.ek.ua/jpg/1654814.jpg",
+  "brand": "Deepcool",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>his case can serve as a good basis for assembling a powerful and performant gaming system. The MidiTower platform can accommodate almost any motherboard size, from miniature Mini-ITX and microATX to full-fledged ATX. There is enough space on the chassis to install high-performance graphics and a TOP processor. The maximum length of the graphics card reaches 370 mm, and the maximum height of the processor cooling is 168 mm.</p><p>The Deepcool Matrexx 55 MESH case received a perforated front panel with a removable filter. There are perforations covered by protection both on the top panel and on the bottom. To reduce the cost of the case, the manufacturer did not provide a single fan in the standard package, so the coolers will have to be purchased separately. But in total, the case provides 6 seats for the installation of 120 mm fans. From hard drives, you can use 4 HDDs and 2 SSDs. The right side of the system unit is a solid sheet of high-strength tempered glass, while the panel thickness is 4 mm. This case has an older modification, MATREXX 55 ADD-RGB 3F, which additionally provides RGB lighting, 3 standard fans and a tempered glass front panel.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=7HSH031J560J1J0M1J1J512J1J313J1J243J1J4M3J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J512J&model_=Deepcool+Matrexx+55+Mesh+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=64V1031J543J1J35031J512J1J32231J39131J45431J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J512J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Deepcool+Matrexx+5&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=5HRQ031J57331J421J1J512J1J32231J431J1J001J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J53531J0Q031371331J512J&model_=Deepcool+MATREXX+55+MESH&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=V2JV031J51031J254J1J0Q0J1J2M031J4P0J1J240J1J2Q0J1J38131J4L131J304J1J50531J1L0J1J51531J1Q231J51531I0E0J1J2Q0J1L&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2293,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JSH031J55331J28131J512J1J31431J17031J401J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J55531J0Q0313711J1J512J&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=0FTR031J573J1J3P131J512J1J32231J212J1J0N1J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J512J&model_=DEEPCOOL+Matrexx+55+Mesh+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=1FUT031J543J1J271J1J512J1J31131J1L3J1J49431J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0L&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=5FOP031J552J1J03431J512J1J31131J34331J1O431J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0L&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3JJS031J510J1J27231J0A0J1J2M0J1J43031J1K1J1J4Q0J1J38131J4L131J304J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J512J&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=T9O4031J58431J0G031J512J1J322J1J0K131J110J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J512J&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3FR5031J592J1J2P231J512J1J32331J300J1J44331J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3Q0J1L&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 2552,
+        "link": "https://ek.ua/en/clcp.php?ep_=ULQ2031J59031J45131J512J1J30031J36131J3N231J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3A0J1L&model_=Deepcool+MATREXX+55+MESH+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=2NO4031J59031J45131J512J1J30431J18031J2P3J1J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3A0J1L&model_=DeepCool+Matrexx+55+MESH&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=TLSH031J59031J45131J512J1J321J1J1M331J44031J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3A0J1L&model_=DEEPCOOL+Matrexx+55+Mesh+&idSite_=1&idGood_=1654814"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6d",
+        "price": 2244,
+        "link": "https://ek.ua/en/clcp.php?ep_=6GT0031J59031J45131J512J1J32331J4H431J3J431J51331J424J1J2I331J09531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3A0J1L&model_=Deepcool+MATREXX+55+MESH&idSite_=1&idGood_=1654814"
+      }
+    ],
+    "range": {
+      "minPrice": 2244,
+      "maxPrice": 2552
+    }
+  },
+  "officialWebsite": "deepcool.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "1",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidPlacement": "on the front",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "280mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "6.6 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10115"
+  },
+  "id": "1STPLAYER-V3-A-4G6",
+  "name": "1stPlayer V3-A-4G6 black",
+  "mainImage": "https://s.ek.ua/jpg/1930080.jpg",
+  "brand": "1stPlayer",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> well-balanced gaming platform from an affordable price segment. The case is created in the classic Midi Tower format. The manufacturer provides four standard 120 mm fans. There are three turntables on the front panel, and one more cooler is mounted on the rear wall. The presence of fans allows the platform to ensure the stable operation of performant components. This case is decorated with panels made of durable glass, which is used on the viewing sidewall and in front.</p><p>Transparent panels offer stunning views of the illumination and chassis architecture. For air intake from the front, the glass panel has a gap around the perimeter. The 1stPlayer V3-A-4G6 computer case is able to accommodate components of almost any power. The limit for the length of the graphics card is 330 mm, the limit for the height of the processor cooling is at the level of 160 mm. You can put a full-size ATX-compatible power supply in the case. The pre-installed cooling system can be greatly improved. The housing has four additional places for 120 mm impellers. The chassis allows you to discreetly lay the wiring, for this purpose thought-out cable management is provided. The power supply is located behind a decorative casing, at the bottom of the platform.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=T0MR031J510J1J2H3J1J4Q0J1J2M131J07131J324J1J1Q0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131M&model_=1stPlayer+V3-A-4G6+V3-A-4&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=60V5031J552J1J18231J512J1J313J1J0J4J1J2P2J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J52531J0Q031371431J5233&model_=1stPlayer+V3-A-4G6++%D0%91%D0%9F+Bl&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1692,
+        "link": "https://ek.ua/en/clcp.php?ep_=5LST031J543J1J35031J512J1J32231J391J1J0I3J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5233&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+1STPLAYER+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=42TV031J57331J421J1J512J1J32231J431J1J16031J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5233&model_=1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=97QL031J58331J054J1J512J1J313J1J0N031J394J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5233&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=TAK0031J51031J254J1J0Q0J1J2M131J010J1J1J331J2A0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q331J51531I0E0J1J2Q131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=77RQ031J59431J282J1J512J1J32331J1M0J1J0O431J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5233&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 1380,
+        "link": "https://ek.ua/en/clcp.php?ep_=0HO3031J510J1J34131J3A0J1J2M131J381J1J372J1J2Q0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1628,
+        "link": "https://ek.ua/en/clcp.php?ep_=18UU031J59331J193J1J512J1J32031J1N231J491J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J59531J0Q031371131J5233&model_=1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KO8031J560J1J393J1J512J1J313J1J38031J29231J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q131M&model_=1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=PKPR031J58131J2K131J512J1J320J1J0M3J1J0G1J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131M&model_=1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=TIO3031J510J1J2H031J4Q0J1J2M031J403J1J1O0J1J4A0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=67Q4031J552J1J03431J512J1J313J1J0K131J41331J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5233&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1425,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JR9031J543J1J271J1J512J1J313J1J212J1J0I031J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5233&model_=1STPLAYER+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=U8NL031J510J1J27231J0A0J1J2M0J1J3M1J1J3K1J1J4Q0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=79LB031J55131J153J1J512J1J313J1J360J1J060J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5233&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ORJ031J58431J0G031J512J1J31431J024J1J033J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5233&model_=1STPLAYER+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=87Q1031J560J1J2N2J1J512J1J320J1J43131J393J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5233&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=6SRP031J583J1J122J1J512J1J32231J0M031J4M3J1J51331J424J1J2I331J0N531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5233&model_=1stPlayer+V3-A-4G6+Black&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1340,
+        "link": "https://ek.ua/en/clcp.php?ep_=SMR6031J510J1J36231J1Q0J1J2M131J34431J3M1J1J3Q0J1J38131J4L131J313J1J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q131M&model_=1stPlayer+V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=13R2031J592J1J2P231J512J1J32331J2K0J1J2O131J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131M&model_=1stPlayer+V3-A-4G6+Black&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3OPL031J59031J45131J512J1J31431J1P2J1J0G4J1J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131M&model_=1stPlayer+V3-A-4G6+Black&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=0IRB031J59031J45131J512J1J313J1J03431J0M331J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "644fd1acb68c4f46ebc362f1",
+        "price": 1656,
+        "link": "https://ek.ua/en/clcp.php?ep_=31SP031J59031J45131J512J1J314J1J22331J34231J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131M&model_=1stPlayer+V3-A-4G6.+55703&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 1595,
+        "link": "https://ek.ua/en/clcp.php?ep_=32RP031J59031J45131J512J1J32231J4J431J131J1J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131M&model_=1stPlayer+Black+%28V3-A-4G6&idSite_=1&idGood_=1930080"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1499,
+        "link": "https://ek.ua/en/clcp.php?ep_=58PN031J59031J45131J512J1J31431J1P2J1J0I431J51331J424J1J2I331J10531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131M&model_=1stPlayer+V3-A-4G6+Black+&idSite_=1&idGood_=1930080"
+      }
+    ],
+    "range": {
+      "minPrice": 1340,
+      "maxPrice": 1692
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "4",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    },
+    {
+      "fans(Bottom)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "glass",
+  "weight": "4.4 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10116"
+  },
+  "id": "JONSBO-D31-MESH-SCREEN-WHITE",
+  "name": "Jonsbo D31 Mesh Screen white",
+  "mainImage": "https://s.ek.ua/jpg/2412201.jpg",
+  "brand": "Jonsbo",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 4500,
+        "link": "https://ek.ua/en/clcp.php?ep_=OGKG031J51031J254J1J0Q0J1J2M0J1J3N431J081J1J0Q0J1J38131J4L131J32331J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q13&model_=JONSBO+D31+MESH+SC+White+&idSite_=1&idGood_=2412201"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 4499,
+        "link": "https://ek.ua/en/clcp.php?ep_=2IP6031J552J1J03431J512J1J322J1J07231J332J1J51331J424J1J2I331J16531J0A1J1J2H531J0Q1J1J52531J0Q031371531I&model_=Jonsbo+D31+Mesh+Screen+Wh&idSite_=1&idGood_=2412201"
+      }
+    ],
+    "range": {
+      "minPrice": 4499,
+      "maxPrice": 4500
+    }
+  },
+  "officialWebsite": "jonsbo.com",
+  "colour": "white",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "1x120мм"
+    },
+    {
+      "fans(Top)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Bottom)": "2x140мм / 3x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on the front",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Top)": "360mm"
+    },
+    {
+      "liquidCooling(Bottom)": "360mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10117"
+  },
+  "id": "ASUS-TUF-GAMING-GT301",
+  "name": "Asus TUF Gaming GT301 black",
+  "mainImage": "https://s.ek.ua/jpg/1746701.jpg",
+  "brand": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> cool gaming case that can easily pull the power and hot gaming station. The model comes with a highly efficient air cooling system - four high-speed fans are already in the base (three in front and one in the back). The front turntables feature advanced RGB lighting that syncs with Asus Aura Sync technology. The front panel is made of a well-ventilated metal grid. The Asus TUF Gaming GT301 case is equipped with a large viewing sidewall, which is based on tempered glass.</p><p>The dimensions of the case fit into the Midi Tower format. The chassis will easily fit any of today's ATX size motherboards. 160 mm of free space is allocated for the processor tower, discrete graphics can be up to 320 mm long. There are two connectors for installing a 3.5″ HDD. As for the 2.5″ SSD, four seats are allocated for solid state drives. The interface panel contains two USB 3.0 ports and mini-Jack audio jacks (microphone and headphones). To control the system, three buttons are allocated: power on, reboot and backlight settings. This is an expensive, reliable and functional case that will allow you to assemble a high-performance PC without any difficulties.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 4639,
+        "link": "https://ek.ua/en/clcp.php?ep_=KPOC031J510J1J2H3J1J4Q0J1J2M0J1J00231J47031J0A0J1J38131J4L131J33231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1G&model_=Asus+GT301+TUF+GAMING+%2890&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 4875,
+        "link": "https://ek.ua/en/clcp.php?ep_=4KR8031J552J1J18231J512J1J30431J0O4J1J101J1J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J52531J0Q031371331J5103&model_=Asus+TUF+Gaming+GT301+ARG&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 4541,
+        "link": "https://ek.ua/en/clcp.php?ep_=4GP9031J58331J054J1J512J1J31031J3H231J220J1J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J5103&model_=Asus+TUF+Gaming+GT301+Bla&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 4138,
+        "link": "https://ek.ua/en/clcp.php?ep_=6JVS031J55331J28131J512J1J322J1J4N4J1J40431J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J54531J0Q031371131J5103&model_=Asus+GT301+TUF+Gaming+Bla&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 4875,
+        "link": "https://ek.ua/en/clcp.php?ep_=4HN5031J560J1J393J1J512J1J301J1J44031J191J1J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J5103&model_=ASUS+GT301+TUF+GAMING+%2890&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 4875,
+        "link": "https://ek.ua/en/clcp.php?ep_=V3OR031J58131J2K131J512J1J320J1J0K131J21331J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J5103&model_=ASUS+GT301+TUF+GAMING+%2890&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 4777,
+        "link": "https://ek.ua/en/clcp.php?ep_=1FQV031J560J1J2N2J1J512J1J320J1J43231J34131J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0G&model_=Asus+%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+TUF+Gaming+GT&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 4141,
+        "link": "https://ek.ua/en/clcp.php?ep_=2NOK031J591J1J073J1J512J1J322J1J28131J38131J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0G&model_=Asus+TUF+Gaming+GT301+%2890&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 4144,
+        "link": "https://ek.ua/en/clcp.php?ep_=4HUT031J59231J31231J512J1J322J1J2I431J36431J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0G&model_=Asus+TUF+Gaming+GT301+%2890&idSite_=1&idGood_=1746701"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 4138,
+        "link": "https://ek.ua/en/clcp.php?ep_=4CQS031J59231J354J1J512J1J322J1J2M431J19131J51331J424J1J2I331J1K531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5103&model_=Asus+TUF+Gaming+GT301+%2890&idSite_=1&idGood_=1746701"
+      }
+    ],
+    "range": {
+      "minPrice": 4138,
+      "maxPrice": 4875
+    }
+  },
+  "officialWebsite": "asus.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "4",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 2,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "7.2 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10118"
+  },
+  "id": "GAMEMAX-BRUFEN-C1",
+  "name": "Gamemax Brufen C1 black",
+  "mainImage": "https://s.ek.ua/jpg/1986818.jpg",
+  "brand": "Gamemax",
+  "description": "<p><span class=\"desc-ai-initcap\">B</span>right and quite advanced cases of the lower part of the middle price segment. This platform implements a wide range of innovative solutions that will make the computer system more interesting and practical than ever. So, the viewing sidewall is presented in the form of a door with a magnetic lock, and it is based on high-quality tempered glass. Regular ventilation is built using five fans.</p><p>Four bladed impellers are responsible for the main airflow of the chassis (three in front and one in the rear). The main coolers received interesting ARGB lighting. The operating modes and brightness of the backlight can be controlled both using the button on the control panel and through the motherboard. The Gamemax Brufen C1 computer case received another additional fan, which is designed to cool the back of the motherboard.</p><p>The front panel is a wedge-shaped mesh, which allows the coolers to effortlessly distill large volumes of air. Among other things, the platform is characterized by increased capacity. Even a high-performance E-ATX solution can be placed on the motherboard tray. Of course, it will be possible to install smaller motherboard options: ATX, micro-ATX or mini-ITX. This case can be safely recommended for building a powerful gaming system.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=RQOQ031J510J1J2H3J1J4Q0J1J2M131J313J1J2K031J4Q0J1J38131J4L131J34131J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131G&model_=GAMEMAX+Brufen+C1+Brufen+&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 3178,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GN1031J561J1J00131J512J1J322J1J241J1J0K1J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J52531J0Q031371531J10&model_=GAMEMAX+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=9GSG031J552J1J18231J512J1J322J1J43431J273J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J53531J0Q031371431J5203&model_=GAMEMAX+Brufen+C1+COC+ARG&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2880,
+        "link": "https://ek.ua/en/clcp.php?ep_=3FTQ031J543J1J35031J512J1J322J1J234J1J03231J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5203&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+GameMax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2880,
+        "link": "https://ek.ua/en/clcp.php?ep_=6INI031J560J1J0M1J1J512J1J322J1J2K3J1J09331J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J5203&model_=GameMax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2814,
+        "link": "https://ek.ua/en/clcp.php?ep_=88QN031J57331J421J1J512J1J322J1J4P131J013J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5203&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 3223,
+        "link": "https://ek.ua/en/clcp.php?ep_=87R4031J59331J193J1J512J1J322J1J46431J063J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J57531J0Q031371131J5203&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=62QJ031J560J1J393J1J512J1J322J1J443J1J0K231J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5203&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=3IOD031J58131J2K131J512J1J32331J121J1J0I4J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5203&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 3046,
+        "link": "https://ek.ua/en/clcp.php?ep_=28MC031J560J1J2N2J1J512J1J322J1J240J1J1P1J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5203&model_=GAMEMAX+Brufen+C1+Brufen+&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 3046,
+        "link": "https://ek.ua/en/clcp.php?ep_=24RK031J543J1J271J1J512J1J322J1J2I3J1J1H1J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5203&model_=GameMax+Brufen+C1+Brufen+&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 2955,
+        "link": "https://ek.ua/en/clcp.php?ep_=7NOU031J59131J3G4J1J512J1J322J1J303J1J02331J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5203&model_=GAMEMAX+Brufen+C1+Brufen+&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 3046,
+        "link": "https://ek.ua/en/clcp.php?ep_=MOM6031J510J1J27231J0A0J1J2M131J2M0J1J381J1J1A0J1J38131J4L131J34131J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131G&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+ATX+%D0%B1%D0%B5%D0%B7+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0+%D0%B6%D0%B8%D0%B2%D0%BB&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=87P2031J552J1J03431J512J1J322J1J44131J4J231J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5203&model_=Gamemax+Brufen+C1+Black+w&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=9QK1031J55131J153J1J512J1J322J1J470J1J0G3J1J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5203&model_=Gamemax+ATX+%D0%B1%D0%B5%D0%B7+%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0+%D0%B6%D0%B8%D0%B2&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q6QM031J510J1J36231J1Q0J1J2M131J344J1J2P0J1J2A0J1J38131J4L131J34131J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q131G&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2922,
+        "link": "https://ek.ua/en/clcp.php?ep_=87PN031J592J1J2P231J512J1J32331J300J1J32331J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5203&model_=GameMax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2817,
+        "link": "https://ek.ua/en/clcp.php?ep_=7GVD031J58431J0G031J512J1J32331J4I4J1J31431J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3Q131G&model_=GameMax+Brufen+C1&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 3039,
+        "link": "https://ek.ua/en/clcp.php?ep_=70NM031J59031J45131J512J1J322J1J3H031J05431J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A131G&model_=GameMax+Brufen+C1+Black&idSite_=1&idGood_=1986818"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6d",
+        "price": 2983,
+        "link": "https://ek.ua/en/clcp.php?ep_=VJU2031J59031J45131J512J1J322J1J4K4J1J20031J51331J424J1J2I331J22531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131G&model_=Gamemax+Brufen+C1&idSite_=1&idGood_=1986818"
+      }
+    ],
+    "range": {
+      "minPrice": 2814,
+      "maxPrice": 3223
+    }
+  },
+  "officialWebsite": "gamemaxpc.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "door",
+  "fansTotal": "4",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "280mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "5.85 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10119"
+  },
+  "id": "AEROCOOL-TRINITY-MINI-V2",
+  "name": "Aerocool Trinity Mini V2 black",
+  "mainImage": "https://s.ek.ua/jpg/1989736.jpg",
+  "brand": "Aerocool",
+  "description": "<p><span class=\"desc-ai-initcap\">D</span>espite the compact form factor (Mini Tower), this case allows you to build a system of almost any level of performance. Even hot advanced gaming hardware can be put on the platform, the regular cooling system easily stabilizes the work of powerful components. Behind the grilled front panel are two 140 mm fans. Another paddle impeller, but 120 mm, is mounted on the rear wall. The chassis allows you to place a Micro-ATX or Mini-ITX motherboard.</p><p>At the same time, there is plenty of room in the case for mounting high-performance graphics and a powerful processor. The Aerocool Trinity Mini V2 computer case allows you to build a video system based on a discrete board up to 297 mm long. To cool the CPU, you can put a tower up to 158 mm high. Any ATX solution up to 159 mm long can be used as a power supply. At the same time, a special place is allocated for the installation of the PSU, under a protective cover. To improve the decorative value of the case, the manufacturer provided FRGB backlighting in the standard fans. The older modification of this case, called the Mini V2, is distinguished by the presence of a customizable ARGB backlight.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1878,
+        "link": "https://ek.ua/en/clcp.php?ep_=5FTA031J58431J0G031J512J1J313J1J3H2J1J3I431J51331J424J1J2I331J2H531J0A1J1J2H531J0Q1J1J51531J1Q031371531H&model_=AeroCool+Trinity+Mini-G-B&idSite_=1&idGood_=1989736"
+      }
+    ],
+    "range": {
+      "minPrice": 1878,
+      "maxPrice": 1878
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansTotal": "3 / 2x140мм, 1x120мм /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 2x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 2,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "240mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011a"
+  },
+  "id": "QUBE-WIND",
+  "name": "QUBE WIND black",
+  "mainImage": "https://s.ek.ua/jpg/2340287.jpg",
+  "brand": "QUBE",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> relatively inexpensive gaming computer case that will harmoniously combine a compact micro-ATX motherboard and a full-sized processor with a video card. The platform corresponds to the dimensions of the Mini Tower, while on the chassis it will be possible to easily accommodate a central processor with a tower cooling system up to 160 mm high. For the video card, as well as other expansion cards, 295 mm is provided.</p><p>Thanks to such characteristics, even an advanced gaming assembly will feel comfortable in such a system unit. Also in the case there is everything you need for efficient heat dissipation. The QUBE WIND computer case has a mesh front cover in the design, which allows you to effectively saturate the platform with fresh air. Thanks to this, \"hot\" components will be able to quickly and efficiently give off excess heat, thereby stabilizing the PC under load.</p><p>It will be possible to put a full-fledged ATX power supply in the system unit - the mounting space for the power supply allows you to use any solution up to 165 mm long. The case will be equipped with one 3.5″ device and two more 2.5″ drives. Among other things, this case carries a fairly high decorative value. The side wall of the platform is completely transparent, revealing the inner beauty of the computer assembly.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2035,
+        "link": "https://ek.ua/en/clcp.php?ep_=PPNJ031J510J1J2H3J1J4Q0J1J2M0J1J001J1J3N231J1Q0J1J38131J4L131J353J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1L&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2394,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ITK031J560J1J0M1J1J512J1J32031J453J1J39131J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J512J&model_=Qube+Wind+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=6KUU031J543J1J35031J512J1J32231J391J1J134J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J512J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Qube+Wind+Black+%28W&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=231U031J57331J421J1J512J1J320J1J242J1J2L1J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J54531J0Q031371331J512J&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q1NL031J51031J25131J2A0J1J2M0J1J18431J252J1J1A0J1J38131J4L131J353J1J50531J1L0J1J51531J1Q2J1J51531I0E0J1J2Q0J1L&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2120,
+        "link": "https://ek.ua/en/clcp.php?ep_=1H0E031J55331J0K131J512J1J32031J0K431J31431J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J512J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+qube+wind+Black+%28w&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 2280,
+        "link": "https://ek.ua/en/clcp.php?ep_=661T031J574J1J20331J512J1J32131J3N1J1J432J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J512J&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2384,
+        "link": "https://ek.ua/en/clcp.php?ep_=VM0Q031J59331J193J1J512J1J32031J1L331J3M031J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J58531J0Q031371131J512J&model_=Qube+WINDFMNU3&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2126,
+        "link": "https://ek.ua/en/clcp.php?ep_=7DT7031J560J1J393J1J512J1J31431J2G2J1J133J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J512J&model_=Qube+WINDFMNU3&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2126,
+        "link": "https://ek.ua/en/clcp.php?ep_=RKS3031J58131J2K131J512J1J320J1J0M3J1J19431J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q0J1L&model_=Qube+WINDFMNU3&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ROU031J55131J153J1J512J1J31031J3P131J1P2J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J512J&model_=QUBE+Black+%28WINDFMNU3%29&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=UMUC031J543J1J271J1J512J1J31131J1L431J0L031J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J512J&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1905,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MU8031J58431J0G031J512J1J313J1J3H2J1J383J1J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J512J&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=6RS1031J560J1J2N2J1J512J1J320J1J483J1J19431J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J512J&model_=QUBE+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1954,
+        "link": "https://ek.ua/en/clcp.php?ep_=56U2031J592J1J2P231J512J1J32331J300J1J48131J51331J424J1J2I331J2N531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J512J&model_=Qube+WIND+Black+%28WINDFMNU&idSite_=1&idGood_=2340287"
+      }
+    ],
+    "range": {
+      "minPrice": 1905,
+      "maxPrice": 2400
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 2x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "4.3 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011b"
+  },
+  "id": "QUBE-MESH",
+  "name": "QUBE Mesh without PSU",
+  "mainImage": "https://s.ek.ua/jpg/2214724.jpg",
+  "brand": "QUBE",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> bright and efficient gaming computer case that belongs to the generation of Mini Tower gaming cases. The model is designed to install a Micro-ATX or Mini-ITX motherboard. At the same time, it remains possible to equip the computer with a full-size processor and a good video card. So, 165 mm is provided for the central processor, and 340 mm for a discrete video card. Boxing is ready to provide stable and reliable operation of the gaming assembly.</p><p>To do this, the QUBE Mesh computer case received a balanced cooling system. Four pre-installed 120 mm fans are responsible for dissipating heat from the productive iron: three turntables are installed at the front and one cooler is mounted at the back. The front duct provides ventilation through a mesh metal panel. The cooling system draws air without any restrictions. This chassis uses a convenient chassis access system. The side panel is equipped with swivel hinges so that it can be opened and closed like a door. This case will add variety to the design of the workplace. Multicolor ARGB backlighting is easily customizable. Among other things, the case easily organizes the work of a productive next-generation gaming system.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2319,
+        "link": "https://ek.ua/en/clcp.php?ep_=OPLJ031J510J1J2H3J1J4Q0J1J2M0J1J001J1J191J1J1A0J1J38131J4L131J363J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131I&model_=QUBE+MESH+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2489,
+        "link": "https://ek.ua/en/clcp.php?ep_=72QC031J560J1J0M1J1J512J1J313J1J24431J0I331J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J5213&model_=Qube+Mesh+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=25TF031J543J1J35031J512J1J32231J391J1J0K031J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5213&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Qube+Mesh+Black+%28M&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=08UI031J57331J421J1J512J1J320J1J1P031J2P031J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5213&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=550J031J55331J28131J512J1J310J1J37431J2K4J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5213&model_=QUBE+MESH+no+PSU+%28MESHFMN&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=SHN6031J51031J25131J2A0J1J2M0J1J18431J18431J1Q0J1J38131J4L131J363J1J50531J1L0J1J51531J1Q331J51531I0E0J1J2Q131I&model_=QUBE+MESH+no+PSU+%28MESHFMN&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=00MI031J51031J254J1J0Q0J1J2M0J1J271J1J341J1J4A0J1J38131J4L131J363J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q131I&model_=QUBE+MESH+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2459,
+        "link": "https://ek.ua/en/clcp.php?ep_=01V2031J55331J0K131J512J1J32031J0K431J2J2J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J5213&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Qube+meshfmnu3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 2435,
+        "link": "https://ek.ua/en/clcp.php?ep_=570U031J574J1J20331J512J1J32131J3N1J1J421J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5213&model_=QUBE+MESH+no+PSU+%28MESHFMN&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2685,
+        "link": "https://ek.ua/en/clcp.php?ep_=U2SJ031J59331J193J1J512J1J32031J1J3J1J07331J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131I&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=02UI031J560J1J393J1J512J1J301J1J46431J28131J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131I&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=P4SN031J58131J2K131J512J1J320J1J0M3J1J100J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131I&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=6LP8031J552J1J03431J512J1J30431J12231J1M2J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5213&model_=QUBE+Mesh+Black+with+wind&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 2645,
+        "link": "https://ek.ua/en/clcp.php?ep_=3CMN031J55131J153J1J512J1J31031J3P1J1J020J1J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5213&model_=QUBE+Black+%28MESHFMNU3%29&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=07SP031J543J1J271J1J512J1J31131J1L431J02031J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5213&model_=QUBE+MESH+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2197,
+        "link": "https://ek.ua/en/clcp.php?ep_=UNQ5031J510J1J27231J0A0J1J2M0J1J254J1J33331J4Q0J1J38131J4L131J363J1J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q131I&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=S3PK031J510J1J36231J1Q0J1J2M0J1J311J1J4J231J0A0J1J38131J4L131J363J1J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q131I&model_=Qube+MESHFMNU3&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2215,
+        "link": "https://ek.ua/en/clcp.php?ep_=8NSI031J58431J0G031J512J1J313J1J3H2J1J2I431J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5213&model_=QUBE+MESH+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2646,
+        "link": "https://ek.ua/en/clcp.php?ep_=8BQR031J560J1J2N2J1J512J1J320J1J47131J3J331J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5213&model_=QUBE+MESH+no+PSU+%28MESHFMN&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2239,
+        "link": "https://ek.ua/en/clcp.php?ep_=VVT3031J592J1J2P231J512J1J32331J300J1J2M031J51331J424J1J2I331J37531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3Q131I&model_=Qube+MESH+Black+%28MESHFMNU&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6322edc8332e9aa694225dc5",
+        "price": 2378,
+        "link": "https://ek.ua/en/clcp.php?ep_=17S0031J59031J45131J512J1J30431J18031J30331J51331J424J1J2I331J3G531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131I&model_=QUBE+MESH+Black+%28MESH+FMN&idSite_=1&idGood_=2214724"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2619,
+        "link": "https://ek.ua/en/clcp.php?ep_=56V2031J560J1J2N2J1J512J1J322J1J3I4J1J40231J51331J424J1J2I331J3G531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J5213&model_=QUBE+MESH+no+PSU+%28MESHFMN&idSite_=1&idGood_=2214724"
+      }
+    ],
+    "range": {
+      "minPrice": 2197,
+      "maxPrice": 2685
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansTotal": "4",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "280mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "4.8 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011c"
+  },
+  "id": "QUBE-SNOW",
+  "name": "QUBE SNOW white",
+  "mainImage": "https://s.ek.ua/jpg/2172834.jpg",
+  "brand": "QUBE",
+  "description": "<p><span class=\"desc-ai-initcap\">S</span>tylish mid-range chassis with dual-tiered components, optimized airflow, powerful RGB lighting and extravagant looks. The quality of blowing the components is achieved due to the fact that 4 case fans are already installed inside the case out of the box. One is hidden on top of the back wall, three more are located on top of each other right behind the front panel. Thanks to the transparent mesh cover, fans with RGB lighting turned on can be seen through the front panel, thereby performing a decorative function.</p><p>The highlight of the appearance is also given by a viewing window made of tempered glass, through which all the elements of the PC are visible, the snow-white color of the case and a neat slightly convex front panel. The QUBE SNOW case is made in the Midi Tower form factor, its internal space is divided by an L-shaped cover. The bottom tier houses a power supply bay, 3 drive pockets, 7 expansion slots, and a hidden wire pulling system. The upper part of the case allows you to install an ATX, micro-ATX and mini-ITX motherboard, a video card up to 295 mm long, a 160 mm high CPU cooler, 8 internal fans and a massive 360 mm LSD. On the front panel there are several USB 2.0 and USB 3.2 gen1 ports, as well as a headphone output. Additionally, dust filters are provided in the case.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2482,
+        "link": "https://ek.ua/en/clcp.php?ep_=O9PF031J510J1J2H3J1J4Q0J1J2M0J1J002J1J410J1J2A0J1J38131J4L131J37331J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131L&model_=QUBE+SNOW+White+%28SNOWFMMU&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2673,
+        "link": "https://ek.ua/en/clcp.php?ep_=42SA031J560J1J0M1J1J512J1J313J1J24431J0H031J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J522J&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LVB031J543J1J35031J512J1J32231J391J1J0H2J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J522J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=6J2O031J57331J421J1J512J1J32231J431J1J3G2J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J54531J0Q031371331J522J&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=12KM031J51031J254J1J0Q0J1J2M031J4P0J1J24331J3A0J1J38131J4L131J37331J50531J1L0J1J51531J1Q2J1J51531I0E0J1J2Q131L&model_=QUBE+SNOW+White+%28SNOWFMMU&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=1521031J55331J28131J512J1J310J1J37431J220J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J522J&model_=QUBE+SNOWFMMU3+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=R1MR031J51031J25131J2A0J1J2M0J1J18431J0P3J1J0Q0J1J38131J4L131J37331J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q131L&model_=QUBE+SNOW+%28SNOWFMMU3%29+SNO&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2901,
+        "link": "https://ek.ua/en/clcp.php?ep_=220K031J55331J0K131J512J1J32031J0K431J264J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J522J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+qube+snow+White+%28s&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 2405,
+        "link": "https://ek.ua/en/clcp.php?ep_=3N2U031J574J1J20331J512J1J32131J3N1J1J43031J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J522J&model_=QUBE+SNOWFMMU3+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2893,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLUU031J59331J193J1J512J1J32031J1M3J1J204J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2839,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IV0031J560J1J393J1J512J1J301J1J46431J242J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2839,
+        "link": "https://ek.ua/en/clcp.php?ep_=RKSV031J58131J2K131J512J1J320J1J0M3J1J0M331J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=6LTA031J552J1J03431J512J1J30431J12231J3P2J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J522J&model_=QUBE+Snow+White+with+wind&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=6BR8031J543J1J271J1J512J1J304J1J29031J0J2J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J522J&model_=Qube+SNOWFMMU3+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 2839,
+        "link": "https://ek.ua/en/clcp.php?ep_=6ROO031J55131J153J1J512J1J31031J3O131J0K3J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J522J&model_=QUBE+White+%28SNOWFMMU3%29&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e44",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=RAQO031J510J1J2H3J1J1Q0J1J2M0J1J18331J4O231J0Q0J1J38131J4L131J37331J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q131L&model_=QUBE+SNOW+%28SNOWFMMU3%29+SNO&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2359,
+        "link": "https://ek.ua/en/clcp.php?ep_=S7Q9031J510J1J27231J0A0J1J2M0J1J254J1J333J1J1Q0J1J38131J4L131J37331J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2839,
+        "link": "https://ek.ua/en/clcp.php?ep_=V3PO031J510J1J36231J1Q0J1J2M0J1J311J1J4J1J1J3Q0J1J38131J4L131J37331J50531J1L0J1J51531J1Q0J1J4A0J1J50721J0Q131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=6NU7031J58431J0G031J512J1J313J1J3H2J1J281J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J522J&model_=QUBE+SNOW+White+%28SNOWFMMU&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=3A1G031J560J1J2N2J1J512J1J320J1J454J1J4O2J1J51331J424J1J2I331J3M531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J522J&model_=QUBE+%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Snow+%28SNOWFMM&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2401,
+        "link": "https://ek.ua/en/clcp.php?ep_=3VTO031J592J1J2P231J512J1J32331J300J1J2M3J1J51331J424J1J2I331J3P531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131L&model_=Qube+SNOW+White+%28SNOWFMMU&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2839,
+        "link": "https://ek.ua/en/clcp.php?ep_=0LTE031J59031J45131J512J1J30031J36131J32431J51331J424J1J2I331J3P531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131L&model_=QUBE+Snow+%28SnowFMMU3%29&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5UC031J59031J45131J512J1J30031J36131J40231J51331J424J1J2I331J3P531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131L&model_=QUBE+Snow+%28SNOWFMMU3%29&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6d",
+        "price": 2402,
+        "link": "https://ek.ua/en/clcp.php?ep_=1GV3031J59031J45131J512J1J32031J3H4J1J153J1J51331J424J1J2I331J3P531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131L&model_=Qube+SNOWFMMU3&idSite_=1&idGood_=2172834"
+      },
+      {
+        "storeId": "63219ef0332e9aa694f9cda1",
+        "price": 2841,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MV3031J59031J45131J512J1J32331J0N331J2L331J51331J424J1J2I331J3P531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131L&model_=QUBE+SNOW+%28SNOWFMMU3%29&idSite_=1&idGood_=2172834"
+      }
+    ],
+    "range": {
+      "minPrice": 2359,
+      "maxPrice": 2901
+    }
+  },
+  "colour": "white",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "4 / 120мм /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 2,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "4.82 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011d"
+  },
+  "id": "DARKFLASH-LEO",
+  "name": "DarkFlash Leo black",
+  "mainImage": "https://s.ek.ua/jpg/2233550.jpg",
+  "brand": "DarkFlash",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> computer case with a striking high-strength carbon fiber finish, this case's modern design brings out the potential of your gaming PC. At the same time, high-performance components can easily fit in the system unit. An efficient cooling system is provided for the efficient, reliable and safe operation of powerful hardware resources. Thus, the DarkFlash Leo computer case is equipped with a ventilated facade.</p><p>A metal mesh insert is organically integrated into the front cover. Thanks to this, the chassis will be able to freely blow through, which will allow you to easily and quickly stabilize the heat dissipation of productive components. Spectacular imitation of carbon fiber is also provided on the sidewalls that form the lower compartment of the power supply. The side carbon inserts are additionally equipped with air intake channels. This case uses a glass overlay on the side of the main side cover. The transparent wall makes it possible to demonstrate the aesthetic beauty of the working space of the chassis. Such a system unit can serve as an excellent basis for a powerful computer assembly, and an interesting carbon corrugation will add a modern style to the surrounding interior.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1679,
+        "link": "https://ek.ua/en/clcp.php?ep_=14U3031J552J1J18231J512J1J30431J0P0J1J082J1J51331J424J1J2I331J47531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J54&model_=DarkFlash+LEO++%D0%91%D0%96+Black+L&idSite_=1&idGood_=2233550"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1597,
+        "link": "https://ek.ua/en/clcp.php?ep_=S77Q031J57331J421J1J512J1J320J1J1P431J32131J51331J424J1J2I331J47531J0A1J1J2H531J0Q1J1J52531J0Q031371331J54&model_=DARKFLASH+Leo&idSite_=1&idGood_=2233550"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1619,
+        "link": "https://ek.ua/en/clcp.php?ep_=T2K2031J51031J254J1J0Q0J1J2M031J4P0J1J24031J2A0J1J38131J4L131J383J1J50531J1L0J1J51531J1Q1J1J51531I0E031J3Q23&model_=DARKFLASH+LEO+ATX+LEO&idSite_=1&idGood_=2233550"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1679,
+        "link": "https://ek.ua/en/clcp.php?ep_=SM0U031J59031J45131J512J1J30031J36131J24131J51331J424J1J2I331J47531J0A1J1J2H531J0Q1J1J54531J0Q031370331J54&model_=DarkFlash+Leo+Black&idSite_=1&idGood_=2233550"
+      }
+    ],
+    "range": {
+      "minPrice": 1597,
+      "maxPrice": 1679
+    }
+  },
+  "officialWebsite": "darkflash.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 1,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Front)": "240mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011e"
+  },
+  "id": "QUBE-BLOCK",
+  "name": "QUBE Block black",
+  "mainImage": "https://s.ek.ua/jpg/2160772.jpg",
+  "brand": "QUBE",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he case is perfectly compatible with modern Mini-ITX and Micro-ATX motherboards. In this case, the mounting place of the processor has a height of 160 mm. In the system unit there is also a place for discrete graphics — 295 mm is allocated for installing a graphics card. The case will perfectly cope with the role of a compact gaming platform with increased performance. To safely give a high load on components, the platform is blown by three factory fans.</p><p>These are 120mm turntables with eye-catching RGB lighting. The computer case QUBE Block PSU 600 W makes the work of the heated iron extremely stable and reliable. After all, the front wall is well blown through the lattice surface. The interior of the case is clearly visible through a high-quality tempered glass window. Another feature of the case is the presence of a 600 W power supply on board. At the same time, the block is moved to the base of the platform so as not to interfere with the air flow of the cooling system. This model has USB ports (two 2.0 formats and one 3.0). Headphones and a microphone are connected to the 3.5 mm jacks. The case belongs to the category of gaming, for the installation of a compact motherboard.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1994,
+        "link": "https://ek.ua/en/clcp.php?ep_=U9MI031J510J1J2H3J1J4Q0J1J2M0J1J00131J354J1J4Q0J1J38131J4L131J392J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1I&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=51VM031J57331J421J1J512J1J32231J432J1J01131J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J52531J0Q031371331J5113&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=OHO2031J51031J25131J2A0J1J2M0J1J18431J2H431J0A0J1J38131J4L131J392J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J2Q0J1I&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2086,
+        "link": "https://ek.ua/en/clcp.php?ep_=0H09031J55331J0K131J512J1J32031J0K431J2G331J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J5113&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+qube+block+%28blockf&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 2202,
+        "link": "https://ek.ua/en/clcp.php?ep_=6626031J574J1J20331J512J1J32131J3N1J1J402J1J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5113&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2375,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLUL031J59331J193J1J512J1J32031J1L131J35031J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J56531J0Q031371131J5113&model_=Qube+BLOCKFMMU3&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=6DTJ031J560J1J393J1J512J1J31431J2G2J1J132J1J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J5113&model_=Qube+BLOCKFMMU3&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5UM031J58131J2K131J512J1J320J1J0M3J1J19331J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5113&model_=Qube+BLOCKFMMU3&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1913,
+        "link": "https://ek.ua/en/clcp.php?ep_=4FVQ031J592J1J2P231J512J1J32331J300J1J48331J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0I&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=4B04031J543J1J271J1J512J1J304J1J29231J402J1J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5113&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=26V1031J58431J0G031J512J1J313J1J3H2J1J3J131J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5113&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2220,
+        "link": "https://ek.ua/en/clcp.php?ep_=1SVQ031J560J1J2N2J1J512J1J320J1J494J1J3K031J51331J424J1J2I331J4L531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5113&model_=QUBE+BLOCK+Black+%28BLOCKFM&idSite_=1&idGood_=2160772"
+      }
+    ],
+    "range": {
+      "minPrice": 1913,
+      "maxPrice": 2375
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansTotal": "3",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 2x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "5.39 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b1011f"
+  },
+  "id": "VINGA-PILLAR-WH",
+  "name": "Vinga Pillar white",
+  "mainImage": "https://s.ek.ua/jpg/1888259.jpg",
+  "brand": "Vinga",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> well-balanced platform designed to assemble a powerful gaming system. The hull has improved capacity. The dimensions of the model correspond to the standards of the Midi Tower standard, and the chassis can be equipped with a medium-format ATX motherboard (microATX / Mini-ITX). This model has a great potential of the cooling system. Front, top and bottom there are supply ventilation channels, which are represented by a metal grill.</p><p>All ways of fresh air intake are covered with dust protection. Eight seats are available for installation of fans. The Vinga Pillar case has a wide range of pre-installed interfaces. On the top cover are: two USB 3.0 ports, one USB Type-C port in edition 3.2 gen 1, 3.5 mm audio jacks are additionally provided. There are reset and power buttons. The case has an advanced status, which is confirmed by PCI plugs on the rear wall. All plugs for expansion boards are removable. This platform has a convenient cable management system. The working space of the chassis has a well-thought-out arrangement. The power supply is located at the bottom, in an isolated compartment. On the platform there is a place for mounting a CPU cooler with a height of 165 mm. The length of graphics can be up to 350mm.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=R9OG031J510J1J2H3J1J4Q0J1J2M0J1J00331J2O2J1J4A0J1J38131J4L131J3G231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1M&model_=Vinga+Pillar+White+Pillar&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 2412,
+        "link": "https://ek.ua/en/clcp.php?ep_=61LJ031J561J1J00131J512J1J2P4J1J351J1J17431J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J52531J0Q031371531J0M&model_=VINGA+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=8HTG031J560J1J0M1J1J512J1J313J1J243J1J4O4J1J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5133&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3502031J543J1J35031J512J1J32231J39131J49131J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5133&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3JVN031J57331J421J1J512J1J320J1J1L2J1J203J1J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5133&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=1JT5031J55331J28131J512J1J310J1J37231J1O131J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5133&model_=Vinga+Pillar+White+Pillar&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2489,
+        "link": "https://ek.ua/en/clcp.php?ep_=20TJ031J55331J0K131J512J1J32031J0K431J1O4J1J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5133&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2446,
+        "link": "https://ek.ua/en/clcp.php?ep_=19TP031J59331J193J1J512J1J32031J1P231J381J1J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J58531J0Q031371131J5133&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=7JTK031J560J1J393J1J512J1J301J1J46431J1K4J1J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5133&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=NKOU031J58131J2K131J512J1J320J1J0M3J1J06031J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q0J1M&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=MKN8031J510J1J27231J0A0J1J2M0J1J02431J0O231J3Q0J1J38131J4L131J3G231J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q0J1M&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=R3N8031J510J1J36231J1Q0J1J2M0J1J31231J1P4J1J0Q0J1J38131J4L131J3G231J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q0J1M&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=66QV031J58431J0G031J512J1J313J1J3H2J1J1I431J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5133&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BP3031J543J1J271J1J512J1J32231J21031J1O431J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3Q0J1M&model_=Vinga+Pillar+White+Pillar&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2399,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5QB031J59031J45131J512J1J30031J36131J3K131J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3A0J1M&model_=Vinga+Pillar+White&idSite_=1&idGood_=1888259"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 2519,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IRT031J59031J45131J512J1J312J1J3J331J35031J51331J424J1J2I3J1J04531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3A0J1M&model_=VINGA+Pillar+White&idSite_=1&idGood_=1888259"
+      }
+    ],
+    "range": {
+      "minPrice": 2399,
+      "maxPrice": 2519
+    }
+  },
+  "officialWebsite": "vinga.ua",
+  "colour": "white",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "6.45 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10120"
+  },
+  "id": "ZALMAN-I3-NEO-BLACK",
+  "name": "Zalman i3 Neo black",
+  "mainImage": "https://s.ek.ua/jpg/2373828.jpg",
+  "brand": "Zalman",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q9NN031J510J1J2H3J1J4Q0J1J2M0J1J00231J314J1J1Q0J1J38131J4L131J3H1J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1J&model_=Zalman+I3+NEO+BLACK+I3NEO&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2314,
+        "link": "https://ek.ua/en/clcp.php?ep_=3FU4031J57331J421J1J512J1J32231J111J1J2H2J1J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J52531J0Q031371331J511J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=SIKE031J51031J254J1J0Q0J1J2M031J4P0J1J243J1J0Q0J1J38131J4L131J3H1J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J2Q0J1J&model_=Zalman+I3+NEO+BLACK%2C+%D0%B1%D0%B5%D0%B7+&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2527,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GTQ031J55331J0K131J512J1J32031J0K431J33331J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J511J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Zalman+i3+neo+blac&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2615,
+        "link": "https://ek.ua/en/clcp.php?ep_=24TG031J59331J193J1J512J1J32031J1K4J1J1J2J1J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J55531J0Q031371131J511J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=43TC031J560J1J393J1J512J1J301J1J46431J2G131J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J511J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5RC031J58131J2K131J512J1J320J1J0M3J1J12131J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J511J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=2DQ0031J552J1J03431J512J1J30431J12231J38031J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0J&model_=Zalman+i3+Neo+Black+with+&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BS1031J543J1J271J1J512J1J304J1J4H0J1J3K0J1J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0J&model_=Zalman+I3+NEO+BLACK%2C+%D0%B1%D0%B5%D0%B7+&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2821,
+        "link": "https://ek.ua/en/clcp.php?ep_=0SP9031J560J1J2N2J1J512J1J320J1J492J1J25031J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J511J&model_=Zalman+I3+Neo+I3NEOBLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2314,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q6U6031J510J1J36231J1Q0J1J2M131J34431J391J1J2A0J1J38131J4L131J3H1J1J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J07531J0J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2849,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5QK031J59031J45131J512J1J30031J36131J3H0J1J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3A0J1J&model_=Zalman+i3NEO+Black+%28I3NEO&idSite_=1&idGood_=2373828"
+      },
+      {
+        "storeId": "63219f35332e9aa694fa7a02",
+        "price": 2753,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LQS031J59031J45131J512J1J30031J36131J3P4J1J51331J424J1J2I3J1J0J531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3A0J1J&model_=Zalman+I3+NEO+BLACK&idSite_=1&idGood_=2373828"
+      }
+    ],
+    "range": {
+      "minPrice": 2314,
+      "maxPrice": 2849
+    }
+  },
+  "officialWebsite": "zalman.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "door",
+  "fansTotal": "4 / 120мм /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    },
+    {
+      "fans(Bottom)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "5.6 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10121"
+  },
+  "id": "1STPLAYER-B4-M-1A2",
+  "name": "1stPlayer B4-M-1A2 black",
+  "mainImage": "https://s.ek.ua/jpg/2185277.jpg",
+  "brand": "1stPlayer",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=USO6031J510J1J2H3J1J4Q0J1J2M0J1J434J1J0H3J1J4Q0J1J38131J4L131J3I031J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=0SPI031J561J1J00131J512J1J313J1J20431J17131J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J52531J0Q031371531J11&model_=1STPLAYER+B4-M-1A2+Black&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=6LQM031J552J1J18231J512J1J31431J28031J4G1J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J520J&model_=1stPlayer+B4-M-1A2++%D0%91%D0%9F+Bl&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=38UL031J57331J421J1J512J1J322J1J2P431J13031J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J54531J0Q031371331J520J&model_=1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=6NP6031J58331J054J1J512J1J313J1J0N031J3H231J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J520J&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=6O0U031J59431J282J1J512J1J32331J1M431J443J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J520J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 1120,
+        "link": "https://ek.ua/en/clcp.php?ep_=QHOF031J510J1J34131J3A0J1J2M131J381J1J37331J0A0J1J38131J4L131J3I031J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1341,
+        "link": "https://ek.ua/en/clcp.php?ep_=19QJ031J59331J193J1J512J1J32031J1O1J1J261J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J58531J0Q031371131J520J&model_=1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=8MOM031J560J1J393J1J512J1J313J1J38031J294J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J520J&model_=1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=S4QK031J58131J2K131J512J1J320J1J0M3J1J0L4J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q131H&model_=1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=MIOF031J510J1J2H031J4Q0J1J2M031J403J1J1O031J1Q0J1J38131J4L131J3I031J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NO5031J552J1J03431J512J1J313J1J0K131J3P131J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J520J&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=NOO1031J510J1J27231J0A0J1J2M0J1J3M1J1J3K2J1J1Q0J1J38131J4L131J3I031J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=5PLG031J55131J153J1J512J1J313J1J360J1J22031J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J520J&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=6MQ6031J543J1J271J1J512J1J314J1J241J1J262J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J520J&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=3PQH031J560J1J2N2J1J512J1J320J1J452J1J40031J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J520J&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=2CMV031J583J1J122J1J512J1J32231J0M0J1J13031J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J520J&model_=1stPlayer+B4-M-1A2+Black&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=T6RI031J510J1J36231J1Q0J1J2M131J34431J3M1J1J4A0J1J38131J4L131J3I031J50531J1L0J1J51531J1Q0J1J4A0J1J50721J0Q131H&model_=1stPlayer+B4-M-1A2&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=4JRC031J592J1J2P231J512J1J32331J2K0J1J2O0J1J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3Q131H&model_=1stPlayer+B4-M-1A2+Black&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=02RM031J59031J45131J512J1J313J1J03431J0M431J51331J424J1J2I3J1J10531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1219,
+        "link": "https://ek.ua/en/clcp.php?ep_=38Q5031J59031J45131J512J1J31431J1P2J1J0I4J1J51331J424J1J2I3J1J13531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131H&model_=1stPlayer+B4-M-1A2+Black+&idSite_=1&idGood_=2185277"
+      }
+    ],
+    "range": {
+      "minPrice": 1120,
+      "maxPrice": 1341
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansTotal": "1",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "dustFilter": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "blind door",
+  "weight": "4.3 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10122"
+  },
+  "id": "VINGA-CS314B",
+  "name": "Vinga CS314B black",
+  "mainImage": "https://s.ek.ua/jpg/2112249.jpg",
+  "brand": "Vinga",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he case is equipped with everything necessary to assemble a good computer system based on the platform. This case fits perfectly with a compact size motherboard. The model supports the installation of a motherboard of several formats: Micro-ATX, Mini-ITX. The case will be able to take on board a processor with a good level of performance. The Vinga CS314B computer case will fit a CPU with a tower up to 165 mm.</p><p>If the system unit needs discrete video, then it will be possible to install a good gaming graphics card up to 330 mm long on the chassis. To make the chassis more spacious and comfortable, the power supply compartment is moved to the very bottom. This is a modern 2-section box that gives you an excellent platform for building a great PC for little money. This solution can be attributed to the Mini Tower class. This is a very compact case. Good capacity is due to the competent distribution of the internal space of the chassis. The design of the front panel makes the box even more breathable. At the heart of the front cover is a mesh through which the working space of the case can easily breathe. This system unit is able to seriously compete with more expensive and famous solutions.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1649,
+        "link": "https://ek.ua/en/clcp.php?ep_=OPP4031J510J1J2H3J1J4Q0J1J2M0J1J00231J40031J2Q0J1J38131J4L131J3I3J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q2J&model_=Vinga+CS314B+CS314B&idSite_=1&idGood_=2112249"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1649,
+        "link": "https://ek.ua/en/clcp.php?ep_=212E031J57331J421J1J512J1J32231J431J1J2L3J1J51331J424J1J2I3J1J17531J0A1J1J2H531J0Q1J1J52531J0Q0313712J1J55&model_=Vinga+CS314B&idSite_=1&idGood_=2112249"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1797,
+        "link": "https://ek.ua/en/clcp.php?ep_=TK17031J59331J193J1J512J1J32031J1K2J1J36331J51331J424J1J2I3J1J17531J0A1J1J2H531J0Q1J1J53531J0Q031371131J55&model_=Vinga+CS314B&idSite_=1&idGood_=2112249"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1649,
+        "link": "https://ek.ua/en/clcp.php?ep_=UJ12031J560J1J393J1J512J1J301J1J46431J220J1J51331J424J1J2I3J1J17531J0A1J1J2H531J0Q1J1J54531J0Q0313710J1J55&model_=Vinga+CS314B&idSite_=1&idGood_=2112249"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1649,
+        "link": "https://ek.ua/en/clcp.php?ep_=P4V1031J58131J2K131J512J1J320J1J0M3J1J0J231J51331J424J1J2I3J1J17531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J55&model_=Vinga+CS314B&idSite_=1&idGood_=2112249"
+      }
+    ],
+    "range": {
+      "minPrice": 1649,
+      "maxPrice": 1797
+    }
+  },
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 4,
+  "openMechanism": "removable panel",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "3x120мм"
+    },
+    {
+      "fans(Top)": "2x120мм"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingInfo": [],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10123"
+  },
+  "id": "BE-QUIET--PURE-BASE-500-FX",
+  "name": "be quiet! Pure Base 500 FX black",
+  "mainImage": "https://s.ek.ua/jpg/2278544.jpg",
+  "brand": "be quiet!",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>his case can serve as an excellent solution for accommodating powerful Hi-End computer components. The system unit complies with the be quiet! proprietary concept, which provides for the synthesis of the highest reliability, convenience and performance, as well as proprietary silence. This case received a cooling system based on the latest Light Wings fans. Such impellers guarantee an intensive influx of fresh air, while the turntables operate with a minimum level of noise.</p><p>computer case be quiet! The Pure Base 500 FX is perfect for organizing today's gaming builds. This platform features spectacular ARGB lighting that covers the exterior and interior surfaces of the chassis, creating an interesting multi-color panorama. The case is protected on all sides by nylon mesh inserts. At the same time, it allows you to use almost any flagship microprocessor with powerful cooling - to stabilize the operation of a hot CPU, a mounting space is provided for a tower up to 190 mm high. The system unit is perfectly compatible with advanced be quiet components. This platform will confidently pull the assembly of a professional gaming computer or a powerful workstation.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 6339,
+        "link": "https://ek.ua/en/clcp.php?ep_=T42M031J552J1J18231J512J1J30431J0O3J1J3O0J1J51331J424J1J2I3J1J1L531J0A1J1J2H531J0Q1J1J51531J0Q0313711J1J59&model_=Be+Quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 6339,
+        "link": "https://ek.ua/en/clcp.php?ep_=S306031J573J1J3P131J512J1J304J1J050J1J0M1J1J51331J424J1J2I3J1J1L531J0A1J1J2H531J0Q1J1J52531J0Q0313710J1J59&model_=BE+QUIET%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 6339,
+        "link": "https://ek.ua/en/clcp.php?ep_=MVM4031J510J1J27231J0A0J1J2M0J1J3G031J0J0J1J3A0J1J38131J4L131J3J331J50531J1L0J1J51531J1Q1J1J51531I0E0J1J59&model_=Be+Quiet%21+Pure+Base+500FX&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 6345,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHQ0031J59231J31231J512J1J32231J120J1J1M131J51331J424J1J2I3J1J1M531J0A1J1J2H531J0Q1J1J54531J0Q031371531P&model_=be+quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 6240,
+        "link": "https://ek.ua/en/clcp.php?ep_=PNSM031J510J1J33331J0Q0J1J2M131J284J1J1P431J0Q0J1J38131J4L131J3J331J50531J1L0J1J51531J1Q2J1J51531I0E0J1J59&model_=be+quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e52",
+        "price": 7069,
+        "link": "https://ek.ua/en/clcp.php?ep_=320K031J594J1J013J1J512J1J32331J0I4J1J4O2J1J51331J424J1J2I3J1J1M531J0A1J1J2H531J0Q1J1J56531J0Q031371531P&model_=be+quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 6564,
+        "link": "https://ek.ua/en/clcp.php?ep_=2ROB031J51031J2I431J2A0J1J2M131J322J1J153J1J2Q0J1J38131J4L131J3J331J50531J1L0J1J51531J1Q3J1J51531I0E031J3Q4J&model_=Be+quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 6339,
+        "link": "https://ek.ua/en/clcp.php?ep_=VM03031J59031J45131J512J1J30031J36131J31431J51331J424J1J2I3J1J1M531J0A1J1J2H531J0Q1J1J58531J0Q031370331J59&model_=be+quiet%21+Pure+Base+500+F&idSite_=1&idGood_=2278544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 6744,
+        "link": "https://ek.ua/en/clcp.php?ep_=T60P031J59031J45131J512J1J30031J36131J3M1J1J51331J424J1J2I3J1J1M531J0A1J1J2H531J0Q1J1J59531J0Q031370331J59&model_=Be+quiet%21+Pure+Base+500FX&idSite_=1&idGood_=2278544"
+      }
+    ],
+    "range": {
+      "minPrice": 6240,
+      "maxPrice": 7069
+    }
+  },
+  "officialWebsite": "bequiet.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "4 / 1x120мм, 3x140мм (Light Wings) /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x140мм / 1x120мм /"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "140mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "8 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10124"
+  },
+  "id": "BE-QUIET--PURE-BASE-500DX-BGW38",
+  "name": "be quiet! Pure Base 500DX white",
+  "mainImage": "https://s.ek.ua/jpg/1782700.jpg",
+  "brand": "be quiet!",
+  "description": "<p><span class=\"desc-ai-initcap\">M</span>edium-sized case from the German company Be quiet. The platform allows you to build a computer of almost any performance class. Among other things, the high status of the case is given out by its weight — the model weighs 7.8 kg, which indicates the use of thick metal in the frame and cladding. There is a mesh panel on the front, which allows the cooling system to freely draw in any amount of air.</p><p>The same mesh is on top. The front panel is equipped with a pair of LED strips. When disconnecting the front mesh, you don’t have to worry about the integrity of the wires, since the backlight is connected using contact terminals. Computer case Be quiet Pure Base 500DX received a good cooling system. Three 140 mm fans from the Pure Wings 2 series are responsible for blowing through the case.</p><p>The capacity of this chassis is above average. So, the platform is able to place a CPU cooling tower up to 190 mm high inside, 369 mm is allocated for mounting a graphics card. In the role of a power supply, you can use a fairly powerful model, because the length of the block can reach a solid 258 mm. There is dust protection on the front, top and bottom, making it possible to put expensive and performant dust-sensitive hardware on the chassis.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 5549,
+        "link": "https://ek.ua/en/clcp.php?ep_=VK14031J552J1J18231J512J1J30431J0O4J1J0P1J1J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J51531J0Q031371331J57&model_=Be+Quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 5539,
+        "link": "https://ek.ua/en/clcp.php?ep_=VILT031J51031J254J1J0Q0J1J2M031J4P0J1J23431J4A0J1J38131J4L131J3K231J50531J1L0J1J51531J1Q131J51531I0E0J1J1Q3J&model_=be+quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 5539,
+        "link": "https://ek.ua/en/clcp.php?ep_=T340031J573J1J3P131J512J1J304J1J05031J4I2J1J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J57&model_=BE+QUIET%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 5503,
+        "link": "https://ek.ua/en/clcp.php?ep_=3MUF031J591J1J073J1J512J1J322J1J27431J0H3J1J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J54531J0Q0313703J1J57&model_=be+quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 5893,
+        "link": "https://ek.ua/en/clcp.php?ep_=SM11031J59031J45131J512J1J30031J36131J3M131J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J55531J0Q031370331J57&model_=Be+quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 5506,
+        "link": "https://ek.ua/en/clcp.php?ep_=21TF031J59231J31231J512J1J322J1J2I431J171J1J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J56531J0Q031371531N&model_=be+quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 5500,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LRE031J59231J354J1J512J1J322J1J2M0J1J2H1J1J51331J424J1J2I3J1J24531J0A1J1J2H531J0Q1J1J57531J0Q031371531N&model_=be+quiet%21+Pure+Base+500DX&idSite_=1&idGood_=1782700"
+      }
+    ],
+    "range": {
+      "minPrice": 5500,
+      "maxPrice": 5893
+    }
+  },
+  "officialWebsite": "bequiet.com",
+  "colour": "white",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "3 / 140 /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x140мм / 1x120мм /"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "140mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 1,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "7.8 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10125"
+  },
+  "id": "MSI-MAG-FORGE-100M",
+  "name": "MSI MAG FORGE 100M black",
+  "mainImage": "https://s.ek.ua/jpg/1759866.jpg",
+  "brand": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>n advanced case from the world-renowned computer system manufacturer MSI. This is a mid-size model with a well thought out chassis. The tray is designed to mount a motherboard size: ATX, microATX or Mini-ITX. This case has a very solid potential in terms of assembling a performant and hot PC. To do this, the MSI MAG Forge 100M case comes with three 120mm impellers, while all stock coolers have full RGB lighting.</p><p>Fans can be powered both from the controller built into the case, and directly from the motherboard, if it supports this option. Synchronization is available with MSI Mystic Light Sync and other similar systems. The case has a sidewall for viewing the chassis, while the viewing side panel is made of durable tempered glass. Inside the platform, it will be possible to place a powerful processor with a cooling tower up to 160 mm and premium graphics up to 330 mm long. The chassis has a 2-section design, the lower tier, traditionally for modern models, is allocated for mounting the power supply and memory drives. 7 slots are available to expand system capabilities. Among the interfaces are: 2 USB 3.0 ports and 3.5 mm audio jacks.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 2963,
+        "link": "https://ek.ua/en/clcp.php?ep_=7MTJ031J59231J354J1J512J1J322J1J2N1J1J3K3J1J51331J424J1J2I3J1J2I531J0A1J1J2H531J0Q1J1J51531J1Q031371531H&model_=MSI+MAG+Forge+100M&idSite_=1&idGood_=1759866"
+      }
+    ],
+    "range": {
+      "minPrice": 2963,
+      "maxPrice": 2963
+    }
+  },
+  "officialWebsite": "ua.msi.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "3",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x120мм"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "120mm"
+    },
+    {
+      "liquidCooling(Front)": "240mm"
+    },
+    {
+      "liquidCooling(Top)": "240mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "5.64 kg"
+},{
+  "_id": {
+    "$oid": "644fd23c94a38d7417b10126"
+  },
+  "id": "DEEPCOOL-CK560",
+  "name": "Deepcool CK560 black",
+  "mainImage": "https://s.ek.ua/jpg/2161426.jpg",
+  "brand": "Deepcool",
+  "description": "<p><span class=\"desc-ai-initcap\">S</span>tylish case with a practical design and excellent cooling. From this platform, it will be possible to make a perfectly balanced gaming computer without any extra effort. The box comes complete with efficient cooling. The system for removing heat from the chassis is formed from four fans. There are three 120 mm impellers at the front. Front turntables are combined with ARGB illumination.</p><p>The rear fan has 140mm blades and comes without a backlight system. The Deepcool CK560 computer case features an interesting front panel design. The front cover has a metal base. The entire front cover is dotted with perforations in the form of numerous cross-shaped cutouts. This allows you to make the cooling system more performant than ever, provided that the fans operate at a moderate speed.</p><p>This makes the cooling system also quiet. The processor installation opening supports CPUs up to 175mm high. This is enough to equip your PC with a powerful gaming-grade processor. The stock space for the graphics card has a length of 380 mm. Modern ports and connectors are displayed on the control panel: two USB 3.0 ports, one USB Type C 3.0 port, one combined 3.5 mm audio system jack.</p>",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=SPLN031J510J1J2H3J1J4Q0J1J2M0J1J001J1J0P231J3Q0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131N&model_=Deepcool+CK560+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=31P3031J561J1J00131J512J1J2P4J1J351J1J1H131J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J52531J0Q031371531J17&model_=DEEPCOOL+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=55VE031J552J1J18231J512J1J30431J0O431J0G131J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J53531J0Q031371431J523J&model_=Deepcool+CK560+ARGB+Tempe&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=82T1031J560J1J0M1J1J512J1J313J1J24431J0J431J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J523J&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=5M04031J543J1J35031J512J1J32231J391J1J0L3J1J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J523J&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Deepcool+CK560+Bla&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=077I031J57331J421J1J512J1J320J1J1N4J1J4L031J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J56531J0Q031371331J523J&model_=Deepcool+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=51VL031J58331J054J1J512J1J30431J0H3J1J1M031J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J523J&model_=DeepCool+CK560+Black+%D0%B1%D0%B5%D0%B7+&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=UIL6031J51031J254J1J0Q0J1J2M031J4P0J1J240J1J0A0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131N&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 4639,
+        "link": "https://ek.ua/en/clcp.php?ep_=VEOJ031J510J1J34131J3A0J1J2M131J2L131J3I331J0A0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J2Q131N&model_=DeepCool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 4541,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LVL031J59431J282J1J512J1J32331J1M2J1J23331J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q131N&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+DeepCool+CK560+Bla&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 4875,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LUO031J59331J193J1J512J1J322J1J463J1J25231J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J1A131N&model_=Deepcool+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GQ6031J560J1J393J1J512J1J301J1J44031J1L131J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131N&model_=Deepcool+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q2RL031J58131J2K131J512J1J320J1J0K131J27131J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J0Q131N&model_=Deepcool+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=12OM031J510J1J2H031J4Q0J1J2M031J40331J26431J2A0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131N&model_=DeepCool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=55RQ031J552J1J03431J512J1J30431J12231J1M031J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J523J&model_=Deepcool+CK560+Black+with&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=5BSR031J543J1J271J1J512J1J304J1J29031J1J0J1J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J523J&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 5323,
+        "link": "https://ek.ua/en/clcp.php?ep_=P4RN031J510J1J27231J0A0J1J2M0J1J02431J4H0J1J2A0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q131N&model_=DeepCool+CK560+Black+%D0%B1%D0%B5%D0%B7+&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=5CQP031J55131J153J1J512J1J31031J3P131J220J1J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J523J&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 5040,
+        "link": "https://ek.ua/en/clcp.php?ep_=39VC031J59231J31231J512J1J32231J12031J4O031J51331J424J1J2I3J1J2P531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J523J&model_=Deepcool+CK560+%28R-CK560-B&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 4494,
+        "link": "https://ek.ua/en/clcp.php?ep_=SMKO031J510J1J36231J1Q0J1J2M131J24031J0J1J1J3Q0J1J38131J4L131J3L4J1J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q131N&model_=Deepcool+CK560&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=VQSH031J58431J0G031J512J1J322J1J0K131J142J1J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J523J&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=4TRR031J560J1J2N2J1J512J1J32331J0P2J1J07431J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J523J&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=5VUJ031J592J1J2P231J512J1J32331J300J1J3M4J1J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3Q131N&model_=Deepcool+CK560+Black&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 5019,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5SS031J59031J45131J512J1J30031J36131J2L1J1J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131N&model_=Deepcool+CK560+Black&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 4825,
+        "link": "https://ek.ua/en/clcp.php?ep_=50PB031J560J1J0M1J1J512J1J31431J042J1J0I4J1J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J3Q131N&model_=Deepcool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 5044,
+        "link": "https://ek.ua/en/clcp.php?ep_=UBTB031J543J1J35031J512J1J322J1J0H0J1J120J1J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3Q131N&model_=%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81+Deepcool+CK560+Bla&idSite_=1&idGood_=2161426"
+      },
+      {
+        "storeId": "6320d04d332e9aa694200b4e",
+        "price": 5016,
+        "link": "https://ek.ua/en/clcp.php?ep_=15UA031J59031J45131J512J1J30031J36131J43231J51331J424J1J2I3J1J32531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3A131N&model_=DeepCool+CK560+Black+%28R-C&idSite_=1&idGood_=2161426"
+      }
+    ],
+    "range": {
+      "minPrice": 4494,
+      "maxPrice": 5323
+    }
+  },
+  "officialWebsite": "global.deepcool.com",
+  "colour": "black",
+  "target": "game",
+  "mount": "vertical",
+  "motherboardFormFactor": "vertical",
+  "boardPlacement": "vertical",
+  "rubberFeet": true,
+  "expansionSlots": 7,
+  "openMechanism": "removable panel",
+  "fansTotal": "4 / 3x120мм, 1x140мм /",
+  "fansInfo": [
+    {
+      "fans(Back)": "1x140мм / 1x120мм /"
+    },
+    {
+      "fans(Front)": "2x140мм / 3x120мм /"
+    },
+    {
+      "fans(Top)": "2x140мм / 2x120мм /"
+    }
+  ],
+  "gridFrontPanel": true,
+  "dustFilter": true,
+  "liquidCoolingSupport": true,
+  "liquidPlacement": "on top of the case",
+  "liquidCoolingMountsTotal": 3,
+  "liquidCoolingInfo": [
+    {
+      "liquidCooling(Rear)": "140mm"
+    },
+    {
+      "liquidCooling(Front)": "360mm"
+    },
+    {
+      "liquidCooling(Top)": "280mm"
+    }
+  ],
+  "usb32Gen1": 2,
+  "audioPort": true,
+  "material": "steel",
+  "frontPanel": "lattice",
+  "weight": "8 kg"
+}]

@@ -1,0 +1,2985 @@
+[{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5353"
+  },
+  "id": "MSI-GEFORCE-RTX-3090-VENTUS-3X-24G-OC",
+  "name": "MSI GeForce RTX 3090 VENTUS 3X 24G OC",
+  "mainImage": "https://s.ek.ua/jpg/1864340.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 37999,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHTJ031J560J1J0M1J1J512J1J313J1J222J1J360J1J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J58&model_=Msi+GeForce+Rtx+3090+Vent&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 38399,
+        "link": "https://ek.ua/en/clcp.php?ep_=UN1U031J543J1J35031J512J1J32231J39331J1G1J1J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J58&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+Rt&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 30343,
+        "link": "https://ek.ua/en/clcp.php?ep_=V85V031J57331J421J1J512J1J323J1J073J1J4J2J1J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J53531J0Q031371331J58&model_=MSI+GeForce+RTX+3090+2457&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "6320d007332e9aa6941f7194",
+        "price": 91400,
+        "link": "https://ek.ua/en/clcp.php?ep_=12OI031J59031J0G131J512J1J32331J1G031J174J1J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J58&model_=MSI+GeForce+RTX+3090+VENT&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 53500,
+        "link": "https://ek.ua/en/clcp.php?ep_=U80A031J59431J282J1J512J1J32331J1L2J1J0M231J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J58&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+MSI+GeForce+RT&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "644fb9a6b68c4f46ebaab659",
+        "price": 41999,
+        "link": "https://ek.ua/en/clcp.php?ep_=T1P5031J510J1J2M4J1J2Q0J1J2M0J1J1I0J1J2L231J3A0J1J38131J4L2J1J24331J50531J1L0J1J51531J1Q331J51531I0E0J1J58&model_=MSI+GeForce+RTX+3090+VENT&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 30451,
+        "link": "https://ek.ua/en/clcp.php?ep_=320M031J543J1J271J1J512J1J32331J4K431J02231J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J57531J0Q0313703J1J58&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1864340"
+      },
+      {
+        "storeId": "6322e984332e9aa69416ba1d",
+        "price": 58851,
+        "link": "https://ek.ua/en/clcp.php?ep_=VJVQ031J59031J45131J512J1J31031J2H231J2O4J1J51331J424J1J2L231J26531J0A1J1J2H531J0Q1J1J58531J0Q031370331J58&model_=MSI+GeForce+RTX+3090+VENT&idSite_=1&idGood_=1864340"
+      }
+    ],
+    "range": {
+      "minPrice": 30343,
+      "maxPrice": 91400
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of MSI's flagship models and one of the highest performing single-socket gaming graphics cards of 2021 based on the Nvidia Ampere microarchitecture. It is positioned as a premium-class product focused on use as part of top gaming systems and effective solution of computational problems (Machine Learning, 3D rendering using GPU, etc.). It differs from similar models from other manufacturers by factory overclocking of the GPU and a proprietary cooling system, which consists of a system of copper heat pipes, aluminium fins and three durable Torx Fan 3.0 fans.</p><p>The MSI GeForce RTX 3090 VENTUS 3X 24G OC graphics card is based on the 2021 flagship Nvidia GA102 GPU. It is equipped with 2nd generation RT cores that enable 3D imaging using Real-Time Ray Tracing for realistic rendering of lighting and reflections. Also worth noting is the DLSS intelligent scaling technology, which guarantees excellent image quality through the use of ML technologies. A large amount of ultra-fast graphics memory (24 GB GDDR6X) makes it possible to use the highest resolution textures. The gaming performance of this card is enough for comfortable gaming in all AAA titles of 2015-2021 in 4K resolution at maximum graphics settings.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3090",
+  "memorySize": "24 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "384 bit",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "10496",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 + 8 pin",
+  "minPSU": "750 W",
+  "numberOfSlots": "2.7",
+  "size": "305 mm / 305x120x57 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5354"
+  },
+  "id": "MSI-GEFORCE-RTX-3070-TI-GAMING-X-TRIO-8G",
+  "name": "MSI GeForce RTX 3070 Ti GAMING X TRIO 8G",
+  "mainImage": "https://s.ek.ua/jpg/2033800.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 32292,
+        "link": "https://ek.ua/en/clcp.php?ep_=S0MU031J510J1J2H3J1J4Q0J1J2M0J1J270J1J3G2J1J2A0J1J38131J4L2J1J252J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1N&model_=MSI+GF+RTX+3070+Ti+8GB+GD&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 32121,
+        "link": "https://ek.ua/en/clcp.php?ep_=34NJ031J561J1J00131J512J1J2P4J1J35131J2L131J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J52531J0Q031371531J0N&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6322e51c332e9aa6940b515f",
+        "price": 29835,
+        "link": "https://ek.ua/en/clcp.php?ep_=4EVK031J54131J4H031J512J1J31231J3G031J4G1J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J53531J0Q031371431J513J&model_=MSI+GeForce+RTX3070+Ti+8G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 29307,
+        "link": "https://ek.ua/en/clcp.php?ep_=4KSU031J560J1J0M1J1J512J1J313J1J244J1J1K0J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J513J&model_=Msi+GeForce+RTX3070+Ti+8G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 29307,
+        "link": "https://ek.ua/en/clcp.php?ep_=580S031J543J1J35031J512J1J32231J39331J1H331J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J513J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+RT&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 29436,
+        "link": "https://ek.ua/en/clcp.php?ep_=V819031J57331J421J1J512J1J320J1J1M331J1G1J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J513J&model_=MSI+GeForce+RTX3070+Ti+81&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 28600,
+        "link": "https://ek.ua/en/clcp.php?ep_=3LV2031J543J1J271J1J512J1J304J1J284J1J21231J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0N&model_=MSI+GeForce+RTX3070+Ti+8G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 28847,
+        "link": "https://ek.ua/en/clcp.php?ep_=TIOV031J510J1J27231J0A0J1J2M0J1J02431J12431J2Q0J1J38131J4L2J1J252J1J50531J1L0J1J51531J1Q431J51531I0E0J1J513J&model_=MSI+GeForce+RTX3070+Ti+8G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 29153,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BQJ031J59131J3G4J1J512J1J31031J1P2J1J0M2J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0N&model_=MSI+RTX+3070+Ti+GAMING+X+&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 29451,
+        "link": "https://ek.ua/en/clcp.php?ep_=SVUG031J592J1J32131J512J1J310J1J061J1J3G1J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J513J&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 30947,
+        "link": "https://ek.ua/en/clcp.php?ep_=15QO031J552J1J18231J512J1J31331J0G031J321J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J513J&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 28706,
+        "link": "https://ek.ua/en/clcp.php?ep_=VQT3031J58431J0G031J512J1J32031J4I131J3K0J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J513J&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 27545,
+        "link": "https://ek.ua/en/clcp.php?ep_=4Q04031J59231J354J1J512J1J32231J1G2J1J4G1J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J513J&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 32945,
+        "link": "https://ek.ua/en/clcp.php?ep_=78OV031J560J1J2N2J1J512J1J322J1J3I0J1J19331J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J513J&model_=MSI+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+RT&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 37500,
+        "link": "https://ek.ua/en/clcp.php?ep_=7OUE031J58331J3M131J512J1J322J1J4G231J1P3J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J513J&model_=MSI+GeForce+RTX+3070+Ti+G&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 29835,
+        "link": "https://ek.ua/en/clcp.php?ep_=92QT031J592J1J2P231J512J1J32331J2P0J1J154J1J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J513J&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=2033800"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 31384,
+        "link": "https://ek.ua/en/clcp.php?ep_=6OTT031J560J1J2N2J1J512J1J322J1J3I431J2N131J51331J424J1J2L231J2L531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J513J&model_=MSI+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+RT&idSite_=1&idGood_=2033800"
+      }
+    ],
+    "range": {
+      "minPrice": 27545,
+      "maxPrice": 37500
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> performant pre-top gaming graphics card of 2021, which is capable of providing a consistently high frame rate in any popular game projects of 2015-2021 at resolutions up to 2560x1440 (inclusive) at maximum graphics settings. Unlike many similar models from other brands, it has a profile of significant factory overclocking of the GPU. MSI GeForce RTX 3070 Ti GAMING X TRIO 8G graphics card supports high-speed PCI-E Gen4 x16 system interface, equipped with a powerful and relatively quiet TRI Frozr 2 cooling system with special rectangular heatpipes Core Pipes and durable Torx Fan 4.0 fans with dual impeller (fans stop if the GPU temperature drops below 50 degrees).</p><p>Like the previous 2020 model MSI GeForce RTX 3070 GAMING X TRIO, this graphics card is equipped with Nvidia GA104 GPU based on the progressive Ampere microarchitecture. But, in this model, the GPU has more active functional units (+4.3%), and instead of GDDR6 graphics memory, faster GDDR6X is used, which provided a throughput increase of +35%. As a result, the average performance of the graphics card increased by 5-11%, and approached the top GeForce RTX 3080.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3070 Ti",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "256 bit",
+  "GPUClockSpeed": "1830 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "6144",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 + 8 pin",
+  "minPSU": "750 W",
+  "numberOfSlots": "2.5",
+  "size": "323 mm / 323x140x56 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5355"
+  },
+  "id": "MSI-GEFORCE-GTX-1660-SUPER-VENTUS-XS-OC",
+  "name": "MSI GeForce GTX 1660 SUPER VENTUS XS OC",
+  "mainImage": "https://s.ek.ua/jpg/1681945.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 10915,
+        "link": "https://ek.ua/en/clcp.php?ep_=RPPV031J510J1J2H3J1J4Q0J1J2M0J1J00231J441J1J3A0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 11433,
+        "link": "https://ek.ua/en/clcp.php?ep_=64P3031J561J1J00131J512J1J2P4J1J35131J2L431J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J52531J0Q031371531J1J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 12211,
+        "link": "https://ek.ua/en/clcp.php?ep_=T9OI031J510J1J2H3J1J4Q0J1J2M0J1J3G1J1J370J1J1A0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J0Q1J1J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 30061,
+        "link": "https://ek.ua/en/clcp.php?ep_=QKQV031J561J1J00131J512J1J32031J05231J36031J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J54531J0Q031371531J1J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 11240,
+        "link": "https://ek.ua/en/clcp.php?ep_=8MRO031J560J1J0M1J1J512J1J313J1J244J1J1P4J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J531J&model_=Msi+GeForce+Gtx+1660+Supe&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 11354,
+        "link": "https://ek.ua/en/clcp.php?ep_=2PVO031J543J1J35031J512J1J32231J39331J1O0J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J56531J0Q0313713J1J531J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+Gt&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 10915,
+        "link": "https://ek.ua/en/clcp.php?ep_=5PQJ031J510J1J2H031J4Q0J1J2M031J40331J3O4J1J4Q0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J3A1J1J&model_=MSI+%28GeForce+GTX+1660+Sup&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 10582,
+        "link": "https://ek.ua/en/clcp.php?ep_=4O2F031J57331J421J1J512J1J320J1J1K431J304J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J58531J0Q031371331J531J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 11598,
+        "link": "https://ek.ua/en/clcp.php?ep_=1NTR031J55331J28131J512J1J310J1J36431J06131J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J531J&model_=MSI+GeForce+GTX+1660+Supe&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 10534,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OQS031J58331J054J1J512J1J313J1J0N031J3I0J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q1J1J&model_=MSI+Ventus+XS+GTX+1660+Su&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 11193,
+        "link": "https://ek.ua/en/clcp.php?ep_=U3OI031J55331J0K131J512J1J32031J0L031J0O4J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J2Q1J1J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+gt&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 11175,
+        "link": "https://ek.ua/en/clcp.php?ep_=48UM031J59431J282J1J512J1J32331J1M031J484J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J2Q1J1J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GF+GTX+1660+Su&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 10694,
+        "link": "https://ek.ua/en/clcp.php?ep_=16SN031J510J1J34131J3A0J1J2M131J381J1J37331J2Q0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0J531J1J&model_=MSI+%28GeForce+GTX+1660+Sup&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 10553,
+        "link": "https://ek.ua/en/clcp.php?ep_=25VK031J573J1J3P131J512J1J304J1J05031J474J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J1A1J1J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 10678,
+        "link": "https://ek.ua/en/clcp.php?ep_=32SK031J560J1J393J1J512J1J301J1J433J1J17231J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J0Q1J1J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 10678,
+        "link": "https://ek.ua/en/clcp.php?ep_=U4SQ031J58131J2K131J512J1J32231J130J1J4G1J1J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J0Q1J1J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 10699,
+        "link": "https://ek.ua/en/clcp.php?ep_=7VT1031J552J1J18231J512J1J30431J0O4J1J28431J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J531J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 10450,
+        "link": "https://ek.ua/en/clcp.php?ep_=8UV8031J543J1J271J1J512J1J304J1J283J1J3G331J51331J424J1J2L231J39531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J531J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 10967,
+        "link": "https://ek.ua/en/clcp.php?ep_=VKR7031J510J1J27231J0A0J1J2M0J1J023J1J444J1J3Q0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q0J1J4Q0J1J50721J0Q1J1J&model_=MSI+%28GeForce+GTX+1660+Sup&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79ad",
+        "price": 11000,
+        "link": "https://ek.ua/en/clcp.php?ep_=TOTN031J510J1J34231J0Q0J1J2M0J1J1M4J1J4N431J4A0J1J38131J4L2J1J264J1J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q1J1J&model_=MSI+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+GT&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 10844,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BSC031J58431J0G031J512J1J313J1J3H0J1J4G131J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J531J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 11178,
+        "link": "https://ek.ua/en/clcp.php?ep_=8BOR031J56031J4M2J1J512J1J314J1J23131J094J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J531J&model_=Msi+GeForce+Gtx+1660+Supe&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 10748,
+        "link": "https://ek.ua/en/clcp.php?ep_=UOSJ031J55331J46031J512J1J32131J0H031J2G231J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J531J&model_=MSI+GeForce+GTX1660+SUPER&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 11494,
+        "link": "https://ek.ua/en/clcp.php?ep_=1GRI031J583J1J122J1J512J1J32231J0M3J1J0J0J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J531J&model_=MSI+%28GeForce+GTX+1660+Sup&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 11080,
+        "link": "https://ek.ua/en/clcp.php?ep_=7DQJ031J592J1J32131J512J1J322J1J32231J044J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J531J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 10989,
+        "link": "https://ek.ua/en/clcp.php?ep_=99R4031J560J1J2N2J1J512J1J322J1J3H3J1J1G431J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J531J&model_=MSI+GTX+1660+SUPER+VENTUS&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 11999,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BRI031J592J1J2P231J512J1J32331J2P0J1J19031J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3Q1J1J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 10679,
+        "link": "https://ek.ua/en/clcp.php?ep_=0JSD031J59031J45131J512J1J31031J2H231J1P1J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J52431J51531I0E031J3A1J1J&model_=MSI+PCI-Ex+GeForce+GTX+16&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 8282,
+        "link": "https://ek.ua/en/clcp.php?ep_=2JUK031J57331J421J1J512J1J320J1J23231J12231J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J3A1J1J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 11699,
+        "link": "https://ek.ua/en/clcp.php?ep_=TJQ5031J55331J0K131J512J1J32031J0L031J204J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J53031J51531I0E0J1J2Q1J1J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+gt&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 11578,
+        "link": "https://ek.ua/en/clcp.php?ep_=NJQM031J55331J0K131J512J1J32031J0L031J2H031J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J530J1J51531I0E0J1J0Q1J1J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+gt&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 11389,
+        "link": "https://ek.ua/en/clcp.php?ep_=3OTO031J560J1J2N2J1J512J1J32331J0P231J404J1J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J53131J51531I0E031J3Q1J1J&model_=MSI+GeForce+GTX+1660+SUPE&idSite_=1&idGood_=1681945"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 10519,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LSU031J59031J45131J512J1J313J1J03431J09431J51331J424J1J2L231J3I531J0A1J1J2H531J0Q1J1J531J1J51531I0E031J3A1J1J&model_=MSI+OC+%28GeForce+GTX+1660+&idSite_=1&idGood_=1681945"
+      }
+    ],
+    "range": {
+      "minPrice": 8282,
+      "maxPrice": 30061
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">2</span>019 mid-range gaming graphics card based on Nvidia TU116 GPU with Turing progressive microarchitecture. Unlike the previous model (MSI GeForce GTX 1660 VENTUS 6G XS OC), this video adapter is equipped with a more powerful new-generation GDDR6 graphics memory that communicates with the GPU via a 192-bit bus. The effective clock frequency increased to 14000 MHz increases the bandwidth of the memory subsystem, which has the most positive effect on the weighted average gaming performance (+10...20% compared to the MSI GeForce GTX 1660).</p><p>With this hardware configuration, the MSI GeForce GTX 1660 SUPER VENTUS XS OC graphics card is suitable for completing balanced gaming systems at a moderate cost and upgrading existing gaming configurations. In conjunction with a performant CPU, it is able to provide a comfortably high frame rate in the vast majority of popular game projects of 2015-2020 in FullHD resolution at high/maximum graphics quality settings. The undoubted advantages of this model include the short length of the printed circuit board (204 mm), which allows the card to be installed in compact microATX cases. The two-slot Ventus cooling system also deserves a positive assessment.</p>",
+  "interface": "PCI-E v3.0",
+  "GPUModel": "NVIDIA GeForce GTX 1660 SUPER",
+  "memorySize": "6 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1815 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.0b",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4",
+  "directX": "12",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "1408",
+  "textureUnits": "88",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "450 W",
+  "numberOfSlots": "2",
+  "size": "204 mm / 204x128x42 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5356"
+  },
+  "id": "MSI-GEFORCE-RTX-3060-GAMING-X-12G",
+  "name": "MSI GeForce RTX 3060 GAMING X 12G",
+  "mainImage": "https://s.ek.ua/jpg/1941006.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 19019,
+        "link": "https://ek.ua/en/clcp.php?ep_=RPPK031J510J1J2H3J1J4Q0J1J2M0J1J00231J451J1J4A0J1J38131J4L2J1J273J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131M&model_=MSI+12Gb+GDDR6+192Bit+RTX&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 17784,
+        "link": "https://ek.ua/en/clcp.php?ep_=24QB031J561J1J00131J512J1J32131J25231J2J4J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J52531J0Q031371531J16&model_=MSI+RTX+3060+GAMING+X+12G&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 17779,
+        "link": "https://ek.ua/en/clcp.php?ep_=55TF031J560J1J0M1J1J512J1J313J1J244J1J1K131J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5233&model_=Msi+GeForce+RTX3060+12Gb+&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 18072,
+        "link": "https://ek.ua/en/clcp.php?ep_=591D031J543J1J35031J512J1J32231J39331J1H3J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5233&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+RT&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 18495,
+        "link": "https://ek.ua/en/clcp.php?ep_=0NVG031J55331J28131J512J1J310J1J370J1J3H031J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "644fae09b68c4f46eb9f3430",
+        "price": 17289,
+        "link": "https://ek.ua/en/clcp.php?ep_=5Q4A031J57431J20131J512J1J31131J373J1J4I4J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5233&model_=MSI+GeForce+RTX+3060+Gami&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 17150,
+        "link": "https://ek.ua/en/clcp.php?ep_=244D031J574J1J20331J512J1J311J1J113J1J440J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 17298,
+        "link": "https://ek.ua/en/clcp.php?ep_=VFJS031J51031J25131J2A0J1J2M0J1J36131J093J1J2A0J1J38131J4L2J1J273J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131M&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 19021,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5R2031J55331J0K131J512J1J32031J0L031J121J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5233&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+rt&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 17982,
+        "link": "https://ek.ua/en/clcp.php?ep_=0QT3031J59331J193J1J512J1J32031J480J1J43331J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131M&model_=MSI+GeForce+RTX3060+12Gb+&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 16999,
+        "link": "https://ek.ua/en/clcp.php?ep_=02SM031J560J1J393J1J512J1J301J1J433J1J18131J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131M&model_=MSI+GeForce+RTX3060+12Gb+&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 16999,
+        "link": "https://ek.ua/en/clcp.php?ep_=T8V3031J58131J2K131J512J1J32131J174J1J2O3J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131M&model_=MSI+GeForce+RTX3060+12Gb+&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 17299,
+        "link": "https://ek.ua/en/clcp.php?ep_=5F07031J552J1J18231J512J1J30431J0O431J403J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 17316,
+        "link": "https://ek.ua/en/clcp.php?ep_=LKNU031J510J1J27231J0A0J1J2M0J1J02431J0N131J0Q0J1J38131J4L2J1J273J1J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131M&model_=MSI+GeForce+RTX3060+12Gb+&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 17378,
+        "link": "https://ek.ua/en/clcp.php?ep_=63UI031J59131J3G4J1J512J1J31031J1P231J3I3J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5233&model_=MSI+RTX+3060+GAMING+X+12G&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 17298,
+        "link": "https://ek.ua/en/clcp.php?ep_=8G1E031J56031J4M2J1J512J1J312J1J4O3J1J4O231J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5233&model_=Msi+GeForce+Rtx+3060+Gami&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 16959,
+        "link": "https://ek.ua/en/clcp.php?ep_=5AU5031J58431J0G031J512J1J313J1J3H0J1J4L131J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 17815,
+        "link": "https://ek.ua/en/clcp.php?ep_=5BSV031J560J1J2N2J1J512J1J320J1J44131J470J1J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5233&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 17635,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NTT031J55331J46031J512J1J32131J0H031J26431J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5233&model_=MSI+%28GeForce+RTX+3060+GAM&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 16787,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BTT031J543J1J271J1J512J1J32231J460J1J34331J51331J424J1J2L231J3N531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 18022,
+        "link": "https://ek.ua/en/clcp.php?ep_=4CTV031J592J1J32131J512J1J322J1J32231J1I3J1J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 24100,
+        "link": "https://ek.ua/en/clcp.php?ep_=2PVH031J58331J3M131J512J1J322J1J4G231J20031J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J5233&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 17784,
+        "link": "https://ek.ua/en/clcp.php?ep_=3RRD031J592J1J2P231J512J1J32331J2P0J1J132J1J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3Q131M&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 17029,
+        "link": "https://ek.ua/en/clcp.php?ep_=U8PL031J59031J45131J512J1J30031J36131J010J1J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131M&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 18112,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BRH031J592J1J2P231J512J1J32331J2P0J1J17231J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3Q131M&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=1941006"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 17977,
+        "link": "https://ek.ua/en/clcp.php?ep_=1RRE031J59031J45131J512J1J31431J1P2J1J090J1J51331J424J1J2L231J40531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131M&model_=MSI+GeForce+RTX+3060+GAMI&idSite_=1&idGood_=1941006"
+      }
+    ],
+    "range": {
+      "minPrice": 16787,
+      "maxPrice": 24100
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">H</span>igh performance 2021 mid-range gaming graphics card powered by the Nvidia GA106 GPU, built on the cutting-edge Ampere microarchitecture. It differs from similar models from other manufacturers in the use of an efficient proprietary Twin Frozr 8 dual-slot cooling system, which consists of five copper heat pipes with aluminium fins and a pair of Torx Fan 4.0 fans with twin blades that improve airflow focus (fans stop when idle).</p><p>The MSI GeForce RTX 3060 GAMING X 12G graphics card is aimed at mid-range gaming systems equipped with FullHD/WQHD resolution monitors. The GPU is equipped with 2nd generation RT cores that deliver ultra-realistic 3D images using Real-Time Ray Tracing with a whole new level of lighting and reflection fidelity. Powered by 3rd Gen Tensor Cores, the revolutionary Deep Learning Super Sampling (DLSS) anti-aliasing technology delivers high-quality results without significant performance degradation. In conjunction with a performant CPU, this graphics card guarantees a comfortable frame rate in all popular game projects of 2015-2021 at high or maximum graphics settings.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1837 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "6 + 8 pin",
+  "minPSU": "550 W",
+  "numberOfSlots": "2.5",
+  "size": "276 mm / 276x131x51 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5357"
+  },
+  "id": "PALIT-GEFORCE-RTX-4070-TI-GAMINGPRO",
+  "name": "Palit GeForce RTX 4070 Ti GamingPro",
+  "mainImage": "https://s.ek.ua/jpg/2354571.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 41996,
+        "link": "https://ek.ua/en/clcp.php?ep_=00LK031J510J1J2H3J1J4Q0J1J2M131J2N0J1J29431J4A0J1J38131J4L2J1J28231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1H&model_=Palit+GF+RTX+4070+Ti+12GB&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 38397,
+        "link": "https://ek.ua/en/clcp.php?ep_=A1S7031J560J1J0M1J1J512J1J31431J313J1J3G4J1J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J510J&model_=Palit+GeForce+Rtx+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 38694,
+        "link": "https://ek.ua/en/clcp.php?ep_=580F031J543J1J35031J512J1J32231J39331J2N331J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J510J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Palit+GeForce+&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 37902,
+        "link": "https://ek.ua/en/clcp.php?ep_=2508031J57331J421J1J512J1J320J1J233J1J1I1J1J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J54531J0Q031371331J510J&model_=PALIT+GeForce+RTX+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 38099,
+        "link": "https://ek.ua/en/clcp.php?ep_=3J29031J574J1J20331J512J1J311J1J11431J3L231J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J510J&model_=Palit+GeForce+RTX+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 40090,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LSJ031J55331J0K131J512J1J321J1J06031J4P431J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J510J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+gf+rtx+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 38306,
+        "link": "https://ek.ua/en/clcp.php?ep_=SEO1031J510J1J34131J3A0J1J2M131J1L231J2J231J4Q0J1J38131J4L2J1J28231J50531J1L0J1J51531J1Q3J1J51531I0E0J1J0Q0J1H&model_=Palit+%28NED407T019K9-1043A&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 37925,
+        "link": "https://ek.ua/en/clcp.php?ep_=0IQS031J58431J0G031J512J1J313J1J3H131J17031J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0H&model_=Palit+GeForce+RTX+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 37833,
+        "link": "https://ek.ua/en/clcp.php?ep_=220L031J55331J46031J512J1J32231J12431J17231J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J59531J0Q0313703J1J510J&model_=Palit+GeForce+RTX+4070+Ti&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 38319,
+        "link": "https://ek.ua/en/clcp.php?ep_=VOT4031J59031J45131J512J1J30031J360J1J4I431J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J51031J51531I0E031J3A0J1H&model_=Palit+PCI-Ex+GeForce+RTX+&idSite_=1&idGood_=2354571"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 37745,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OV6031J59031J45131J512J1J321J1J1M331J424J1J51331J424J1J2L231J44531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3A0J1H&model_=Palit+%28NED407T019K9-1043A&idSite_=1&idGood_=2354571"
+      }
+    ],
+    "range": {
+      "minPrice": 37745,
+      "maxPrice": 41996
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Palit",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 4070 Ti",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "2610 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "7680",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "16 pin",
+  "minPSU": "750 W",
+  "numberOfSlots": "3.2",
+  "size": "329 mm / 329x133x63 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5358"
+  },
+  "id": "MSI-GEFORCE-RTX-3060-VENTUS-2X-8G-OC",
+  "name": "MSI GeForce RTX 3060 VENTUS 2X 8G OC",
+  "mainImage": "https://s.ek.ua/jpg/2326923.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 15615,
+        "link": "https://ek.ua/en/clcp.php?ep_=OPO3031J510J1J2H3J1J4Q0J1J2M0J1J00131J3J2J1J3Q0J1J38131J4L2J1J29031J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131L&model_=MSI+GEFORCE+RTX3060+8GB+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 15190,
+        "link": "https://ek.ua/en/clcp.php?ep_=LPOJ031J510J1J2H3J1J4Q0J1J2M0J1J003J1J1J0J1J2A0J1J38131J4L2J1J29031J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q131L&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 13963,
+        "link": "https://ek.ua/en/clcp.php?ep_=85UA031J560J1J0M1J1J512J1J313J1J244J1J26431J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J522J&model_=Msi+GeForce+RTX3060+8Gb+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 13963,
+        "link": "https://ek.ua/en/clcp.php?ep_=4P2B031J543J1J35031J512J1J32231J39331J262J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J522J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+RT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 13558,
+        "link": "https://ek.ua/en/clcp.php?ep_=1K4L031J57331J421J1J512J1J320J1J212J1J4I131J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J55531J0Q031371331J522J&model_=MSI+GeForce+RTX+3060+8192&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 14199,
+        "link": "https://ek.ua/en/clcp.php?ep_=493U031J55331J28131J512J1J310J1J383J1J4L3J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "644fae09b68c4f46eb9f3430",
+        "price": 13799,
+        "link": "https://ek.ua/en/clcp.php?ep_=4A4K031J57431J20131J512J1J31131J373J1J4I331J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J522J&model_=MSI+GeForce+RTX+3060+Vent&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 14199,
+        "link": "https://ek.ua/en/clcp.php?ep_=PFJT031J51031J25131J2A0J1J2M0J1J36131J09231J1A0J1J38131J4L2J1J29031J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131L&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 14856,
+        "link": "https://ek.ua/en/clcp.php?ep_=ULRU031J55331J0K131J512J1J32031J0L031J1L131J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J522J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+rt&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 14585,
+        "link": "https://ek.ua/en/clcp.php?ep_=RNTD031J59331J193J1J512J1J32031J1L3J1J0L0J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131L&model_=MSI+GeForce+RTX3060+8Gb+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 13589,
+        "link": "https://ek.ua/en/clcp.php?ep_=QLU5031J58131J2K131J512J1J320J1J0K331J2I2J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131L&model_=MSI+GeForce+RTX3060+8Gb+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 13589,
+        "link": "https://ek.ua/en/clcp.php?ep_=VL0C031J560J1J393J1J512J1J301J1J45331J4M031J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131L&model_=MSI+GeForce+RTX3060+8Gb+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 13599,
+        "link": "https://ek.ua/en/clcp.php?ep_=2ETJ031J552J1J18231J512J1J30431J0O3J1J1J0J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 14199,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NTF031J56031J4M2J1J512J1J30431J0G2J1J1H131J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J522J&model_=Msi+GeForce+Rtx+3060+Vent&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 13853,
+        "link": "https://ek.ua/en/clcp.php?ep_=IKRD031J510J1J27231J0A0J1J2M0J1J02431J45031J1Q0J1J38131J4L2J1J29031J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131L&model_=MSI+%28RTX+3060+VENTUS+2X+8&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 13948,
+        "link": "https://ek.ua/en/clcp.php?ep_=4400031J59131J3G4J1J512J1J31031J1P2J1J47131J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J522J&model_=MSI+RTX+3060+VENTUS+2X+8G&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 16165,
+        "link": "https://ek.ua/en/clcp.php?ep_=6ESI031J55131J153J1J512J1J31031J3O2J1J34231J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J522J&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 13529,
+        "link": "https://ek.ua/en/clcp.php?ep_=7AQV031J58431J0G031J512J1J313J1J3H131J0M2J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "644fdce6b68c4f46ebcf0366",
+        "price": 15999,
+        "link": "https://ek.ua/en/clcp.php?ep_=3UVT031J59431J34131J512J1J314J1J04231J20031J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 13700,
+        "link": "https://ek.ua/en/clcp.php?ep_=16UM031J543J1J271J1J512J1J32031J4H231J241J1J51331J424J1J2L231J4G531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 14186,
+        "link": "https://ek.ua/en/clcp.php?ep_=1VSB031J560J1J2N2J1J512J1J320J1J481J1J2M0J1J51331J424J1J2L231J4J531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 14168,
+        "link": "https://ek.ua/en/clcp.php?ep_=T7VM031J55331J46031J512J1J32131J0H231J1I131J51331J424J1J2L231J4J531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J522J&model_=MSI+GeForce+RTX3060+8Gb+V&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 15888,
+        "link": "https://ek.ua/en/clcp.php?ep_=6HU6031J59231J354J1J512J1J322J1J271J1J2J231J51331J424J1J2L231J4J531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J522J&model_=MSI+GeForce+RTX+3060+Vent&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 14599,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BSL031J592J1J2P231J512J1J32331J2P0J1J1P2J1J51331J424J1J2L231J4J531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3Q131L&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=2326923"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 13589,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8U9031J59031J45131J512J1J30031J360J1J4J131J51331J424J1J2L231J4J531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131L&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=2326923"
+      }
+    ],
+    "range": {
+      "minPrice": 13529,
+      "maxPrice": 16165
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "128 bit",
+  "GPUClockSpeed": "1807 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "550 W",
+  "numberOfSlots": "2",
+  "size": "235 mm / 235x124x42 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5359"
+  },
+  "id": "MSI-GEFORCE-RTX-3070-TI-SUPRIM-X-8G",
+  "name": "MSI GeForce RTX 3070 Ti SUPRIM X 8G",
+  "mainImage": "https://s.ek.ua/jpg/2033789.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 40500,
+        "link": "https://ek.ua/en/clcp.php?ep_=2HUP031J58331J3M131J512J1J322J1J4G231J23031J51331J424J1J2L231J4O531J0A1J1J2H531J0Q1J1J51531J1Q031371531H&model_=MSI+GeForce+RTX+3070+Ti+S&idSite_=1&idGood_=2033789"
+      }
+    ],
+    "range": {
+      "minPrice": 40500,
+      "maxPrice": 40500
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> performant pre-top gaming graphics card of 2021, which can guarantee a consistently high frame rate in all popular AAA titles of 2015-2021 at a resolution of 2560x1440 at the highest possible graphics settings. It is positioned as a high-end product aimed at demanding gamers, e-sports players and modding enthusiasts who value spectacular outdoor design and controllable backlighting.</p><p>Like its predecessor (MSI GeForce RTX 3070 SUPRIM X 8G), this graphics card is equipped with an Nvidia GA104 GPU with Ampere progressive microarchitecture. But, in this case, the GPU has an increased number of active functional blocks (+4.3%), and the GDDR6 graphics memory has been replaced with a much faster GDDR6X (+35% performance). As a result, the average performance of the MSI GeForce RTX 3070 Ti SUPRIM X 8G graphics card increased by 6-11% and came close to the top GeForce RTX 3080 models. x16 (compatible with Gen3 version). The graphics card supports MSI Mystic Light Sync backlight control technology. It has impressive dimensions (length 335 mm, 3 slots), requires a spacious case with a high-quality cooling system and a powerful PSU.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3070 Ti",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "256 bit",
+  "GPUClockSpeed": "1875 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "6144",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 + 8 pin",
+  "minPSU": "850 W",
+  "numberOfSlots": "3",
+  "size": "335 mm / 335x140x61 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535a"
+  },
+  "id": "ASROCK-RADEON-RX-6800-XT-PHANTOM-GAMING-D-16G-OC",
+  "name": "ASRock Radeon RX 6800 XT Phantom Gaming D 16G OC",
+  "mainImage": "https://s.ek.ua/jpg/1915931.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 23500,
+        "link": "https://ek.ua/en/clcp.php?ep_=0IUH031J58431J0G031J512J1J313J1J3H0J1J4K1J1J51331J424J1J2L2J1J03531J0A1J1J2H531J0Q1J1J51531J0Q0313703J1J52&model_=ASRock+Radeon+RX+6800+XT+&idSite_=1&idGood_=1915931"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 24910,
+        "link": "https://ek.ua/en/clcp.php?ep_=1BS3031J59031J45131J512J1J31431J1P2J1J0G331J51331J424J1J2L2J1J03531J0A1J1J2H531J0Q1J1J52531J0Q031370331J52&model_=ASRock+Radeon+RX+6800+XT+&idSite_=1&idGood_=1915931"
+      }
+    ],
+    "range": {
+      "minPrice": 23500,
+      "maxPrice": 24910
+    }
+  },
+  "brand": "AMD",
+  "vendor": "ASRock",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> balanced top AMD gaming graphics card of 2020 from the ASRock Phantom Gaming family, whose products are distinguished by the use of improved cooling systems and good overclocking potential. It differs from other manufacturers' Radeon RX 6800 XT models by moderate factory overclocking of the AMD Navi 21 (7nm) GPU and a low-noise Phantom Gaming 3X Cooling System air cooler with spectacular controlled ASRock Polychrome Sync RGB LED backlighting.</p><p>Thanks to the progressive RDNA 2 microarchitecture and an impressive amount of high-speed GDDR6 graphics memory (16 GB), the ASRock Radeon RX 6800 XT Phantom Gaming D 16G OC graphics card is able to provide a consistently high frame rate in any game projects in 2015-2021 at maximum graphics settings. The manufacturer is positioned as a product of the upper price category, designed to assemble top-end gaming systems focused on working with WQHD / 4K resolution monitors. It will be a good choice for demanding gamers, e-sportsmen and enthusiasts. Makes high demands on the power supply (at least 800 W). It has large dimensions and significant weight (more than 1.78 kg), which should be considered when choosing a case and motherboard.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "AMD Radeon RX 6800 XT",
+  "memorySize": "16 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "256 bit",
+  "GPUClockSpeed": "2310 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "4608",
+  "textureUnits": "288",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 + 8 + 8 pin",
+  "minPSU": "800 W",
+  "numberOfSlots": "2.7",
+  "size": "330 mm / 330x140x56 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535b"
+  },
+  "id": "MSI-RADEON-RX-6700-XT-MECH-2X-12G-OC",
+  "name": "MSI Radeon RX 6700 XT MECH 2X 12G OC",
+  "mainImage": "https://s.ek.ua/jpg/1977470.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320d028332e9aa6941fba44",
+        "price": 15999,
+        "link": "https://ek.ua/en/clcp.php?ep_=MLUE031J510J1J26231J1A0J1J2M0J1J06431J4O3J1J1Q0J1J38131J4L2J1J2G4J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J52&model_=MSI+Radeon+RX+6700+XT+MEC&idSite_=1&idGood_=1977470"
+      },
+      {
+        "storeId": "644fbbf8b68c4f46ebad0704",
+        "price": 19250,
+        "link": "https://ek.ua/en/clcp.php?ep_=NGPB031J510J1J2P2J1J1Q0J1J2M131J21131J22031J2A0J1J38131J4L2J1J2G4J1J50531J1L0J1J51531J1Q131J51531I0E0J1J52&model_=MSI+Radeon+RX+6700+XT+MEC&idSite_=1&idGood_=1977470"
+      }
+    ],
+    "range": {
+      "minPrice": 15999,
+      "maxPrice": 19250
+    }
+  },
+  "brand": "AMD",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">2</span>021 mid-range performance gaming graphics card with a low-noise cooling system. The hardware basis of this model is the AMD Navi 22 GPU, which is the carrier of the advanced AMD RDNA 2 microarchitecture (manufactured according to the 7 nm process technology). It works in conjunction with an array of 12 GB of fast GDDR6 graphics memory (192-bit bus), which allows you to use realistic and detailed HD textures of the highest resolution.</p><p>Powered by a powerful chipset with DirectX12 Ultimate API, OpenGL 4.6 and Vulkan hardware support, MSI Radeon RX 6700 XT MECH 2X 12G OC graphics card delivers an impressive level of performance to compete with Nvidia GeForce GTX 3060 Ti models. It can guarantee a consistently high frame rate in any popular game projects of 2015-2021 in FullHD/WQHD resolution at maximum or high graphics settings.</p><p>Optimized for use in conjunction with AMD Ryzen 5000 processors, they support proprietary FidelityFX Super Resolution spatial scaling technology, which is a full-fledged analogue of Nvidia DLSS. A powerful and quiet cooling system with two dispersive fans on durable ball bearings dissipates heat generated in normal mode without problems and has a margin of safety for moderate overclocking experiments.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "AMD Radeon RX 6700 XT",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "2620 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "2560",
+  "textureUnits": "160",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 + 8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2",
+  "size": "247 mm / 247x131x51 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535c"
+  },
+  "id": "ASUS-GEFORCE-RTX-4070-DUAL-12GB-GDDR6X",
+  "name": "Asus GeForce RTX 4070 Dual 12GB GDDR6X",
+  "mainImage": "https://s.ek.ua/jpg/2425994.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 31452,
+        "link": "https://ek.ua/en/clcp.php?ep_=91S0031J560J1J0M1J1J512J1J31431J313J1J383J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J513J&model_=Asus+GeForce+Rtx+4070+12G&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 31848,
+        "link": "https://ek.ua/en/clcp.php?ep_=4O0E031J543J1J35031J512J1J32231J39331J2L2J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J513J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Asus+GeForce+R&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 30744,
+        "link": "https://ek.ua/en/clcp.php?ep_=0M1G031J57331J421J1J512J1J320J1J243J1J2P031J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J53531J0Q031371331J513J&model_=ASUS+GeForce+RTX+4070+122&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 33578,
+        "link": "https://ek.ua/en/clcp.php?ep_=14QD031J55331J0K131J512J1J32031J0L031J2J3J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J513J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+asus+GeForce+r&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 32317,
+        "link": "https://ek.ua/en/clcp.php?ep_=1SOG031J59331J193J1J512J1J32031J1P031J00131J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J55531J0Q031371231J513J&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 30599,
+        "link": "https://ek.ua/en/clcp.php?ep_=63QR031J552J1J03431J512J1J31031J341J1J2H4J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J56531J0Q031371131J513J&model_=ASUS+Dual+GeForce+RTX+407&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 30689,
+        "link": "https://ek.ua/en/clcp.php?ep_=40R0031J560J1J393J1J512J1J302J1J2G131J201J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J513J&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 30599,
+        "link": "https://ek.ua/en/clcp.php?ep_=3KPV031J58131J2K131J512J1J32331J4I0J1J1H131J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J513J&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 30599,
+        "link": "https://ek.ua/en/clcp.php?ep_=2NSS031J552J1J18231J512J1J304J1J2P3J1J47031J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0N&model_=Asus+Dual+GeForce+RTX+407&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 30870,
+        "link": "https://ek.ua/en/clcp.php?ep_=OIM5031J510J1J27231J0A0J1J2M0J1J101J1J1J431J2A0J1J38131J4L2J1J2H331J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q0J1N&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 31440,
+        "link": "https://ek.ua/en/clcp.php?ep_=7GV5031J59131J3G4J1J512J1J31231J473J1J4M2J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J513J&model_=ASUS+DUAL-RTX4070-12G+DUA&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 30530,
+        "link": "https://ek.ua/en/clcp.php?ep_=29P7031J58431J0G031J512J1J313J1J3H131J180J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J513J&model_=ASUS+DUAL-RTX4070-12G&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 30599,
+        "link": "https://ek.ua/en/clcp.php?ep_=TILI031J510J1J36231J1Q0J1J2M0J1J40031J1H2J1J2Q0J1J38131J4L2J1J2H331J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q0J1N&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 32175,
+        "link": "https://ek.ua/en/clcp.php?ep_=4MPN031J560J1J2N2J1J512J1J320J1J4G3J1J0G1J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J513J&model_=Asus+DUAL-RTX4070-12G+DUA&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 31660,
+        "link": "https://ek.ua/en/clcp.php?ep_=19TT031J55331J46031J512J1J322J1J0K231J27231J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J513J&model_=ASUS+GeForce+RTX4070+12Gb&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 32175,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BP7031J592J1J2P231J512J1J32331J2P0J1J271J1J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3Q0J1N&model_=Asus+DUAL-RTX4070-12G&idSite_=1&idGood_=2425994"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 30689,
+        "link": "https://ek.ua/en/clcp.php?ep_=5LMB031J59031J45131J512J1J30231J3J031J11431J51331J424J1J2L2J1J0M531J0A1J1J2H531J0Q1J1J513J1J51531I0E031J3A0J1N&model_=ASUS+PCI-Ex+GeForce+RTX+4&idSite_=1&idGood_=2425994"
+      }
+    ],
+    "range": {
+      "minPrice": 30530,
+      "maxPrice": 33578
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Asus",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 4070",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "2505 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "5888",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2.5",
+  "size": "267 mm / 267x134x51 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535d"
+  },
+  "id": "SAPPHIRE-RADEON-RX-6600-PULSE",
+  "name": "Sapphire Radeon RX 6600 PULSE",
+  "mainImage": "https://s.ek.ua/jpg/2113047.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 14188,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q0O3031J510J1J2H3J1J4Q0J1J2M0J1J270J1J472J1J0Q0J1J38131J4L2J1J2I231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1O&model_=SAPPHIRE+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 14066,
+        "link": "https://ek.ua/en/clcp.php?ep_=14NQ031J561J1J00131J512J1J32131J25231J2J3J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J52531J0Q031371531J0O&model_=SAPPHIRE+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 15421,
+        "link": "https://ek.ua/en/clcp.php?ep_=4O0B031J543J1J35031J512J1J32231J39331J1J2J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5143&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Sapphire+Radeo&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 15421,
+        "link": "https://ek.ua/en/clcp.php?ep_=8OOI031J560J1J0M1J1J512J1J322J1J4O231J08331J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5143&model_=Sapphire+Radeon+Rx+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 12890,
+        "link": "https://ek.ua/en/clcp.php?ep_=191E031J57331J421J1J512J1J320J1J1N1J1J3N131J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5143&model_=Sapphire+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 13325,
+        "link": "https://ek.ua/en/clcp.php?ep_=26UH031J55331J28131J512J1J310J1J37331J143J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 10999,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MQN031J552J1J18231J512J1J30431J0O431J151J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0O&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 12755,
+        "link": "https://ek.ua/en/clcp.php?ep_=U2QE031J510J1J27231J0A0J1J2M0J1J02431J1K331J4Q0J1J38131J4L2J1J2I231J50531J1L0J1J51531J1Q431J51531I0E0J1J5143&model_=SAPPHIRE+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 12767,
+        "link": "https://ek.ua/en/clcp.php?ep_=1RPJ031J59131J3G4J1J512J1J31031J1P2J1J0M231J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0O&model_=SAPPHIRE+RX+6600+8G+PULSE&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 10820,
+        "link": "https://ek.ua/en/clcp.php?ep_=19OV031J58431J0G031J512J1J313J1J3H131J020J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 11345,
+        "link": "https://ek.ua/en/clcp.php?ep_=5RQ7031J560J1J2N2J1J512J1J320J1J45331J0I4J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5143&model_=SAPPHIRE+PCI-Ex+Radeon+RX&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 11482,
+        "link": "https://ek.ua/en/clcp.php?ep_=5ET1031J59231J31231J512J1J322J1J250J1J42431J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 13065,
+        "link": "https://ek.ua/en/clcp.php?ep_=3DQV031J592J1J2P231J512J1J32331J2K0J1J1O0J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 10590,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLQ0031J543J1J271J1J512J1J323J1J081J1J130J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3Q0J1O&model_=SAPPHIRE+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 10879,
+        "link": "https://ek.ua/en/clcp.php?ep_=1OMV031J59031J45131J512J1J30031J36131J063J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3A0J1O&model_=Sapphire+PCI-Ex+Radeon+RX&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 13082,
+        "link": "https://ek.ua/en/clcp.php?ep_=10R0031J57331J421J1J512J1J320J1J40131J182J1J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J0Q0J1O&model_=Sapphire+Radeon+RX+6600+8&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 11476,
+        "link": "https://ek.ua/en/clcp.php?ep_=9GP3031J59231J354J1J512J1J322J1J27031J0G331J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 11479,
+        "link": "https://ek.ua/en/clcp.php?ep_=91OU031J591J1J073J1J512J1J322J1J281J1J29331J51331J424J1J2L2J1J14531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5143&model_=Sapphire+Radeon+RX+6600+P&idSite_=1&idGood_=2113047"
+      }
+    ],
+    "range": {
+      "minPrice": 10590,
+      "maxPrice": 15421
+    }
+  },
+  "brand": "AMD",
+  "vendor": "Sapphire",
+  "description": "<p><span class=\"desc-ai-initcap\">C</span>ompact, but at the same time quite performant mid-range gaming graphics card of the 2021 model. Such a device is primarily designed to provide the reference 60 FPS in modern gaming titles of 2016-2021 at high graphics settings and at 1080P resolution. Differs in the compact sizes of the printed circuit board — 193 mm in length. The manufacturer provides a Dual-X cooling system, equipped with two fans with an intelligent control system, which allows you to maintain a balance between temperature and noise.</p><p>On the reverse side of the card is an aluminium stiffening plate. Based on the 7nm RDNA 2 architecture, the Sapphire Radeon RX 6600 PULSE graphics card is capable of delivering excellent performance in today's games at FullHD resolution. Equipped with 32 high-performance computing units, proprietary AMD Infinity cache, and 8 GB of dedicated GDDR6 video memory. Support for ray tracing technology has been implemented, which brings the realism of lighting and reflections of the game world to a whole new level.</p><p>Supported proprietary scaling technology AMD FidelityFX Super Resolution (similar to Nvidia DLSS), which in some games can significantly increase the resolution without a drop in performance. At the same time, you can optimize the gameplay using one of four preset settings profiles that allow you to choose between maximum detail and speed. Supports high-speed PCI-E Gen4 x16 system interface, works with any current monitor models (including 4K and 8K) and VR headsets.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "AMD Radeon RX 6600",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "128 bit",
+  "GPUClockSpeed": "2491 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "1792",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "500 W",
+  "numberOfSlots": "2",
+  "size": "193 mm / 193x120x40 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535e"
+  },
+  "id": "MSI-RADEON-RX-6600-MECH-2X-8G",
+  "name": "MSI Radeon RX 6600 MECH 2X 8G",
+  "mainImage": "https://s.ek.ua/jpg/2110224.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6322dce4332e9aa694f65a13",
+        "price": 22500,
+        "link": "https://ek.ua/en/clcp.php?ep_=184V031J552J1J47131J512J1J313J1J394J1J38231J51331J424J1J2L2J1J1H531J0A1J1J2H531J0Q1J1J51531J0Q031371331J56&model_=MSI+Radeon+RX+6600+MECH+2&idSite_=1&idGood_=2110224"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 24272,
+        "link": "https://ek.ua/en/clcp.php?ep_=S631031J55331J28131J512J1J32131J37431J37031J51331J424J1J2L2J1J1H531J0A1J1J2H531J0Q1J1J52531J0Q0313712J1J56&model_=MSI+Radeon+RX+6600+MECH+2&idSite_=1&idGood_=2110224"
+      },
+      {
+        "storeId": "6320d007332e9aa6941f7194",
+        "price": 22739,
+        "link": "https://ek.ua/en/clcp.php?ep_=T2NR031J59031J0G131J512J1J32331J1G031J0O0J1J51331J424J1J2L2J1J1H531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J56&model_=MSI+Radeon+RX+6600+MECH+2&idSite_=1&idGood_=2110224"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 22700,
+        "link": "https://ek.ua/en/clcp.php?ep_=0O02031J59431J282J1J512J1J32331J1L2J1J0M4J1J51331J424J1J2L2J1J1H531J0A1J1J2H531J0Q1J1J54531J0Q0313710J1J56&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+MSI+Radeon+RX+&idSite_=1&idGood_=2110224"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba44",
+        "price": 12599,
+        "link": "https://ek.ua/en/clcp.php?ep_=NGOV031J510J1J26231J1A0J1J2M0J1J3H2J1J0I0J1J4A0J1J38131J4L2J1J2J0J1J50531J1L0J1J51531J1Q2J1J51531I0E0J1J56&model_=MSI+Radeon+RX+6600+MECH+2&idSite_=1&idGood_=2110224"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 22403,
+        "link": "https://ek.ua/en/clcp.php?ep_=RVSS031J55331J46031J512J1J32131J0H031J43131J51331J424J1J2L2J1J1H531J0A1J1J2H531J0Q1J1J56531J0Q031371531M&model_=MSI+Radeon+RX+6600+8Gb+ME&idSite_=1&idGood_=2110224"
+      }
+    ],
+    "range": {
+      "minPrice": 12599,
+      "maxPrice": 24272
+    }
+  },
+  "brand": "AMD",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> classic mid-range gaming graphics card from the second half of 2021. The model is introduced to the market as part of MSI's MECH family, which has been designed primarily with maximum performance at minimum cost in mind. MSI Radeon RX 6600 MECH 2X 8G graphics card is based on RDNA 2 architecture based on 7nm process technology, combines good performance with excellent power efficiency.</p><p>This, combined with AMD's innovative high-bandwidth Infinity Cache, high-speed GDDR6 video memory, and full DirectX 12 Ultimate and OpenGL 4.6 compatibility, provides excellent performance in today's games. The device is able to provide a comfortable frame rate in game titles of the 2015-2021 model at high graphics settings at FullHD resolution. The cooling system is equipped with two MSI TORX Fan 3.0 fans, which, according to the manufacturer, provide 50% higher air pressure than traditional ones due to their unique design.</p><p>Zero Frozr technology ensures that the fans stop completely and the card runs silently at relatively low temperatures. The reverse side of the card is covered with a strong rigidity plate. There is a full set of high-speed interface ports (HDMI v.2.1 + three DisplayPort v.1.4a) for connecting any modern monitors, including 8K models, as well as virtual reality visualization tools (helmets and headsets).</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "AMD Radeon RX 6600",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "128 bit",
+  "GPUClockSpeed": "2491 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "1792",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "500 W",
+  "numberOfSlots": "2",
+  "size": "235 mm / 235x125x46 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a535f"
+  },
+  "id": "PALIT-GEFORCE-RTX-3060-TI-DUAL-OC-V1-LHR",
+  "name": "Palit GeForce RTX 3060 Ti Dual OC V1 LHR",
+  "mainImage": "https://s.ek.ua/jpg/2053219.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 19232,
+        "link": "https://ek.ua/en/clcp.php?ep_=RPMQ031J510J1J2H3J1J4Q0J1J2M0J1J00331J0G0J1J4Q0J1J38131J4L2J1J2J431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1L&model_=Palit+%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GF+RTX+3&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 17187,
+        "link": "https://ek.ua/en/clcp.php?ep_=071V031J57331J421J1J512J1J320J1J1L431J2N031J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J52531J0Q031371331J512J&model_=PALIT+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 18000,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MRI031J55331J28131J512J1J310J1J37231J04131J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J512J&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 17940,
+        "link": "https://ek.ua/en/clcp.php?ep_=630C031J574J1J20331J512J1J311J1J113J1J254J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J512J&model_=Palit+Nvidia+GeForce+RTX+&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 18000,
+        "link": "https://ek.ua/en/clcp.php?ep_=TVJN031J51031J25131J2A0J1J2M0J1J36131J09231J3A0J1J38131J4L2J1J2J431J50531J1L0J1J51531J1Q2J1J51531I0E0J1J2Q0J1L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 19982,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KP4031J55331J0K131J512J1J32031J0L031J164J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J56531J0Q031371231J512J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Palit+GeForce+&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 17969,
+        "link": "https://ek.ua/en/clcp.php?ep_=6KN5031J552J1J03431J512J1J321J1J2L031J074J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J512J&model_=Palit+RTX+3060+Ti+Dual+OC&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 17150,
+        "link": "https://ek.ua/en/clcp.php?ep_=22NT031J58431J0G031J512J1J313J1J3H131J001J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 17148,
+        "link": "https://ek.ua/en/clcp.php?ep_=3LPE031J543J1J271J1J512J1J31431J18131J093J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 24999,
+        "link": "https://ek.ua/en/clcp.php?ep_=1RP9031J592J1J2P231J512J1J32331J2P0J1J19231J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J51031J51531I0E031J3Q0J1L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "63219ef0332e9aa694f9cda1",
+        "price": 18000,
+        "link": "https://ek.ua/en/clcp.php?ep_=SOTE031J59031J45131J512J1J321J1J1M331J420J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3A0J1L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 19851,
+        "link": "https://ek.ua/en/clcp.php?ep_=10RG031J57331J421J1J512J1J320J1J40131J17231J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J3A0J1L&model_=PALIT+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 14220,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1SC031J57331J421J1J512J1J32231J112J1J0J131J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3Q0J1L&model_=PALIT+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 18179,
+        "link": "https://ek.ua/en/clcp.php?ep_=4RP3031J59031J45131J512J1J31431J1P2J1J084J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J51231J51531I0E031J3A0J1L&model_=Palit+GeForce+RTX+3060+Ti&idSite_=1&idGood_=2053219"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 18933,
+        "link": "https://ek.ua/en/clcp.php?ep_=35RE031J59031J45131J512J1J32231J4J431J121J1J51331J424J1J2L2J1J1O531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3A0J1L&model_=Palit+RTX+3060Ti+8Gb+Dual&idSite_=1&idGood_=2053219"
+      }
+    ],
+    "range": {
+      "minPrice": 14220,
+      "maxPrice": 24999
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Palit",
+  "description": "<p><span class=\"desc-ai-initcap\">B</span>alanced 2021 mid-range gaming graphics card with factory overclocked profile. It has a built-in hardware system for limiting the mining of the Ethereum cryptocurrency and some other altcoins, for the generation of which the popular Ethash algorithm is used. Designed for use in gaming systems equipped with FullHD/WQHD resolution monitors. Positioned as a mid-range 2021 model designed for a wide range of PC gamers and esports beginners.</p><p>Thanks to the powerful Nvidia GA104 (Ampere, 8 nm) GPU and high-speed GDDR6 graphics memory, the Palit GeForce RTX 3060 Ti Dual OC V1 LHR graphics card is able to provide comfortable high frame rates in any 2015-2021 AAA titles at high or maximum graphics settings . Also worth noting is the proprietary dual-slot cooling system, which consists of three copper heat pipes with aluminium fins and two large fans (92 mm) with an optimized impeller. This model is capable of working with VR headsets and any current monitor models (up to 7680x4320).</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060 Ti / LHR /",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "256 bit",
+  "GPUClockSpeed": "1695 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "4864",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "550 W",
+  "numberOfSlots": "2",
+  "size": "247 mm / 247x120x40 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5360"
+  },
+  "id": "ASUS-GEFORCE-RTX-3060-DUAL-V2-OC-LHR",
+  "name": "Asus GeForce RTX 3060 Dual V2 OC LHR",
+  "mainImage": "https://s.ek.ua/jpg/2066429.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 17767,
+        "link": "https://ek.ua/en/clcp.php?ep_=QPOT031J510J1J2H3J1J4Q0J1J2M0J1J001J1J324J1J1A0J1J38131J4L2J1J2K2J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1L&model_=Asus+GeForce+RTX+3060+12G&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 22600,
+        "link": "https://ek.ua/en/clcp.php?ep_=QKQ6031J561J1J00131J512J1J32031J05231J31031J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J52531J0Q031371531J1L&model_=ASUS+RTX+3060+Dual+OC+V2+&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=UPQF031J510J1J2H3J1J4Q0J1J2M0J1J00231J444J1J4A0J1J38131J4L2J1J2K2J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J0Q1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6322e51c332e9aa6940b515f",
+        "price": 16501,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LSP031J54131J4H031J512J1J32131J25031J2J131J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J54531J0Q031371431J532J&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 16607,
+        "link": "https://ek.ua/en/clcp.php?ep_=6MRV031J560J1J0M1J1J512J1J313J1J244J1J1K2J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J532J&model_=Asus+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 16900,
+        "link": "https://ek.ua/en/clcp.php?ep_=29VU031J543J1J35031J512J1J32231J39331J1I031J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J56531J0Q0313713J1J532J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Asus+GeForce+R&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 15599,
+        "link": "https://ek.ua/en/clcp.php?ep_=UFQ2031J510J1J2H031J4Q0J1J2M0J1J161J1J474J1J1Q0J1J38131J4L2J1J2K2J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J3A1J1L&model_=Asus+%28DUAL-RTX3060-O12G-V&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 15776,
+        "link": "https://ek.ua/en/clcp.php?ep_=2KU4031J57331J421J1J512J1J32231J11131J191J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J58531J0Q031371331J532J&model_=ASUS+GeForce+RTX+3060+122&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 15802,
+        "link": "https://ek.ua/en/clcp.php?ep_=6LQM031J58331J054J1J512J1J30431J0H2J1J091J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J532J&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 15648,
+        "link": "https://ek.ua/en/clcp.php?ep_=U5UR031J55331J28131J512J1J310J1J371J1J4G231J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q1J1L&model_=Asus+GeForce+RTX+3060+12G&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644fae09b68c4f46eb9f3430",
+        "price": 15689,
+        "link": "https://ek.ua/en/clcp.php?ep_=VNUM031J57431J20131J512J1J31131J37331J232J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J2Q1J1L&model_=ASUS+Dual+GeForce+RTX+306&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=SPSP031J51031J25131J2A0J1J2M0J1J3P4J1J18431J0Q0J1J38131J4L2J1J2K2J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0L531J1L&model_=ASUS+Dual+GeForce+RTX+306&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 16687,
+        "link": "https://ek.ua/en/clcp.php?ep_=V3OA031J55331J0K131J512J1J32031J0L031J124J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J2Q1J1L&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+asus+GeForce+r&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 16170,
+        "link": "https://ek.ua/en/clcp.php?ep_=28SG031J59431J282J1J512J1J32331J1M031J2K1J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J2Q1J1L&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GF+RTX+3060+12&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 16782,
+        "link": "https://ek.ua/en/clcp.php?ep_=28RH031J59331J193J1J512J1J32031J1M231J1K3J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J2A1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=4IP8031J552J1J03431J512J1J32031J44131J21331J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J1Q1J1L&model_=ASUS+RTX+3060+Dual+V2+OC+&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=QER9031J51031J254J1J0Q0J1J2M0J1J0H2J1J1O031J1A0J1J38131J4L2J1J2K2J1J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0I531J1L&model_=Asus+RTX+3060+12Gb+Dual+O&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 15649,
+        "link": "https://ek.ua/en/clcp.php?ep_=52S3031J560J1J393J1J512J1J301J1J433J1J182J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J0Q1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=1OUG031J58131J2K131J512J1J32131J174J1J2O4J1J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J0Q1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=2FT6031J552J1J18231J512J1J30431J0O431J2G231J51331J424J1J2L2J1J25531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J532J&model_=Asus+GeForce+RTX+3060+Dua&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 15648,
+        "link": "https://ek.ua/en/clcp.php?ep_=58QE031J56031J4M2J1J512J1J30431J0G031J2M431J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J532J&model_=Asus+GeForce+Rtx+3060+Dua&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 15540,
+        "link": "https://ek.ua/en/clcp.php?ep_=3UVF031J543J1J271J1J512J1J304J1J284J1J26131J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J532J&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 15589,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKP7031J510J1J27231J0A0J1J2M0J1J02431J14331J4Q0J1J38131J4L2J1J2K4J1J50531J1L0J1J51531J1Q131J1Q0J1J50721J0Q1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 15816,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ROK031J58431J0G031J512J1J313J1J3H131J01231J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J532J&model_=ASUS+DUAL-RTX3060-O12G-V2&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=UPRI031J510J1J36231J1Q0J1J2M0J1J4N231J4G031J2Q0J1J38131J4L2J1J2K4J1J50531J1L0J1J51531J1Q131J2Q0J1J50721J0Q1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 16384,
+        "link": "https://ek.ua/en/clcp.php?ep_=5TRB031J560J1J2N2J1J512J1J320J1J451J1J3G231J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J532J&model_=Asus+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+DUAL-RTX3&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 15898,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8UI031J55331J46031J512J1J32131J0H031J480J1J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J523J1J51531I0E0J1J532J&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=60RC031J583J1J122J1J512J1J32231J0M2J1J16331J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J52431J51531I0E0J1J532J&model_=ASUS+DUAL-RTX3060-O12G-V2&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 16097,
+        "link": "https://ek.ua/en/clcp.php?ep_=8BTG031J59231J354J1J512J1J32231J1G331J27231J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J532J&model_=Asus+DUAL-RTX3060-O12G-V2&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79ad",
+        "price": 15100,
+        "link": "https://ek.ua/en/clcp.php?ep_=S6OK031J510J1J34231J0Q0J1J2M131J24031J3K4J1J0Q0J1J38131J4L2J1J2K4J1J50531J1L0J1J51531J1Q1J1J0A0J1J50721J0Q1J1L&model_=ASUS+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+R&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 16516,
+        "link": "https://ek.ua/en/clcp.php?ep_=0TSF031J592J1J32131J512J1J322J1J32231J1O031J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J530J1J51531I0E0J1J532J&model_=ASUS+GeForce+RTX+3060+DUA&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 16232,
+        "link": "https://ek.ua/en/clcp.php?ep_=0RR4031J592J1J2P231J512J1J32331J2P0J1J1H031J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J53131J51531I0E031J3Q1J1L&model_=Asus+DUAL-RTX3060-O12G-V2&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 15649,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OSU031J59031J45131J512J1J30031J360J1J4H3J1J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J531J1J51531I0E031J3A1J1L&model_=Asus+PCI-Ex+GeForce+RTX+3&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 16399,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8PE031J59031J45131J512J1J30031J36131J0H1J1J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J53231J51531I0E031J3A1J1L&model_=Asus+%28DUAL-RTX3060-O12G-V&idSite_=1&idGood_=2066429"
+      },
+      {
+        "storeId": "6322f86d332e9aa6943d9d35",
+        "price": 17404,
+        "link": "https://ek.ua/en/clcp.php?ep_=16PK031J59031J45131J512J1J30131J0K131J0N4J1J51331J424J1J2L2J1J29531J0A1J1J2H531J0Q1J1J532J1J51531I0E031J3A1J1L&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2066429"
+      }
+    ],
+    "range": {
+      "minPrice": 15100,
+      "maxPrice": 22600
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">R</span>elatively compact and powerful 2021 mid-range gaming graphics card for balanced, reasonably priced gaming PCs equipped with FullHD monitors. It belongs to the Lite Hash Rate class video adapters, which are equipped with a hardware system for blocking the mining of the Ethereum cryptocurrency and some other altcoins, the generation of which is based on the popular Ethash algorithm.</p><p>The key element of the Asus GeForce RTX 3060 Dual V2 OC LHR graphics card is the Nvidia GA106 GPU (Ampere, 8 nm manufacturing process), equipped with second-generation RT cores that allow you to build realistic 3D images with Real-Time Ray Tracing, providing a fundamentally new the level of reliability of lighting and reflections. Thanks to 3rd generation Tensor Cores, intelligent scaling technology based on Deep Learning Super Sampling (DLSS) deep learning algorithms is supported.</p><p>It differs from similar models from other manufacturers by modest overall dimensions (only 200 mm long), moderate cost, the presence of factory overclocked GPU profiles and the use of a proprietary heat dissipation system, which consists of copper heat pipes with aluminium fins and a pair of durable Axial-tech fans. The graphics card has moderate power consumption (up to 170 W) and fits easily into small Minitower cases.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1867 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2",
+  "size": "200 mm / 200x123x38 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5361"
+  },
+  "id": "INNO3D-GEFORCE-GTX-1660-SUPER-TWIN-X2",
+  "name": "INNO3D GeForce GTX 1660 SUPER TWIN X2",
+  "mainImage": "https://s.ek.ua/jpg/1681860.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 14999,
+        "link": "https://ek.ua/en/clcp.php?ep_=54NG031J561J1J00131J512J1J2P4J1J35131J2L331J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J51531J0Q031371531P&model_=INNO3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 11159,
+        "link": "https://ek.ua/en/clcp.php?ep_=VN3H031J57331J421J1J512J1J320J1J1M031J4N4J1J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J52531J0Q031371331J59&model_=INNO3D+GeForce+GTX+1660+6&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 11535,
+        "link": "https://ek.ua/en/clcp.php?ep_=T60H031J55331J28131J512J1J310J1J37131J2H1J1J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J59&model_=Inno3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 14629,
+        "link": "https://ek.ua/en/clcp.php?ep_=0A25031J59431J282J1J512J1J32331J1N0J1J3J431J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J54531J0Q0313710J1J59&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+INNO3D+GeForce&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 11160,
+        "link": "https://ek.ua/en/clcp.php?ep_=K1TO031J510J1J27231J0A0J1J2M0J1J023J1J45031J4A0J1J38131J4L2J1J2L231J50531J1L0J1J51531J1Q2J1J51531I0E0J1J59&model_=Inno3D+GTX+1660SUPER+Twin&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 11052,
+        "link": "https://ek.ua/en/clcp.php?ep_=12S1031J58431J0G031J512J1J313J1J3H0J1J490J1J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J56531J0Q031371531P&model_=INNO3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 11042,
+        "link": "https://ek.ua/en/clcp.php?ep_=1UR7031J543J1J271J1J512J1J32031J4H231J0M2J1J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J57531J0Q031371531P&model_=INNO3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 11410,
+        "link": "https://ek.ua/en/clcp.php?ep_=04R0031J592J1J32131J512J1J322J1J32231J0J031J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J58531J0Q031371531P&model_=Inno3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 11696,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BQD031J592J1J2P231J512J1J32331J2P0J1J1O131J51331J424J1J2L2J1J2K531J0A1J1J2H531J0Q1J1J59531J0Q031371531P&model_=INNO3D+GeForce+GTX+1660+S&idSite_=1&idGood_=1681860"
+      }
+    ],
+    "range": {
+      "minPrice": 11042,
+      "maxPrice": 14999
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "INNO3D",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>ffordable 2019 mid-range gaming graphics card based on Nvidia TU116 GPU with Turing progressive microarchitecture. Equipped with a powerful dual-slot cooling system based on a massive aluminium heatsink and three copper heat pipes, the heat from which is removed using two automatically controlled durable axial fans. Unlike previous GDDR5-equipped GTX 1660 models, the INNO3D GeForce GTX 1660 SUPER TWIN X2 uses faster 6GB GDDR6 graphics memory that communicates with the GPU over a 192-bit bus.</p><p>Due to this circumstance, this model is perfect for completing balanced mid-range gaming systems and upgrading existing gaming configurations. In conjunction with a performant CPU, it is able to easily provide a comfortable high frame rate in the vast majority of popular game projects of 2015-2020 in FullHD resolution at high or maximum graphics settings. The undoubted advantages of the graphics card include low power consumption, which ensures compatibility with inexpensive power supplies.</p>",
+  "interface": "PCI-E v3.0",
+  "GPUModel": "NVIDIA GeForce GTX 1660 SUPER",
+  "memorySize": "6 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1785 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.0b",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4",
+  "directX": "12",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "1408",
+  "textureUnits": "88",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "450 W",
+  "numberOfSlots": "2",
+  "size": "220 mm / 220x113 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5362"
+  },
+  "id": "PALIT-GEFORCE-GTX-1660-SUPER-GP",
+  "name": "Palit GeForce GTX 1660 SUPER GP",
+  "mainImage": "https://s.ek.ua/jpg/1682007.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 10841,
+        "link": "https://ek.ua/en/clcp.php?ep_=O9RO031J510J1J2H3J1J4Q0J1J2M0J1J002J1J4P1J1J4A0J1J38131J4L2J1J2M031J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q1J1N&model_=Palit+Nvidia+GeForce+GTX+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6322e51c332e9aa6940b515f",
+        "price": 10730,
+        "link": "https://ek.ua/en/clcp.php?ep_=610M031J54131J4H031J512J1J31231J3G031J4O331J51331J424J1J2L2J1J30531J0A1J1J2H531J0Q1J1J52531J0Q031371431J533J&model_=Palit+GTX+1660+SUPER+GP+%28&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 10647,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MTQ031J560J1J0M1J1J512J1J313J1J244J1J1L1J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J533J&model_=Palit+Nvidia+GeForce+Gtx+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6322dce4332e9aa694f65a13",
+        "price": 16990,
+        "link": "https://ek.ua/en/clcp.php?ep_=8R2G031J552J1J47131J512J1J313J1J394J1J0P431J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J533J&model_=Palit+GTX+1660+SUPER+GP+%28&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 10745,
+        "link": "https://ek.ua/en/clcp.php?ep_=6Q1P031J543J1J35031J512J1J32231J39331J1I4J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J533J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Palit+Nvidia+G&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 10149,
+        "link": "https://ek.ua/en/clcp.php?ep_=QPR7031J510J1J2H031J4Q0J1J2M031J40331J3O131J1Q0J1J38131J4L2J1J2M0J1J50531J1L0J1J51531J1Q331J51531I0E0J1J3A1J1N&model_=Palit+%28NE6166S018J9-1160A&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 11698,
+        "link": "https://ek.ua/en/clcp.php?ep_=4Q1O031J57331J421J1J512J1J320J1J1M231J224J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J57531J0Q031371331J533J&model_=PALIT+GeForce+GTX+1660+SU&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 10488,
+        "link": "https://ek.ua/en/clcp.php?ep_=3P1H031J55331J28131J512J1J310J1J371J1J45331J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J533J&model_=Palit+GTX+1660+SUPER+GP+%28&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e51",
+        "price": 10590,
+        "link": "https://ek.ua/en/clcp.php?ep_=6N0B031J54331J0J3J1J512J1J313J1J0M1J1J4J331J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J533J&model_=Palit+NE6166S018J9-1160A-&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 11147,
+        "link": "https://ek.ua/en/clcp.php?ep_=T3OU031J55331J0K131J512J1J32031J0L031J0O431J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q1J1N&model_=GF+gtx+1660+Super+6gb+gdd&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 10488,
+        "link": "https://ek.ua/en/clcp.php?ep_=PKQL031J51031J25131J2A0J1J2M131J142J1J104J1J1Q0J1J38131J4L2J1J2M0J1J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0L531J1N&model_=Palit+GeForce+GTX+1660+Su&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 10617,
+        "link": "https://ek.ua/en/clcp.php?ep_=RGVS031J510J1J34131J3A0J1J2M131J204J1J2O131J4Q0J1J38131J4L2J1J2M0J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0L531J1N&model_=Palit+%28NE6166S018J9-1160A&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 17000,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NUA031J59431J282J1J512J1J32331J1L231J1G3J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J2Q1J1N&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Palit+GTX+1660&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 10889,
+        "link": "https://ek.ua/en/clcp.php?ep_=U6QS031J59331J193J1J512J1J32031J1K131J11131J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J1A1J1N&model_=Palit+GeForce+GTX1660+SUP&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 10178,
+        "link": "https://ek.ua/en/clcp.php?ep_=52TA031J560J1J393J1J512J1J301J1J433J1J1H431J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J0Q1J1N&model_=Palit+GeForce+GTX1660+SUP&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 10178,
+        "link": "https://ek.ua/en/clcp.php?ep_=UKT7031J58131J2K131J512J1J32231J130J1J4H231J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J0Q1J1N&model_=Palit+GeForce+GTX1660+SUP&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 10249,
+        "link": "https://ek.ua/en/clcp.php?ep_=5FU9031J552J1J18231J512J1J30431J0O431J1O1J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J533J&model_=Palit+GeForce+GTX+1660+SU&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 10488,
+        "link": "https://ek.ua/en/clcp.php?ep_=68T8031J56031J4M2J1J512J1J30431J0G031J3P1J1J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J533J&model_=Palit+GeForce+Gtx+1660+Su&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 11110,
+        "link": "https://ek.ua/en/clcp.php?ep_=4IUI031J592J1J32131J512J1J30431J170J1J3N031J51331J424J1J2L2J1J31531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J533J&model_=PALIT+GeForce+GTX+1660+SU&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 10490,
+        "link": "https://ek.ua/en/clcp.php?ep_=J4OT031J510J1J27231J0A0J1J2M0J1J02431J0M331J0Q0J1J38131J4L2J1J2M0J1J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q1J1N&model_=Palit+NVIDIA+GTX+1660+SUP&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 10747,
+        "link": "https://ek.ua/en/clcp.php?ep_=2RU7031J58431J0G031J512J1J313J1J3H0J1J491J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J533J&model_=Palit+GeForce+GTX+1660+Su&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 10080,
+        "link": "https://ek.ua/en/clcp.php?ep_=RPRO031J510J1J36231J1Q0J1J2M0J1J4N231J4I031J3Q0J1J38131J4L2J1J2M231J50531J1L0J1J51531J1Q131J1A0J1J50721J0Q1J1N&model_=Palit+GeForce+GTX1660+SUP&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 11269,
+        "link": "https://ek.ua/en/clcp.php?ep_=4SSP031J560J1J2N2J1J512J1J320J1J44331J1J2J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J533J&model_=Palit+PCI-Ex+GeForce+GTX+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 10547,
+        "link": "https://ek.ua/en/clcp.php?ep_=V90D031J55331J46031J512J1J32131J0H031J48231J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J533J&model_=Palit+GeForce+GTX+1660+Su&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 14999,
+        "link": "https://ek.ua/en/clcp.php?ep_=8KRR031J592J1J2P231J512J1J32331J2P0J1J134J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J533J&model_=Palit+PCI-Ex+GeForce+GTX+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6a",
+        "price": 12480,
+        "link": "https://ek.ua/en/clcp.php?ep_=AEU4031J592J1J1G431J512J1J32331J433J1J1L2J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J533J&model_=Palit+GeForce+GTX+1660+Su&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 10070,
+        "link": "https://ek.ua/en/clcp.php?ep_=0LSH031J543J1J271J1J512J1J323J1J081J1J0K031J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3Q1J1N&model_=Palit+GTX1660SUPER+GP+6G+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 10179,
+        "link": "https://ek.ua/en/clcp.php?ep_=U6QG031J59031J45131J512J1J30131J0K131J0N031J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J52431J51531I0E031J3A1J1N&model_=Palit+PCI-Ex+GeForce+GTX+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 10197,
+        "link": "https://ek.ua/en/clcp.php?ep_=6GTP031J57331J421J1J512J1J320J1J40131J11431J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J3A1J1N&model_=PALIT+GeForce+GTX+1660+SU&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 10989,
+        "link": "https://ek.ua/en/clcp.php?ep_=N3PE031J55331J0K131J512J1J32031J0L031J13031J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J53031J51531I0E0J1J0Q1J1N&model_=GF+gtx+1660+Super+6gb+gdd&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 10252,
+        "link": "https://ek.ua/en/clcp.php?ep_=1BUM031J58431J0G031J512J1J313J1J3H0J1J4N031J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J530J1J51531I0E0J1J533J&model_=Palit+GTX+1660+SUPER+GP+%28&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 10852,
+        "link": "https://ek.ua/en/clcp.php?ep_=QBO9031J510J1J27231J0A0J1J2M131J193J1J0I1J1J4Q0J1J38131J4L2J1J2M231J50531J1L0J1J51531J1Q1J1J1A0J1J50721J0Q1J1N&model_=Palit+%28NE6166S018J9-1160A&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 10789,
+        "link": "https://ek.ua/en/clcp.php?ep_=50TO031J560J1J2N2J1J512J1J32131J4O131J4H1J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J531J1J51531I0E0J1J533J&model_=Palit+%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GTX+1660&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 10754,
+        "link": "https://ek.ua/en/clcp.php?ep_=2TVA031J592J1J32131J512J1J322J1J32231J2O0J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J53231J51531I0E0J1J533J&model_=PALIT+GeForce+GTX+1660+SU&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 10990,
+        "link": "https://ek.ua/en/clcp.php?ep_=2FS0031J560J1J2N2J1J512J1J32331J10231J221J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J532J1J51531I0E031J3Q1J1N&model_=Palit+PCI-Ex+GeForce+GTX+&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 10101,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8VV031J59031J45131J512J1J321J1J1M331J430J1J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J53331J51531I0E031J3A1J1N&model_=Palit+%28NE6166S018J9-1160A&idSite_=1&idGood_=1682007"
+      },
+      {
+        "storeId": "63219ef0332e9aa694f9cda1",
+        "price": 10488,
+        "link": "https://ek.ua/en/clcp.php?ep_=38VU031J59031J45131J512J1J321J1J1M331J42431J51331J424J1J2L2J1J34531J0A1J1J2H531J0Q1J1J533J1J51531I0E031J3A1J1N&model_=Palit+GeForce+GTX+1660+Su&idSite_=1&idGood_=1682007"
+      }
+    ],
+    "range": {
+      "minPrice": 10070,
+      "maxPrice": 17000
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Palit",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>dvanced mid-range gaming graphics card based on Nvidia TU116 GPU with advanced Turing microarchitecture. It differs from the Palit GeForce GTX 1660 Dual graphics card by using high-speed GDDR6 graphics memory instead of GDDR5. Thanks to the significantly increased effective clock speed (14000 MHz vs. 8000 MHz), the memory bandwidth increased by 43%, which had the most positive effect on the final product performance (from +8 to +20% to the level of the GTX 1660).</p><p>The manufacturer of the Palit GeForce GTX 1660 SUPER GP graphics card is positioned as an affordable model for assembling inexpensive gaming and universal household PCs. With a sufficiently powerful CPU, it can be a great option for upgrading existing gaming systems. In terms of integrated gaming performance, this video adapter confidently surpasses the GeForce GTX 1060 (6GB), AMD Radeon RX580/590 and reaches the level of GeForce GTX 1070. The user can count on a comfortable frame rate in the vast majority of popular gaming projects of 2015-2019 in FullHD resolution at the maximum graphics quality settings. The graphics card is equipped with a quiet proprietary cooling system based on copper heat pipes with aluminium fins. Two low profile axial fans with long life bearings are used for heat dissipation.</p>",
+  "interface": "PCI-E v3.0",
+  "GPUModel": "NVIDIA GeForce GTX 1660 SUPER",
+  "memorySize": "6 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1785 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.0b",
+  "displayPort": "1",
+  "displayPortVersion": "v.1.4",
+  "directX": "12",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "1408",
+  "textureUnits": "88",
+  "monitorsConnection": "3",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "450 W",
+  "numberOfSlots": "2",
+  "size": "235 mm / 235x115x40 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5363"
+  },
+  "id": "ASUS-GEFORCE-RTX-3060-TUF-GAMING-V2-OC-LHR",
+  "name": "Asus GeForce RTX 3060 TUF Gaming V2 OC LHR",
+  "mainImage": "https://s.ek.ua/jpg/2047918.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320d010332e9aa6941f8379",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NRP031J55031J1K231J512J1J314J1J25131J400J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51531J0Q031371131J5423&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=V9RD031J510J1J2H3J1J4Q0J1J2M0J1J00231J4H331J4Q0J1J38131J4L2J1J2M4J1J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q231K&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 19748,
+        "link": "https://ek.ua/en/clcp.php?ep_=2KQ5031J561J1J00131J512J1J2P4J1J35131J2L0J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J53531J0Q031371531J24&model_=ASUS+GeForce+RTX3060+TUF+&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 20082,
+        "link": "https://ek.ua/en/clcp.php?ep_=U9RI031J510J1J2H3J1J4Q0J1J2M0J1J00231J4M2J1J3A0J1J38131J4L2J1J2M4J1J50531J1L0J1J51531J1Q231J51531I0E0J1J0Q231K&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6322e51c332e9aa6940b515f",
+        "price": 18167,
+        "link": "https://ek.ua/en/clcp.php?ep_=4HVB031J54131J4H031J512J1J31231J3G031J4H1J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J55531J0Q031371431J5423&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be21f",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=TTR7031J51031J3L531J0L331J0L231J3I0J1J1P531J0M431J192J1J2L331J4Q031J532J1J0Q0J1J53531J3A0J1J50721J0N531J24&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 18067,
+        "link": "https://ek.ua/en/clcp.php?ep_=67SL031J560J1J0M1J1J512J1J313J1J244J1J1K231J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J57531J0Q0313713J1J5423&model_=Asus+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 18165,
+        "link": "https://ek.ua/en/clcp.php?ep_=6R0J031J543J1J35031J512J1J32231J39331J1H4J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J58531J0Q0313713J1J5423&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Asus+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 16975,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BRJ031J510J1J2H031J4Q0J1J2M0J1J2I331J3N2J1J3A0J1J38131J4L2J1J2M4J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J3A231K&model_=Asus+%28TUF-RTX3060-O12G-V2&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320d063332e9aa694203f0d",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=VRVC031J59031J4O331J512J1J2P331J0P231J3M131J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J3A231K&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320d002332e9aa6941f6769",
+        "price": 19738,
+        "link": "https://ek.ua/en/clcp.php?ep_=6HUH031J551J1J394J1J512J1J32331J43031J4H2J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J3A231K&model_=ASUS+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 16974,
+        "link": "https://ek.ua/en/clcp.php?ep_=520V031J57331J421J1J512J1J32331J4H231J2M331J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J3A231K&model_=ASUS+GeForce+RTX+3060+122&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 17988,
+        "link": "https://ek.ua/en/clcp.php?ep_=TLSN031J55331J28131J512J1J310J1J37231J09031J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J2Q231K&model_=Asus+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644fae09b68c4f46eb9f3430",
+        "price": 17835,
+        "link": "https://ek.ua/en/clcp.php?ep_=1838031J57431J20131J512J1J31131J373J1J4I2J1J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J2Q231K&model_=ASUS+TUF+Gaming+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=TOT5031J51031J25131J2A0J1J2M0J1J18431J1J031J4Q0J1J38131J4L2J1J2M4J1J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0L531J24&model_=ASUS+TUF+Gaming+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 18722,
+        "link": "https://ek.ua/en/clcp.php?ep_=T3PU031J55331J0K131J512J1J32031J0L031J13131J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J2Q231K&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+asus+GeForce+r&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 17889,
+        "link": "https://ek.ua/en/clcp.php?ep_=0PRI031J510J1J34131J3A0J1J2M131J09031J2H1J1J4Q0J1J38131J4L2J1J2M4J1J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0L531J24&model_=Asus+%28TUF-RTX3060-O12G-V2&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 17275,
+        "link": "https://ek.ua/en/clcp.php?ep_=8KUF031J58331J054J1J512J1J32331J1J431J23431J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J2Q231K&model_=Asus+GeForce+RTX+3060+12G&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 18020,
+        "link": "https://ek.ua/en/clcp.php?ep_=38U4031J59431J282J1J512J1J32331J1M0J1J25031J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J2Q231K&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GF+RTX+3060+12&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 18581,
+        "link": "https://ek.ua/en/clcp.php?ep_=VBT2031J59331J193J1J512J1J32031J1P031J3H331J51331J424J1J2L2J1J39531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J2A231K&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=V2QT031J552J1J03431J512J1J32031J44131J1P031J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J1Q231K&model_=ASUS+RTX+3060+Tuf+Gaming+&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MQB031J51031J254J1J0Q0J1J2M031J4P0J1J28431J4A0J1J38131J4L2J1J2N131J50531J1L0J1J51531J1Q131J1A0J1J50721J0I531J24&model_=Asus+RTX+3060+12Gb+TUF+Ga&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 17499,
+        "link": "https://ek.ua/en/clcp.php?ep_=4L0S031J560J1J393J1J512J1J301J1J45331J4K4J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J0Q231K&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=U9Q6031J58131J2K131J512J1J32131J180J1J0H3J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J0Q231K&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=4GU3031J552J1J18231J512J1J30431J0O431J2G1J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J5423&model_=Asus+TUF+GeForce+RTX+3060&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 17988,
+        "link": "https://ek.ua/en/clcp.php?ep_=89R6031J56031J4M2J1J512J1J30431J0G031J2L4J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J5423&model_=Asus+GeForce+Rtx+3060+Tuf&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 17205,
+        "link": "https://ek.ua/en/clcp.php?ep_=8G06031J543J1J271J1J512J1J304J1J284J1J24331J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J523J1J51531I0E0J1J5423&model_=ASUS+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 17519,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKPO031J510J1J27231J0A0J1J2M0J1J02431J13431J4Q0J1J38131J4L2J1J2N131J50531J1L0J1J51531J1Q131J4A0J1J50721J0Q231K&model_=ASUS+TUF+Gaming+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 18102,
+        "link": "https://ek.ua/en/clcp.php?ep_=75UJ031J59131J3G4J1J512J1J31031J1P231J472J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J5423&model_=ASUS+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79ad",
+        "price": 17900,
+        "link": "https://ek.ua/en/clcp.php?ep_=NOUP031J510J1J34231J0Q0J1J2M0J1J1M4J1J4N131J4A0J1J38131J4L2J1J2N131J50531J1L0J1J51531J1Q1J1J0A0J1J50721J0Q231K&model_=ASUS+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 17721,
+        "link": "https://ek.ua/en/clcp.php?ep_=4CPF031J58431J0G031J512J1J313J1J3H131J02331J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J530J1J51531I0E0J1J5423&model_=ASUS+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=ROST031J510J1J36231J1Q0J1J2M0J1J464J1J2P431J0Q0J1J38131J4L2J1J2N131J50531J1L0J1J51531J1Q1J1J1A0J1J50721J0Q231K&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 18981,
+        "link": "https://ek.ua/en/clcp.php?ep_=52UQ031J560J1J2N2J1J512J1J320J1J49431J3L2J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J531J1J51531I0E0J1J5423&model_=Asus+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 17806,
+        "link": "https://ek.ua/en/clcp.php?ep_=UPV7031J55331J46031J512J1J32131J0H031J431J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J53231J51531I0E0J1J5423&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 18299,
+        "link": "https://ek.ua/en/clcp.php?ep_=31T4031J583J1J122J1J512J1J32231J0M331J1K1J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J532J1J51531I0E0J1J5423&model_=Asus+%28TUF-RTX3060-O12G-V2&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 16981,
+        "link": "https://ek.ua/en/clcp.php?ep_=3H07031J59231J31231J512J1J322J1J24431J38031J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J53331J51531I0E0J1J5423&model_=Asus+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 18635,
+        "link": "https://ek.ua/en/clcp.php?ep_=3UUJ031J592J1J32131J512J1J322J1J32231J33031J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J533J1J51531I0E0J1J5423&model_=ASUS+RTX+3060+Tuf+Gaming+&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 24000,
+        "link": "https://ek.ua/en/clcp.php?ep_=5RUQ031J58331J3M131J512J1J322J1J4G231J26031J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J53431J51531I0E0J1J5423&model_=ASUS+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 18211,
+        "link": "https://ek.ua/en/clcp.php?ep_=6BSU031J592J1J2P231J512J1J32331J2P0J1J1J231J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J534J1J51531I0E031J3Q231K&model_=Asus+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 17519,
+        "link": "https://ek.ua/en/clcp.php?ep_=08UT031J59031J45131J512J1J30031J360J1J4N4J1J51331J424J1J2L2J1J3I531J0A1J1J2H531J0Q1J1J54031J51531I0E031J3A231K&model_=Asus+PCI-Ex+GeForce+RTX+3&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 16975,
+        "link": "https://ek.ua/en/clcp.php?ep_=7ITS031J59231J354J1J512J1J322J1J264J1J07431J51331J424J1J2L2J1J3J531J0A1J1J2H531J0Q1J1J540J1J51531I0E0J1J5423&model_=Asus+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 16978,
+        "link": "https://ek.ua/en/clcp.php?ep_=7KN0031J591J1J073J1J512J1J322J1J28131J094J1J51331J424J1J2L2J1J3J531J0A1J1J2H531J0Q1J1J54131J51531I0E0J1J5423&model_=Asus+TUF-RTX3060-O12G-V2-&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 18525,
+        "link": "https://ek.ua/en/clcp.php?ep_=28UF031J560J1J2N2J1J512J1J32331J0P231J3K2J1J51331J424J1J2L2J1J3J531J0A1J1J2H531J0Q1J1J541J1J51531I0E031J3Q231K&model_=Asus+%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+R&idSite_=1&idGood_=2047918"
+      },
+      {
+        "storeId": "63219ef0332e9aa694f9cda1",
+        "price": 17988,
+        "link": "https://ek.ua/en/clcp.php?ep_=U8RE031J59031J45131J512J1J30031J36131J0N0J1J51331J424J1J2L2J1J3J531J0A1J1J2H531J0Q1J1J54231J51531I0E031J3A231K&model_=ASUS+TUF+Gaming+GeForce+R&idSite_=1&idGood_=2047918"
+      }
+    ],
+    "range": {
+      "minPrice": 16974,
+      "maxPrice": 24000
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">2</span>021 mid-range low noise gaming graphics card for use in gaming configurations with FullHD monitors. Supports high-speed PCI-E Gen4 x16 system interface, fully compatible with its predecessor PCI-E Gen3, can be used to upgrade existing gaming PCs. Refers to products of the Asus The Ultimate Force line, the models of which undergo lengthy factory load testing, which guarantees performance under long-term gaming load and confirms the absence of defects.</p><p>It will provide a comfortable frame rate in any game projects of 2015-2021 at maximum graphics settings and FullHD resolution. It has a built-in hardware system for blocking the mining of the Ethereum cryptocurrency and a number of other altcoins, for the mining of which the Ethash algorithm is used. The Asus GeForce RTX 3060 TUF Gaming V2 OC LHR graphics card is based on the Nvidia GA106 (Ampere, 8 nm) graphics processor, which works in conjunction with 12 GB (192-bit) GDDR6 graphics memory. Such an array of video memory is enough to use the most realistic textures in existing game projects. The GA106 GPU is equipped with 2nd generation RT cores with Real-Time Ray Tracing technology. Supports intelligent DLSS anti-aliasing implemented as image scaling through the use of ML technologies.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1882 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "2",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2.7",
+  "size": "301 mm / 301x143x54 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5364"
+  },
+  "id": "GIGABYTE-GEFORCE-RTX-3070-GAMING-OC-LHR-8G",
+  "name": "Gigabyte GeForce RTX 3070 GAMING OC LHR 8G",
+  "mainImage": "https://s.ek.ua/jpg/2055544.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 27742,
+        "link": "https://ek.ua/en/clcp.php?ep_=RSQ7031J510J1J2H3J1J4Q0J1J2M131J1J2J1J45331J0A0J1J38131J4L2J1J2N431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1P&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 27023,
+        "link": "https://ek.ua/en/clcp.php?ep_=0JR4031J561J1J00131J512J1J32331J242J1J2O131J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J52531J0Q031371531J0P&model_=GIGABYTE+GeForce+RTX+3070&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6322e51c332e9aa6940b515f",
+        "price": 25234,
+        "link": "https://ek.ua/en/clcp.php?ep_=140C031J54131J4H031J512J1J32131J25031J2K0J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J53531J0Q031371431J514J&model_=Gigabyte+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 24072,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LUI031J560J1J0M1J1J512J1J32031J45231J34031J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J514J&model_=Gigabyte+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 24262,
+        "link": "https://ek.ua/en/clcp.php?ep_=5O3G031J543J1J35031J512J1J32231J39331J1I3J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J514J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Gigabyte+GeFor&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 25012,
+        "link": "https://ek.ua/en/clcp.php?ep_=087G031J57331J421J1J512J1J320J1J1M431J44031J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J56531J0Q031371331J514J&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320d002332e9aa6941f6769",
+        "price": 27591,
+        "link": "https://ek.ua/en/clcp.php?ep_=8307031J551J1J394J1J512J1J32331J43031J33031J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J57531J0Q031371331J514J&model_=Gigabyte+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 25854,
+        "link": "https://ek.ua/en/clcp.php?ep_=7347031J55331J28131J512J1J313J1J33431J2K3J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J514J&model_=Gigabyte+GeForce+RTX+3070&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 26659,
+        "link": "https://ek.ua/en/clcp.php?ep_=0KT5031J55331J0K131J512J1J32031J0L031J14331J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J514J&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Gigabyte+GeFor&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 24455,
+        "link": "https://ek.ua/en/clcp.php?ep_=VPTL031J59331J193J1J512J1J32031J1N0J1J4H4J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A0J1P&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 24555,
+        "link": "https://ek.ua/en/clcp.php?ep_=VJSA031J560J1J393J1J512J1J313J1J0K3J1J0N231J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q0J1P&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 24555,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5T6031J58131J2K131J512J1J320J1J0K331J274J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q0J1P&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 24555,
+        "link": "https://ek.ua/en/clcp.php?ep_=VMOG031J510J1J36231J1Q0J1J2M0J1J3K031J472J1J4A0J1J38131J4L2J1J2N431J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q0J1P&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 24438,
+        "link": "https://ek.ua/en/clcp.php?ep_=462C031J543J1J271J1J512J1J313J1J21231J441J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J514J&model_=Gigabyte+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 24772,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OOD031J510J1J27231J0A0J1J2M0J1J3M1J1J3J431J4A0J1J38131J4L2J1J2N431J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q0J1P&model_=Gigabyte+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 25299,
+        "link": "https://ek.ua/en/clcp.php?ep_=4R3O031J58431J0G031J512J1J31431J02431J4N431J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J514J&model_=GIGABYTE+GeForce+RTX+3070&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 25029,
+        "link": "https://ek.ua/en/clcp.php?ep_=4Q1P031J55331J46031J512J1J322J1J0K231J214J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J514J&model_=GIGABYTE+GeForce+RTX3070+&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 33000,
+        "link": "https://ek.ua/en/clcp.php?ep_=71V2031J58331J3M131J512J1J322J1J4G231J21331J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3Q0J1P&model_=GIGABYTE+GeForce+RTX+3070&idSite_=1&idGood_=2055544"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d70",
+        "price": 26817,
+        "link": "https://ek.ua/en/clcp.php?ep_=7BR8031J59031J45131J512J1J31431J1P2J1J094J1J51331J424J1J2L2J1J3O531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A0J1P&model_=GIGABYTE+GeForce+RTX+3070&idSite_=1&idGood_=2055544"
+      }
+    ],
+    "range": {
+      "minPrice": 24072,
+      "maxPrice": 33000
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Gigabyte",
+  "description": "<p><span class=\"desc-ai-initcap\">P</span>re-top 2021 gaming graphics card based on GA104 (8nm) GPU with advanced Nvidia Ampere microarchitecture. Designed to complete high-end gaming systems equipped with FullHD or WQHD resolution monitors. Supports low factory overclocking profile of GA104 GPU, equipped with high-speed 8 GB GDDR6 graphics memory (256-bit bus). With 2nd generation RT cores, the Gigabyte GeForce RTX 3070 GAMING OC LHR 8G graphics card is capable of real-time ray tracing in 3D, bringing real-time lighting and reflections to the game world to a whole new level.</p><p>Gen 3 Tensor Cores enable Deep Learning Super Sampling (DLSS), an innovative scaling technology that delivers impressive results without significant performance degradation. Refers to Lite Hash Rate class video adapters, the chipset of which supports hardware blocking of Ethereum cryptocurrency mining. Also worth noting is the efficient operation of the WindForce 3X cooling system with three durable fans using graphene-lubricated bearings.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3070",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "256 bit",
+  "GPUClockSpeed": "1815 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "2",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "2",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "5888",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "6 + 8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2.5",
+  "size": "286 mm / 286x115x51 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5365"
+  },
+  "id": "MSI-GEFORCE-RTX-3060-VENTUS-2X-12G-OC",
+  "name": "MSI GeForce RTX 3060 VENTUS 2X 12G OC",
+  "mainImage": "https://s.ek.ua/jpg/1941016.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320d010332e9aa6941f8379",
+        "price": 16779,
+        "link": "https://ek.ua/en/clcp.php?ep_=46SQ031J55031J1K231J512J1J314J1J25431J2K131J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J51531J0Q031371131J530J&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 17871,
+        "link": "https://ek.ua/en/clcp.php?ep_=PCOT031J510J1J2H3J1J4Q0J1J2M131J1J331J1I031J1A0J1J38131J4L2J1J2O331J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q1J1H&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be21f",
+        "price": 16779,
+        "link": "https://ek.ua/en/clcp.php?ep_=RBV3031J51031J3L531J0L331J0K131J204J1J49531J0M431J192J1J2L431J3A031J532J1J0Q0J1J53531J1Q0J1J50721J0N531J1H&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 16802,
+        "link": "https://ek.ua/en/clcp.php?ep_=46S2031J560J1J0M1J1J512J1J313J1J244J1J1N031J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J530J&model_=Msi+GeForce+Rtx+3060+Vent&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 17095,
+        "link": "https://ek.ua/en/clcp.php?ep_=2A01031J543J1J35031J512J1J32231J39331J1L031J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J530J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Msi+GeForce+Rt&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320d063332e9aa694203f0d",
+        "price": 16779,
+        "link": "https://ek.ua/en/clcp.php?ep_=6ESV031J59031J4O331J512J1J2P331J0P0J1J38331J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J56531J0Q031371331J530J&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 15777,
+        "link": "https://ek.ua/en/clcp.php?ep_=TFKO031J51031J25131J2A0J1J2M0J1J36131J09131J3Q0J1J38131J4L2J1J2O331J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q1J1H&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 17998,
+        "link": "https://ek.ua/en/clcp.php?ep_=U6PG031J55331J0K131J512J1J32031J0L031J12131J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J58531J0Q031371231J530J&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 16859,
+        "link": "https://ek.ua/en/clcp.php?ep_=87TG031J552J1J03431J512J1J31231J3M231J433J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J59531J0Q0313711J1J530J&model_=MSI+RTX+3060+Ventus+2X+12&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 16041,
+        "link": "https://ek.ua/en/clcp.php?ep_=ULUD031J573J1J3P131J512J1J304J1J050J1J153J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q1J1H&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 16199,
+        "link": "https://ek.ua/en/clcp.php?ep_=2FUM031J552J1J18231J512J1J30431J0O431J401J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 15777,
+        "link": "https://ek.ua/en/clcp.php?ep_=1OQC031J56031J4M2J1J512J1J30431J0G031J2O031J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J530J&model_=Msi+GeForce+Rtx+3060+Vent&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 15651,
+        "link": "https://ek.ua/en/clcp.php?ep_=5UVS031J543J1J271J1J512J1J304J1J28431J372J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J530J&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 16410,
+        "link": "https://ek.ua/en/clcp.php?ep_=P4PM031J510J1J27231J0A0J1J2M0J1J02431J1J331J2Q0J1J38131J4L2J1J2O331J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q1J1H&model_=MSI+%28GeForce+RTX+3060+VEN&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79ad",
+        "price": 16100,
+        "link": "https://ek.ua/en/clcp.php?ep_=P8U7031J510J1J34231J0Q0J1J2M0J1J1M4J1J4N331J0A0J1J38131J4L2J1J2O331J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q1J1H&model_=MSI+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+RT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 15625,
+        "link": "https://ek.ua/en/clcp.php?ep_=7BSK031J58431J0G031J512J1J313J1J3H0J1J4L3J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 16582,
+        "link": "https://ek.ua/en/clcp.php?ep_=5GS9031J560J1J2N2J1J512J1J320J1J48431J22131J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J530J&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 16425,
+        "link": "https://ek.ua/en/clcp.php?ep_=ASSI031J59131J3G4J1J512J1J321J1J313J1J1I431J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J530J&model_=MSI+RTX+3060+VENTUS+2X+12&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 17222,
+        "link": "https://ek.ua/en/clcp.php?ep_=3GTR031J583J1J122J1J512J1J32231J0M2J1J3P031J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 18893,
+        "link": "https://ek.ua/en/clcp.php?ep_=4IS9031J59231J354J1J512J1J322J1J271J1J2J1J1J51331J424J1J2L2J1J46531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+Vent&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 16500,
+        "link": "https://ek.ua/en/clcp.php?ep_=0RSU031J592J1J2P231J512J1J32331J2P0J1J1G0J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q1J1H&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 16199,
+        "link": "https://ek.ua/en/clcp.php?ep_=SOUS031J59031J45131J512J1J30031J360J1J4K031J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A1J1H&model_=MSI+PCI-Ex+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644faaa6b68c4f46eb9be21f",
+        "price": 16779,
+        "link": "https://ek.ua/en/clcp.php?ep_=1FQ3031J51031J3L531J0L331J0L2J1J37231J2I531J0M431J192J1J2L431J4Q031J532J1J0Q0J1J53531J13531J0Q0313713J1J530J&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320d063332e9aa694203f0d",
+        "price": 16779,
+        "link": "https://ek.ua/en/clcp.php?ep_=5BTN031J59031J4O331J512J1J2P331J0P2J1J134J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J3A1J1H&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 16981,
+        "link": "https://ek.ua/en/clcp.php?ep_=TJRD031J55331J0K131J512J1J32031J0L031J24231J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J2Q1J1H&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+rt&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 16981,
+        "link": "https://ek.ua/en/clcp.php?ep_=SJRD031J55331J0K131J512J1J32031J0L031J242J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J0Q1J1H&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+msi+GeForce+rt&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 15622,
+        "link": "https://ek.ua/en/clcp.php?ep_=5VSS031J543J1J271J1J512J1J304J1J29231J230J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J523J1J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 15620,
+        "link": "https://ek.ua/en/clcp.php?ep_=6VSS031J543J1J271J1J512J1J304J1J29231J23131J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J52431J51531I0E0J1J530J&model_=MSI+GeForce+RTX+3060+12GB&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 16384,
+        "link": "https://ek.ua/en/clcp.php?ep_=4VT2031J560J1J2N2J1J512J1J32331J10231J26231J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J524J1J51531I0E031J3Q1J1H&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "63219ef4332e9aa694f9d90f",
+        "price": 17412,
+        "link": "https://ek.ua/en/clcp.php?ep_=08RE031J59031J45131J512J1J30031J36131J0L4J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J53031J51531I0E031J3A1J1H&model_=MSI+Nvidia+GeForce+RTX+30&idSite_=1&idGood_=1941016"
+      },
+      {
+        "storeId": "63219ef0332e9aa694f9cda1",
+        "price": 15777,
+        "link": "https://ek.ua/en/clcp.php?ep_=TP0S031J59031J45131J512J1J321J1J1M331J411J1J51331J424J1J2L2J1J49531J0A1J1J2H531J0Q1J1J530J1J51531I0E031J3A1J1H&model_=MSI+GeForce+RTX+3060+VENT&idSite_=1&idGood_=1941016"
+      }
+    ],
+    "range": {
+      "minPrice": 15620,
+      "maxPrice": 18893
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "description": "<p><span class=\"desc-ai-initcap\">B</span>alanced 2021 mid-range gaming graphics card powered by the Nvidia GA106 GPU, built on the cutting-edge Ampere microarchitecture. It is distinguished by the presence of a significant factory overclocking of the GPU, a relatively affordable cost and the use of an effective proprietary two-slot cooling system, which is equipped with a pair of Torx Fan 3.0 fans with two types of blades.</p><p>The alternation of dispersion and traditional blades accelerates and directs the airflow to the aluminium radiator. Also worth noting is the Zero Frozr technology, which completely stops the fans when idle. The MSI GeForce RTX 3060 VENTUS 2X 12G OC graphics card is designed for use in mid-range gaming systems equipped with FullHD or WQHD resolution monitors. The GA106 GPU with 2nd generation RT cores is able to create ultra-realistic Real-Time Ray Tracing images with a new level of lighting and reflection fidelity. Advanced 3rd generation tensor cores support revolutionary anti-aliasing technology based on deep learning algorithms (DLSS). In conjunction with a performant CPU, this graphics card will provide a comfortable frame rate in any popular game projects of 2015-2021 at high or maximum graphics settings.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1807 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "numberOfSlots": "2",
+  "size": "235 mm / 235x124x42 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5366"
+  },
+  "id": "MSI-GEFORCE-RTX-3080-GAMING-Z-TRIO-12G-LHR",
+  "name": "MSI GeForce RTX 3080 GAMING Z TRIO 12G LHR",
+  "mainImage": "https://s.ek.ua/jpg/2159727.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320d028332e9aa6941fba44",
+        "price": 39799,
+        "link": "https://ek.ua/en/clcp.php?ep_=K5N5031J510J1J26231J1A0J1J2M131J0M031J161J1J3A0J1J38131J4L2J1J2P1J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J52&model_=MSI+GeForce+RTX+3080+GAMI&idSite_=1&idGood_=2159727"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 43854,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VT8031J560J1J2N2J1J512J1J32331J102J1J34131J51331J424J1J2L2J1J4J531J0A1J1J2H531J0Q1J1J52531J0Q031371531I&model_=MSI+GeForce+RTX+3080+GAMI&idSite_=1&idGood_=2159727"
+      }
+    ],
+    "range": {
+      "minPrice": 39799,
+      "maxPrice": 43854
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3080",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "384 bit",
+  "GPUClockSpeed": "1815 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "8960",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "8 + 8 + 8 pin",
+  "minPSU": "750 W",
+  "numberOfSlots": "2.7",
+  "size": "323 mm / 323x140x56 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5367"
+  },
+  "id": "ASUS-GEFORCE-RTX-3060-PHOENIX-V2-LHR",
+  "name": "Asus GeForce RTX 3060 Phoenix V2 LHR",
+  "mainImage": "https://s.ek.ua/jpg/2087262.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320d010332e9aa6941f8379",
+        "price": 15499,
+        "link": "https://ek.ua/en/clcp.php?ep_=54RJ031J55031J1K231J512J1J32231J440J1J3P2J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J51531J0Q031371131J5213&model_=ASUS+GeForce+RTX+3060+12G&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 16849,
+        "link": "https://ek.ua/en/clcp.php?ep_=R9O4031J510J1J2H3J1J4Q0J1J2M0J1J003J1J0N3J1J0A0J1J38131J4L2J1J2P4J1J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q131I&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 20000,
+        "link": "https://ek.ua/en/clcp.php?ep_=5KQ3031J561J1J00131J512J1J2P4J1J35131J253J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J53531J0Q031371531J12&model_=ASUS+GeForce+RTX3060+12GB&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 15141,
+        "link": "https://ek.ua/en/clcp.php?ep_=7LTE031J560J1J0M1J1J512J1J313J1J244J1J203J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5213&model_=Asus+PH-RTX3060-12G-V2+Lh&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 15239,
+        "link": "https://ek.ua/en/clcp.php?ep_=2P18031J543J1J35031J512J1J32231J39331J1P0J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J5213&model_=%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Asus+PH-RTX306&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 15133,
+        "link": "https://ek.ua/en/clcp.php?ep_=293F031J57331J421J1J512J1J320J1J1M3J1J32231J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J56531J0Q031371331J5213&model_=ASUS+GeForce+RTX+3060+122&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 15671,
+        "link": "https://ek.ua/en/clcp.php?ep_=37U8031J55331J28131J512J1J310J1J37231J152J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5213&model_=Asus+GeForce+RTX+3060+PHO&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 16006,
+        "link": "https://ek.ua/en/clcp.php?ep_=05QK031J55331J0K131J512J1J32031J0L031J13331J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J58531J0Q031371231J5213&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+asus+GeForce+r&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 15499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3KQN031J552J1J03431J512J1J32031J44131J161J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5213&model_=ASUS+RTX+3060+V2+Phoenix+&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 15499,
+        "link": "https://ek.ua/en/clcp.php?ep_=2UU9031J552J1J18231J512J1J30431J0O431J2G2J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5213&model_=Asus+GeForce+RTX+3060+Pho&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 15307,
+        "link": "https://ek.ua/en/clcp.php?ep_=57SE031J56031J4M2J1J512J1J30431J0G1J1J27431J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5213&model_=Asus+PH-RTX3060-12G-V2+PH&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 15162,
+        "link": "https://ek.ua/en/clcp.php?ep_=O4OQ031J510J1J27231J0A0J1J2M0J1J02431J152J1J1Q0J1J38131J4L2J1J2P4J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131I&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "644fbb69b68c4f46ebac79ad",
+        "price": 19600,
+        "link": "https://ek.ua/en/clcp.php?ep_=ROTO031J510J1J34231J0Q0J1J2M0J1J1M4J1J4M4J1J0Q0J1J38131J4L2J1J2P4J1J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131I&model_=ASUS+%D0%92%D1%96%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+GeForce+R&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 14991,
+        "link": "https://ek.ua/en/clcp.php?ep_=5ATR031J58431J0G031J512J1J313J1J3H0J1J4P2J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5213&model_=ASUS+PH-RTX3060-12G+V2&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 20000,
+        "link": "https://ek.ua/en/clcp.php?ep_=87NH031J560J1J2N2J1J512J1J320J1J4G031J074J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5213&model_=Asus+PH-RTX3060-12G-V2+90&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 15273,
+        "link": "https://ek.ua/en/clcp.php?ep_=2NVG031J55331J46031J512J1J32131J0H031J474J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5213&model_=ASUS+GeForce+RTX3060+12Gb&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 15915,
+        "link": "https://ek.ua/en/clcp.php?ep_=81RE031J59231J354J1J512J1J322J1J270J1J1M1J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5213&model_=Asus+GeForce+RTX+3060+Pho&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 19800,
+        "link": "https://ek.ua/en/clcp.php?ep_=79UP031J58331J3M131J512J1J322J1J4G231J201J1J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5213&model_=Asus+GeForce+RTX+3060+Pho&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 14819,
+        "link": "https://ek.ua/en/clcp.php?ep_=6TTQ031J543J1J271J1J512J1J322J1J4O0J1J3G031J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5213&model_=ASUS+PH-RTX3060-12G-V2+PH&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 15598,
+        "link": "https://ek.ua/en/clcp.php?ep_=3RT3031J592J1J2P231J512J1J32331J2P0J1J1K431J51331J424J1J2L2J1J4P531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3Q131I&model_=ASUS+PH-RTX3060-12G-V2&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 14879,
+        "link": "https://ek.ua/en/clcp.php?ep_=V8MN031J59031J45131J512J1J30031J36131J05331J51331J424J1J2L331J02531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131I&model_=Asus+PCI-Ex+GeForce+RTX+3&idSite_=1&idGood_=2087262"
+      },
+      {
+        "storeId": "6322dcc7332e9aa694f6064d",
+        "price": 21000,
+        "link": "https://ek.ua/en/clcp.php?ep_=49QM031J58331J3M131J512J1J322J1J4G231J231J1J51331J424J1J2L331J02531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J5213&model_=ASUS+PH-RTX3060-12G-V2&idSite_=1&idGood_=2087262"
+      }
+    ],
+    "range": {
+      "minPrice": 14819,
+      "maxPrice": 21000
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "Asus",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> compact and high-performance mid-range gaming graphics card of 2021, capable of providing a comfortable high frame rate in all popular gaming projects of 2015-2021 at maximum settings and FullHD resolution. This model is based on the Nvidia GA106 graphics processor, which works in conjunction with a large amount of high-speed GDDR6 memory. With this hardware platform, the Asus GeForce RTX 3060 Phoenix V2 LHR graphics card supports Real-Time Ray Tracing hardware acceleration and DLSS intelligent scaling based on deep learning algorithms.</p><p>Software and hardware innovative technologies Nvidia Broadcast, Reflex, RTX IO will help gamers organize streams and reduce latency. The advanced video processing unit allows you to play / encode ultra-high resolution video streams on the fly. This model differs from similar products of the GeForce RTX 3060 family by its modest length of 177 mm. Thanks to this feature, it fits easily into compact microATX and mini-ITX cases. To remove and dissipate heat, it is equipped with a single-fan cooling system, which includes three improved heat pipes and an impressive aluminium heatsink that occupies 2.5 expansion slots. To power a gaming PC with such a graphics card, the manufacturer recommends using blocks with a power of 650 W or more.</p>",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 3060",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "1807 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "3584",
+  "textureUnits": "112",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "1 pc",
+  "additionalPower": "8 pin",
+  "minPSU": "650 W",
+  "numberOfSlots": "2.5",
+  "size": "177 mm / 177x128x51 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5368"
+  },
+  "id": "SAPPHIRE-RADEON-RX-6650-XT-NITROPLUS",
+  "name": "Sapphire Radeon RX 6650 XT NITRO+",
+  "mainImage": "https://s.ek.ua/jpg/2199250.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 14555,
+        "link": "https://ek.ua/en/clcp.php?ep_=6KPH031J560J1J0M1J1J512J1J313J1J244J1J292J1J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J5113&model_=Sapphire+Radeon+Rx+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 14622,
+        "link": "https://ek.ua/en/clcp.php?ep_=0QS6031J57331J421J1J512J1J320J1J1P0J1J300J1J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J52531J0Q031371331J5113&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 14550,
+        "link": "https://ek.ua/en/clcp.php?ep_=42TQ031J574J1J20331J512J1J311J1J113J1J262J1J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J53531J0Q0313712J1J5113&model_=Sapphire+Radeon+RX+6650XT&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 15544,
+        "link": "https://ek.ua/en/clcp.php?ep_=VKNA031J55331J0K131J512J1J32031J0L031J20231J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J5113&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+Sapphire+Radeo&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 15384,
+        "link": "https://ek.ua/en/clcp.php?ep_=0PQ3031J59331J193J1J512J1J32031J1M0J1J3J1J1J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J5113&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 14623,
+        "link": "https://ek.ua/en/clcp.php?ep_=RIOS031J510J1J27231J0A0J1J2M0J1J02431J2K131J4A0J1J38131J4L2J1J30331J50531J1L0J1J51531J1Q331J51531I0E0J1J5113&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 14482,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IN7031J58431J0G031J512J1J313J1J3H131J0G131J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0I&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 15747,
+        "link": "https://ek.ua/en/clcp.php?ep_=45SM031J560J1J2N2J1J512J1J320J1J464J1J3M3J1J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0I&model_=SAPPHIRE+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 16453,
+        "link": "https://ek.ua/en/clcp.php?ep_=2IRL031J59231J354J1J512J1J32231J1G331J26131J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0I&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 14472,
+        "link": "https://ek.ua/en/clcp.php?ep_=0MQE031J543J1J271J1J512J1J322J1J224J1J07131J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5113&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 15466,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BOG031J592J1J2P231J512J1J32331J2P0J1J1L431J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3Q0J1I&model_=Sapphire+Radeon+RX+6650+X&idSite_=1&idGood_=2199250"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 14579,
+        "link": "https://ek.ua/en/clcp.php?ep_=VBQD031J59031J45131J512J1J31431J1P231J37031J51331J424J1J2L331J06531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3A0J1I&model_=Sapphire+PCI-Ex+Radeon+RX&idSite_=1&idGood_=2199250"
+      }
+    ],
+    "range": {
+      "minPrice": 14472,
+      "maxPrice": 16453
+    }
+  },
+  "brand": "AMD",
+  "vendor": "Sapphire",
+  "description": "<p><span class=\"desc-ai-initcap\">V</span>isually attractive, powerful and relatively quiet 2022 gaming graphics card for comfortable gaming in FullHD resolution. So, with this resolution, the device is able to provide a consistently high frame rate in all popular gaming titles up to and including 2022 at high graphics quality settings. The Sapphire Radeon RX 6650 XT NITRO+ graphics card is AMD's advanced RDNA 2 microarchitecture, the first architecture in the \"red camp\" that was originally created exclusively for gaming workloads.</p><p>At the heart of the hardware is a 7nm Navi 23 GPU, clocked at 2694MHz, equipped with 2048 stream processors and 32 cores for “ray tracing acceleration”, which, among other things, provides real-time ray tracing technology. Paired with it are 8 GB of GDDR6 memory with a classic 128-bit bus. Due to the massive cooling system, the video card occupies three slots at once, but at the same time, composite heat pipes are provided inside, as well as two fans. The bottom of the card is \"reinforced\" with a high-quality aluminum metal plate with thermal padding. There are also two modes of operation (productive and quiet), which can be switched between using the TriXX software.</p>",
+  "interface": "PCI-E v4.0 / x8 /",
+  "GPUModel": "AMD Radeon RX 6650 XT",
+  "memorySize": "8 GB",
+  "memoryType": "GDDR6",
+  "memoryBus": "128 bit",
+  "GPUClockSpeed": "2694 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "2048",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "2",
+  "additionalPower": "8 pin",
+  "minPSU": "500 W",
+  "numberOfSlots": "3",
+  "size": "260 mm / 260x130x58 /"
+},{
+  "_id": {
+    "$oid": "644fdd606752d9da8b5a5369"
+  },
+  "id": "MSI-GEFORCE-RTX-4070-TI-VENTUS-3X-12G-OC",
+  "name": "MSI GeForce RTX 4070 Ti VENTUS 3X 12G OC",
+  "mainImage": "https://s.ek.ua/jpg/2354561.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 47315,
+        "link": "https://ek.ua/en/clcp.php?ep_=U0MO031J510J1J2H3J1J4Q0J1J2M131J2N0J1J252J1J4Q0J1J38131J4L2J1J31131J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131G&model_=MSI+Nvidia+GeForce+RTX+40&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 37800,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q9QS031J510J1J2H031J4Q0J1J2M031J40331J3P331J0Q0J1J38131J4L2J1J31131J50531J1L0J1J51531J1Q131J51531I0E0J1J3A131G&model_=MSI+%28GeForce+RTX+4070+Ti+&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 37902,
+        "link": "https://ek.ua/en/clcp.php?ep_=34RN031J57331J421J1J512J1J320J1J221J1J242J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J53531J0Q031371331J5203&model_=MSI+GeForce+RTX+4070+Ti+1&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "644fd10db68c4f46ebc2c42b",
+        "price": 38550,
+        "link": "https://ek.ua/en/clcp.php?ep_=33V5031J574J1J20331J512J1J311J1J113J1J441J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 37800,
+        "link": "https://ek.ua/en/clcp.php?ep_=4JPD031J58331J054J1J512J1J313J1J001J1J3M0J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5203&model_=MSI+GeForce+RTX+4070+Ti+1&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 40090,
+        "link": "https://ek.ua/en/clcp.php?ep_=U5N0031J55331J0K131J512J1J32031J0L031J280J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5203&model_=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0+gf+rtx+4070+Ti&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 41778,
+        "link": "https://ek.ua/en/clcp.php?ep_=STMR031J51031J25131J2A0J1J2M131J24031J3K4J1J2A0J1J38131J4L2J1J31131J50531J1L0J1J51531J1Q3J1J51531I0E0J1J2Q131G&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 41778,
+        "link": "https://ek.ua/en/clcp.php?ep_=2PPH031J55331J28131J512J1J32331J390J1J2J031J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J58531J0Q031371231J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d69",
+        "price": 39499,
+        "link": "https://ek.ua/en/clcp.php?ep_=32PC031J552J1J03431J512J1J30431J12231J3K031J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5203&model_=MSI+RTX+4070+Ti+VENTUS+3X&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 39999,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ENJ031J552J1J18231J512J1J30431J0O3J1J11331J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e53",
+        "price": 40201,
+        "link": "https://ek.ua/en/clcp.php?ep_=3NP9031J56031J4M2J1J512J1J30431J0G331J292J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5203&model_=Msi+GeForce+Rtx+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba44",
+        "price": 38959,
+        "link": "https://ek.ua/en/clcp.php?ep_=P9PT031J510J1J26231J1A0J1J2M0J1J27331J331J1J4A0J1J38131J4L2J1J31131J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131G&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 38874,
+        "link": "https://ek.ua/en/clcp.php?ep_=RIKC031J510J1J27231J0A0J1J2M0J1J3G031J0H431J3A0J1J38131J4L2J1J31131J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131G&model_=MSI+%28GeForce+RTX+4070+Ti+&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 40769,
+        "link": "https://ek.ua/en/clcp.php?ep_=4QLK031J58431J0G031J512J1J313J1J3H131J0P231J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "644fb539b68c4f46eba64ce8",
+        "price": 37833,
+        "link": "https://ek.ua/en/clcp.php?ep_=TNRQ031J55331J46031J512J1J32131J0H331J28031J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 45656,
+        "link": "https://ek.ua/en/clcp.php?ep_=91OK031J59231J354J1J512J1J322J1J271J1J2J331J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 40818,
+        "link": "https://ek.ua/en/clcp.php?ep_=4GP9031J560J1J2N2J1J512J1J32331J092J1J461J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5203&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 37170,
+        "link": "https://ek.ua/en/clcp.php?ep_=5PRO031J543J1J271J1J512J1J32331J243J1J351J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5203&model_=MSI+Nvidia+GeForce+RTX+40&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 43753,
+        "link": "https://ek.ua/en/clcp.php?ep_=6BPO031J592J1J2P231J512J1J32331J2P0J1J23231J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3Q131G&model_=MSI+GeForce+RTX+4070+Ti+V&idSite_=1&idGood_=2354561"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 41109,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLR4031J59031J45131J512J1J32231J4J431J120J1J51331J424J1J2L331J0I531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131G&model_=MSI+PCI-Ex+GeForce+RTX+40&idSite_=1&idGood_=2354561"
+      }
+    ],
+    "range": {
+      "minPrice": 37170,
+      "maxPrice": 47315
+    }
+  },
+  "brand": "NVIDIA",
+  "vendor": "MSI",
+  "interface": "PCI-E v4.0",
+  "GPUModel": "NVIDIA GeForce RTX 4070 Ti",
+  "memorySize": "12 GB",
+  "memoryType": "GDDR6X",
+  "memoryBus": "192 bit",
+  "GPUClockSpeed": "2655 MHz",
+  "maxResolution": "7680x4320 px",
+  "HDMI": "1",
+  "HDMIVersion": "v.2.1a",
+  "displayPort": "3",
+  "displayPortVersion": "v.1.4a",
+  "directX": "12 Ultimate",
+  "openGL": "4.6",
+  "isVRReady": true,
+  "streamProcessors": "7680",
+  "monitorsConnection": "4",
+  "cooling": "active (fan)",
+  "fans": "3",
+  "additionalPower": "16 pin",
+  "minPSU": "700 W",
+  "numberOfSlots": "2.5",
+  "size": "308 mm / 308x123x52 /"
+}]

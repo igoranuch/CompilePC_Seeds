@@ -1,0 +1,2893 @@
+[{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b6f"
+  },
+  "id": "ID-COOLING-SE-224-XT-BASIC",
+  "name": "ID-COOLING SE-224-XT Basic",
+  "mainImage": "https://s.ek.ua/jpg/1722152.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=T8OP031J510J1J2H3J1J4Q0J1J2M0J1J002J1J3M2J1J4A0J1J38131J4K0J1J39431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=360D031J552J1J18231J512J1J30431J0P131J2G331J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J5243&model_=ID-Cooling+SE-224-XT+BASI&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=TAJO031J51031J254J1J0Q0J1J2M0J1J320J1J1H131J1A0J1J38131J4K0J1J39431J50531J1L0J1J51531J1Q1J1J51531I0E0J1J4A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1015,
+        "link": "https://ek.ua/en/clcp.php?ep_=2L3I031J543J1J35031J512J1J32231J39231J1L131J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5243&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+ID-Cooling+SE-224-X&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=3I22031J57331J421J1J512J1J32231J431J1J07031J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5243&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=7GVM031J58331J054J1J512J1J30431J0H2J1J0P331J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5243&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 941,
+        "link": "https://ek.ua/en/clcp.php?ep_=THUF031J55331J0K131J512J1J32031J0L131J0G0J1J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5243&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+ID-Coo&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=R1NA031J510J1J34131J3A0J1J2M131J09031J44231J0A0J1J38131J4K0J1J39431J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=5N2Q031J59431J282J1J512J1J32331J1M2J1J0L331J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5243&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+ID-Cool&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1033,
+        "link": "https://ek.ua/en/clcp.php?ep_=U207031J59331J193J1J512J1J322J1J234J1J14031J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=0039031J573J1J3P131J512J1J322J1J23131J4M4J1J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J1A131O&model_=ID-COOLING+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=VUS7031J560J1J393J1J512J1J322J1J23231J04231J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1TM031J58131J2K131J512J1J322J1J24131J2O331J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=QHNR031J510J1J2H031J4Q0J1J2M031J403J1J1M031J0A0J1J38131J4K0J1J39431J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=4Q1E031J543J1J271J1J512J1J304J1J28431J07131J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5243&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=MJQD031J510J1J27231J0A0J1J2M0J1J023J1J4I0J1J0Q0J1J38131J4K0J1J39431J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=8BQR031J55131J153J1J512J1J31031J3P131J054J1J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5243&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=4N1Q031J58431J0G031J512J1J313J1J3H231J3P0J1J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5243&model_=ID-COOLING+SE-224-XT+BASI&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=752G031J560J1J2N2J1J512J1J320J1J413J1J472J1J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5243&model_=ID-COOLING+SE-224-XT+BASI&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BSN031J583J1J122J1J512J1J32231J0M0J1J02431J51331J424J1J21331J4O531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J5243&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=PLO1031J510J1J36231J1Q0J1J2M131J343J1J10431J0Q0J1J38131J4K0J1J3G0J1J50531J1L0J1J51531J1Q131J0Q0J1J50721J0Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=4EPG031J592J1J2P231J512J1J32331J30131J13431J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3Q131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKOA031J59031J45131J512J1J30031J361J1J0J031J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131O&model_=ID-COOLING+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 848,
+        "link": "https://ek.ua/en/clcp.php?ep_=UKS7031J59031J45131J512J1J30031J361J1J4G1J1J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 929,
+        "link": "https://ek.ua/en/clcp.php?ep_=TKP0031J59031J45131J512J1J30031J36231J0P031J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "6320d04d332e9aa694200b4e",
+        "price": 1099,
+        "link": "https://ek.ua/en/clcp.php?ep_=61RF031J59031J45131J512J1J32231J4J431J164J1J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826307",
+        "price": 1097,
+        "link": "https://ek.ua/en/clcp.php?ep_=2HRG031J59031J45131J512J1J313J1J03431J183J1J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826309",
+        "price": 955,
+        "link": "https://ek.ua/en/clcp.php?ep_=5EVE031J59031J45131J512J1J322J1J3G4J1J4L3J1J51331J424J1J213J1J01531J0A1J1J2H531J0Q1J1J52431J51531I0E031J3A131O&model_=ID-Cooling+SE-224-XT+Basi&idSite_=1&idGood_=1722152"
+      }
+    ],
+    "range": {
+      "minPrice": 848,
+      "maxPrice": 1099
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">I</span>nexpensive and quite efficient tower-type CPU cooler with a traditional U-shaped layout of four nickel-plated copper heat pipes with a diameter of 6 mm and a 120 mm 9-blade LED fan. It features decent efficiency and affordable cost, which makes it an excellent choice for a wide range of users. Designed to work with an impressively wide range of Intel and AMD processors. According to the manufacturer, it can handle CPU cooling with TDP up to 180W.</p><p>Such an impressive power dissipation makes it an excellent option for replacing standard (so-called \"boxed\") cooling systems to reduce noise and improve the thermal regime of the CPU. To reduce thermal resistance and improve heat dissipation, Direct Touch 3.0 heatpipe direct contact technology was used. The ID-COOLING SE-224-XT Basic CPU cooler can be installed on motherboards with Intel LGA2066/2011(v3)/115X and AMD AM4/AM3+/AM3 CPU sockets.</p><p>Can cool AMD Ryzen 3/5/6/9, APU A12/A10/A8/A6/A4, FX 8/6/4-Core, Phenom II and Intel Xeon, Core i9/i7/i5/i3, Pentium G processors and Celeron G. Attached to the motherboard using the supplied reinforcing plate (requires access to the back of the board). The radiator is blown by a controlled 120mm PWM fan with a durable hydrodynamic bearing and a maximum rotation speed of 1800 rpm.</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "700 rpm",
+  "maxRPM": "1800 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "76.16 CFM",
+  "maxTDP": "180 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "15 dB",
+  "noiseLevel": "32 dB",
+  "dimensions": "120x73x154 mm",
+  "height": "154 mm",
+  "weight": "810 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b70"
+  },
+  "id": "DEEPCOOL-GAMMAXX-300",
+  "name": "Deepcool GAMMAXX 300",
+  "mainImage": "https://s.ek.ua/jpg/196822.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 729,
+        "link": "https://ek.ua/en/clcp.php?ep_=TVMN031J510J1J2H3J1J4Q0J1J2M0J1J270J1J424J1J3A0J1J38131J4K0J1J3H1J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1I&model_=Deepcool+Gammaxx+300+GAMM&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=8UOH031J552J1J18231J512J1J31331J33131J19431J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J52531J0Q031371431J5113&model_=Deepcool+GAMMAXX+300+GAMM&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=43RR031J543J1J35031J512J1J32231J39231J0K2J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J5113&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Deepcool+Gammaxx+30&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=3GUL031J57331J421J1J512J1J32231J43131J401J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J54531J0Q0313711J1J5113&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Deepcool+GAM&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=VUT2031J573J1J3P131J512J1J32231J212J1J0L1J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J5113&model_=DEEPCOOL+Gammaxx+300+%28DP-&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=3H0H031J543J1J271J1J512J1J311J1J37431J4N4J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J56531J0Q031371531J0I&model_=Deepcool+GAMMAXX+300+GAMM&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1QC031J592J1J32131J512J1J311J1J3J231J0M031J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J57531J0Q031371531J0I&model_=Deepcool+GAMMAXX+300+%28DP-&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=UVHA031J510J1J27231J0A0J1J2M0J1J3G031J0H4J1J1A0J1J38131J4K0J1J3H1J1J50531J1L0J1J51531J1Q431J51531I0E0J1J5113&model_=Deepcool+GAMMAXX+300&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 740,
+        "link": "https://ek.ua/en/clcp.php?ep_=3RRE031J560J1J2N2J1J512J1J320J1J40231J40431J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0I&model_=Deepcool+GAMMAXX+300+GAMM&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=S8N5031J58431J0G031J512J1J322J1J0K131J0O031J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J5113&model_=DeepCool+GAMMAXX+300&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=12QP031J592J1J2P231J512J1J32331J2K0J1J311J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3Q0J1I&model_=Deepcool+GAMMAXX+300+%28DP-&idSite_=1&idGood_=196822"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 739,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KNM031J59031J45131J512J1J311J1J4M1J1J032J1J51331J424J1J213J1J0J531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3A0J1I&model_=DeepCool+GAMMAXX+300&idSite_=1&idGood_=196822"
+      }
+    ],
+    "range": {
+      "minPrice": 729,
+      "maxPrice": 740
+    }
+  },
+  "brand": "Deepcool",
+  "description": "<p><span class=\"desc-ai-initcap\">I</span>nexpensive universal CPU cooling system (processor cooler), made in the form factor of a tower, designed to remove heat from Mainstream/Performance class processors manufactured by Intel and AMD with heat dissipation up to 130 W. It is positioned as one of the affordable mid-range products. It will be of interest to users who are not satisfied with the performance and noise level of complete CPU cooling systems.</p><p>The basis of the Deepcool GAMMAXX 300 CPU cooler is a system of three U-shaped heat pipes with a diameter of 6 mm, the upper part of which is equipped with a radiator consisting of forty aluminium plates 0.5 mm thick (the distance between the plates is 2 mm). To improve heat transfer, the technology of direct contact of the polished surface of the tubes with the processor heat spreader cover is used. The aluminium radiator is blown by a 120mm PWM fan and a durable Hydro Bearing. The speed of its rotation can vary from almost silent (900 rpm) to increased (1600 rpm), which provides an impressive performance of up to 1.57 m3 of air per minute.</p>",
+  "officialWebsite": "deepcool.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 3,
+  "plateMaterial": "aluminum",
+  "mountType": "latches",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 775",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "900 rpm",
+  "maxRPM": "1600 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "55.5 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "18 dB",
+  "noiseLevel": "21 dB",
+  "dimensions": "121x76x136 mm",
+  "height": "136 mm",
+  "weight": "473 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b71"
+  },
+  "id": "ID-COOLING-SE-213V2",
+  "name": "ID-COOLING SE-213V2",
+  "mainImage": "https://s.ek.ua/jpg/1410668.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 535,
+        "link": "https://ek.ua/en/clcp.php?ep_=SV2C031J552J1J18231J512J1J32331J243J1J431J1J51331J424J1J213J1J15531J0A1J1J2H531J0Q1J1J51531J0Q0313710J1J52&model_=ID-Cooling+SE-213V2+%28SE-2&idSite_=1&idGood_=1410668"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 531,
+        "link": "https://ek.ua/en/clcp.php?ep_=N6MU031J510J1J27231J0A0J1J2M0J1J28131J15331J3A0J1J38131J4K0J1J3I2J1J50531J1L0J1J51531J1Q131J51531I0E0J1J52&model_=ID-Cooling+SE-213V2&idSite_=1&idGood_=1410668"
+      }
+    ],
+    "range": {
+      "minPrice": 531,
+      "maxPrice": 535
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> simple cooler of the most basic level, which is perfectly paired with a four- or six-core processor with a heat dissipation of no more than 130 watts. It is a direct alternative to boxed turntables from Intel and AMD, which may not suit the owner with their modest efficiency and high noise level. ID-COOLING SE-213V2 is made according to the traditional patterns of tower coolers, when a massive metal radiator covers the processor, 3 metal tubes pass through the radiator, playing the role of heat sinks, and the whole structure is covered by a 120 mm fan.</p><p>Depending on the level of heating, the fan automatically adjusts the speed of rotation of the blades in the range from 800 to 1600 rpm. At minimum speed, something like a semi-passive cooling mode comes out, when the blades practically do not make any sound, and the sound level meter does not go beyond 16 dB. If necessary, the cooler can be independently removed and replaced with another one. The whole design is completed with a set of fasteners for mounting on motherboards with processor sockets Intel LGA20XX/1366/115X/775 and AMD AM4/FM2/FM1/AM3+/AM3, etc. That is, it can be used with virtually any processor that has been released since 2005.</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 3,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 775",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm / 120x120x25 /",
+  "bearing": "hydrodynamic",
+  "minRPM": "800 rpm",
+  "maxRPM": "1600 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "56 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "16 dB",
+  "noiseLevel": "20 dB",
+  "dimensions": "120x75x140 mm",
+  "height": "140 mm",
+  "weight": "450 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b72"
+  },
+  "id": "QUBE-QB-OL1000",
+  "name": "QUBE QB-OL1000",
+  "mainImage": "https://s.ek.ua/jpg/1980871.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 765,
+        "link": "https://ek.ua/en/clcp.php?ep_=MON9031J510J1J2H3J1J4Q0J1J2M0J1J000J1J34131J0Q0J1J38131J4K0J1J3J2J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q3J&model_=Qube+QB-OL1000+OEM+QB-OL1&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=P8NB031J510J1J2H3J1J4Q0J1J2M0J1J001J1J261J1J2A0J1J38131J4K0J1J3J2J1J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q3J&model_=Qube+QB-OL1000+%28120mm%2F4pi&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 814,
+        "link": "https://ek.ua/en/clcp.php?ep_=OVU2031J55331J0K131J512J1J32031J0L131J1M331J51331J424J1J213J1J1L531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J57&model_=%D0%92%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80+cpu+%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB+&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 675,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IRV031J543J1J271J1J512J1J304J1J292J1J140J1J51331J424J1J213J1J1L531J0A1J1J2H531J0Q1J1J54531J0Q031371531N&model_=Qube+QB-OL1000+OEM+%28120mm&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 651,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ERT031J58431J0G031J512J1J313J1J3H231J2N4J1J51331J424J1J213J1J1L531J0A1J1J2H531J0Q1J1J55531J0Q031371531N&model_=QUBE+QB-OL1000&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 779,
+        "link": "https://ek.ua/en/clcp.php?ep_=1BNO031J560J1J2N2J1J512J1J320J1J4G1J1J09131J51331J424J1J213J1J1L531J0A1J1J2H531J0Q1J1J56531J0Q031371531N&model_=QUBE+QB-OL1000+QB-OL1000O&idSite_=1&idGood_=1980871"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6a",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=81TU031J592J1J1G431J512J1J32331J433J1J3L431J51331J424J1J213J1J1L531J0A1J1J2H531J0Q1J1J57531J0Q031371531N&model_=QUBE+QB-OL1000+QB-OL1000&idSite_=1&idGood_=1980871"
+      }
+    ],
+    "range": {
+      "minPrice": 651,
+      "maxPrice": 819
+    }
+  },
+  "brand": "QUBE",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he tower-type processor cooler from the Ukrainian brand Qube, which belongs to the entry level, has a decent TDP rating and is equipped with a full-fledged RGB backlight. It is a direct alternative to stock cooling systems from Intel and AMD, which do not suit the owner due to insufficient efficiency or noise. QUBE QB-OL1000 is made according to the classic tower cooler scheme, when a massive metal heatsink is located perpendicular to the processor, 4 metal tubes pass through the heatsink, which contact directly with the processor sole, and a 120 mm fan blows on the side of the heatsink.</p><p>The fan supports PWM fan speed control from 700 to 1800 rpm, allowing the user to find the optimal balance between processor heating and noise level. The whole design is capable of dissipating up to 130W of heat from the processor, so it is best suited for cooling a not too powerful 4- or 6-core Core i5 / Ryzen 5 processor. Additionally, the fan blades and the brand logo on the cover are decorated with RGB LEDs, which give highlight of the cooler's appearance. The included mounting kit ensures compatibility with most Intel and AMD processors released between 2005 and 2020. The only exceptions are the brand new Intel LGA 1700 and AMD AM5 sockets.</p>",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 775",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "700 rpm",
+  "maxRPM": "1800 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "67 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "RGB",
+  "powerSource": "4-pin",
+  "noiseLevel": "37 dB",
+  "dimensions": "128x76x158 mm",
+  "height": "158 mm",
+  "weight": "600 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b73"
+  },
+  "id": "BE-QUIET--PURE-WINGS-2-PWM-120",
+  "name": "be quiet! Pure Wings 2 PWM 120",
+  "mainImage": "https://s.ek.ua/jpg/794406.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 349,
+        "link": "https://ek.ua/en/clcp.php?ep_=U336031J552J1J18231J512J1J30431J0O4J1J2P331J51331J424J1J213J1J26531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J56&model_=Be+Quiet%21+Pure+Wings+2+12&idSite_=1&idGood_=794406"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 349,
+        "link": "https://ek.ua/en/clcp.php?ep_=UAPC031J51031J254J1J0Q0J1J2M0J1J42431J32231J2A0J1J38131J4K0J1J3K331J50531J1L0J1J51531J1Q131J51531I0E0J1J3Q33&model_=be+quiet%21+Pure+Wings+2+12&idSite_=1&idGood_=794406"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 415,
+        "link": "https://ek.ua/en/clcp.php?ep_=SD0R031J57331J421J1J512J1J320J1J400J1J11231J51331J424J1J213J1J26531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J56&model_=%D0%B4%D0%BB%D1%8F+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%B0+be+quiet%21+Pur&idSite_=1&idGood_=794406"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 349,
+        "link": "https://ek.ua/en/clcp.php?ep_=POJE031J510J1J27231J0A0J1J2M0J1J3G031J0I1J1J1A0J1J38131J4K0J1J3K331J50531J1L0J1J51531J1Q231J51531I0E031J3Q33&model_=Be+Quiet%21+Pure+Wings+2+PW&idSite_=1&idGood_=794406"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 349,
+        "link": "https://ek.ua/en/clcp.php?ep_=S504031J59031J45131J512J1J30031J361J1J28131J51331J424J1J213J1J26531J0A1J1J2H531J0Q1J1J55531J0Q031370331J56&model_=be+quiet%21+Pure+Wings+2+PW&idSite_=1&idGood_=794406"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 349,
+        "link": "https://ek.ua/en/clcp.php?ep_=ST12031J57331J421J1J512J1J320J1J40131J0L031J51331J424J1J213J1J26531J0A1J1J2H531J0Q1J1J56531J0Q031371331J56&model_=%D0%B4%D0%BB%D1%8F+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%B0+be+quiet%21+Pur&idSite_=1&idGood_=794406"
+      }
+    ],
+    "range": {
+      "minPrice": 349,
+      "maxPrice": 415
+    }
+  },
+  "brand": "be quiet!",
+  "description": "<p><span class=\"desc-ai-initcap\">U</span>niversal low speed low noise 120mm fan with standard 4-pin connector for connection to the motherboard. It is positioned as a product of the middle price category, focused on use as part of tower-type processor coolers. Can be installed in cases. It differs from most similar models by its original external design, the use of plain bearings with helical threads and a special shape of the blades, which allows for a more efficient air flow that does not disturb acoustic comfort.</p><p>The declared noise level of the tested be quiet! Pure Wings 2 PWM 120 can be called low, it is 19.2 dB at a maximum speed of rotation of the blades of 1500 rpm. In this mode, the fan provides a capacity of up to 87 m³ of air per hour. The resource of the device is 80,000 hours, which may seem small compared to be quiet! Silent Wings 2, where this figure reaches 300,000 hours. But 80,000 hours is more than 9 years of continuous operation, which is more than enough for typical home use. Pulse Width Modulation allows compatible controllers (including those used on motherboards) to intelligently adjust fan speed and noise levels. Thanks to PWM, the system can independently increase the speed when necessary, or reduce it to ensure a quiet PC operation.</p>",
+  "target": "to the body",
+  "type": "fan",
+  "mountType": "bolts",
+  "fanSize": "120 mm",
+  "bearing": "sliding",
+  "maxRPM": "1500 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "51.4 CFM",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "20 dB",
+  "dimensions": "120x120x25 mm",
+  "weight": "140 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b74"
+  },
+  "id": "ARCTIC-LIQUID-FREEZER-II-360",
+  "name": "ARCTIC Liquid Freezer II 360",
+  "mainImage": "https://s.ek.ua/jpg/1789059.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e91a1b68c4f46eb84c248",
+        "price": 5655,
+        "link": "https://ek.ua/en/clcp.php?ep_=KUSV031J510J1J33331J0Q0J1J2M0J1J2G3J1J3N031J2A0J1J38131J4K0J1J3L331J50531J1L0J1J51531J1Q0J1J51531I0E0J1J52&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=1789059"
+      },
+      {
+        "storeId": "6320d028332e9aa6941fba45",
+        "price": 6757,
+        "link": "https://ek.ua/en/clcp.php?ep_=PGNN031J51031J2I431J2A0J1J2M131J32331J000J1J2A0J1J38131J4K0J1J3L331J50531J1L0J1J51531J1Q131J51531I0E0J1J52&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=1789059"
+      }
+    ],
+    "range": {
+      "minPrice": 5655,
+      "maxPrice": 6757
+    }
+  },
+  "brand": "ARCTIC",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he ARCTIC Liquid Freezer II 360 is an interesting three-section liquid cooling system, which in terms of money is more of an average level, but in terms of overall build quality and cooling efficiency it is not inferior to the elite CBOs from Asus, NZXT and Corsair. Instead of using an addressable backlight or a decorative display, ARCTIC engineers focused on build quality and materials.</p><p>In particular, the metal radiator turned out to be especially large and weighty, the fitting clips are made of nickel, and the hoses are braided into a dense and at the same time soft braid. The all-in-one design is made according to classic patterns and includes a 360 mm long metal radiator, which is combined with a pump for pumping fluid using several 450 mm long tubes. The top of the radiator is covered by a trio of branded 120mm turntables, which provide an effective airflow of 56.3 CFM with a noise level of no more than 23 dB. The fans support PWM speed control (from 200 to 2000 rpm) and can operate in semi-passive mode with minimal noise. Given these characteristics and the lack of backlighting, CBO Liquid Freezer II is the best option for gamers and overclocking enthusiasts who do not really care about visual aesthetics and an abundance of backlighting.</p>",
+  "officialWebsite": "www2.arctic.ac",
+  "target": "for processor",
+  "type": "liquid cooling",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "200 rpm",
+  "maxRPM": "1800 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "56.3 CFM",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "23 dB",
+  "dimensions": "398x120x38 mm / radiator /",
+  "weight": "1687 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b75"
+  },
+  "id": "DEEPCOOL-AK620",
+  "name": "Deepcool AK620",
+  "mainImage": "https://s.ek.ua/jpg/2122287.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=3JUJ031J552J1J18231J512J1J30431J0O431J193J1J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J511J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=UUOV031J51031J254J1J0Q0J1J2M131J16431J3G331J3Q0J1J38131J4K0J1J3M331J50531J1L0J1J51531J1Q131J51531I0E0J1J4A0J1J&model_=Deepcool+AK620+1700+AM5+A&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 2634,
+        "link": "https://ek.ua/en/clcp.php?ep_=0K1D031J543J1J35031J512J1J322J1J194J1J0J0J1J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J511J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Deepcool+AK620&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2519,
+        "link": "https://ek.ua/en/clcp.php?ep_=60RE031J560J1J0M1J1J512J1J322J1J2K331J1I331J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J511J&model_=Deepcool+AK620&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=5N32031J57331J421J1J512J1J322J1J2P431J29331J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J55531J0Q031371331J511J&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Deepcool+AK6&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GVI031J55331J28131J512J1J32131J152J1J22231J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J511J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2713,
+        "link": "https://ek.ua/en/clcp.php?ep_=3IVN031J59331J193J1J512J1J322J1J234J1J151J1J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J57531J0Q031371131J511J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=02SL031J58131J2K131J512J1J320J1J0K0J1J2N4J1J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J511J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=VVMT031J510J1J2H031J4Q0J1J2M031J40331J25031J2A0J1J38131J4K0J1J3M331J50531J1L0J1J51531J1Q4J1J51531I0E0J1J511J&model_=DeepCool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=V9RU031J560J1J2N2J1J512J1J322J1J07131J3N131J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J511J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2400,
+        "link": "https://ek.ua/en/clcp.php?ep_=QLQI031J510J1J36231J1Q0J1J2M131J34331J4G231J1Q0J1J38131J4K0J1J3M331J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q0J1J&model_=Deepcool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2689,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ET4031J592J1J2P231J512J1J32331J30131J28431J51331J424J1J213J1J36531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3Q0J1J&model_=DeepCool+AK620&idSite_=1&idGood_=2122287"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 2536,
+        "link": "https://ek.ua/en/clcp.php?ep_=2F1U031J59031J45131J512J1J322J1J3G4J1J4L331J51331J424J1J213J1J37531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3A0J1J&model_=DeepCool+AK620+%28R-AK620-B&idSite_=1&idGood_=2122287"
+      }
+    ],
+    "range": {
+      "minPrice": 2400,
+      "maxPrice": 2713
+    }
+  },
+  "brand": "Deepcool",
+  "officialWebsite": "global.deepcool.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 6,
+  "plateMaterial": "nickel-plated copper",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm / FK120 (DF1202512CM) /",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "1850 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "68.99 CFM",
+  "maxTDP": "260 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "28 dB",
+  "dimensions": "129x138x160 mm",
+  "height": "160 mm",
+  "weight": "1456 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b76"
+  },
+  "id": "JONSBO-PISA-A4-WHITE",
+  "name": "Jonsbo PISA A4 White",
+  "mainImage": "https://s.ek.ua/jpg/2415685.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 851,
+        "link": "https://ek.ua/en/clcp.php?ep_=0OMM031J510J1J2H3J1J4Q0J1J2M0J1J3G1J1J2O2J1J4Q0J1J38131J4K0J1J3N3J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1L&model_=Jonsbo+PISA+A4+White+PISA&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=SHKJ031J51031J254J1J0Q0J1J2M031J4P0J1J2H131J0Q0J1J38131J4K0J1J3N3J1J50531J1L0J1J51531J1Q131J51531I0E0J1J3Q0J1L&model_=JONSBO+PISA+A4+White+%28120&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 729,
+        "link": "https://ek.ua/en/clcp.php?ep_=3I3G031J57331J421J1J512J1J320J1J241J1J3O3J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J53531J0Q031371331J512J&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+JONSBO+PISA+&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=RGO9031J51031J25131J2A0J1J2M0J1J18431J2N3J1J2A0J1J38131J4K0J1J3N3J1J50531J1L0J1J51531J1Q231J51531I0E0J1J2Q0J1L&model_=JONSBO+PISA+A4+White+%28120&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 990,
+        "link": "https://ek.ua/en/clcp.php?ep_=3MSQ031J59331J193J1J512J1J32031J1N031J194J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J55531J0Q031371131J512J&model_=JONSBO+PISA+A4+White+%28PIS&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=5CTL031J560J1J393J1J512J1J31431J2G2J1J04231J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J512J&model_=JONSBO+PISA+A4+White+%28PIS&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=04T1031J58131J2K131J512J1J320J1J0M231J034J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J512J&model_=JONSBO+PISA+A4+White+%28PIS&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IUI031J543J1J271J1J512J1J304J1J292J1J100J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0L&model_=JONSBO+PISA+A4+White+%28120&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=0USU031J58431J0G031J512J1J313J1J3H2J1J0H131J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0L&model_=JONSBO+PISA+A4+White&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 854,
+        "link": "https://ek.ua/en/clcp.php?ep_=22SS031J560J1J2N2J1J512J1J320J1J4G231J241J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J512J&model_=Jonsbo+PISA+A4+White+PISA&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 733,
+        "link": "https://ek.ua/en/clcp.php?ep_=59UD031J592J1J2P231J512J1J32331J2K0J1J33431J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J512J&model_=Jonsbo+PISA+A4+White&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 729,
+        "link": "https://ek.ua/en/clcp.php?ep_=17NK031J51031J254J1J0Q0J1J2M131J1O1J1J10431J3Q0J1J38131J4K0J1J3N3J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0L531J0L&model_=JONSBO+PISA+A4+White+%28120&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 990,
+        "link": "https://ek.ua/en/clcp.php?ep_=S5QV031J59331J193J1J512J1J32031J1N0J1J10031J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J1A0J1L&model_=JONSBO+PISA+A4+White&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BRI031J560J1J393J1J512J1J31431J2G2J1J042J1J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J0Q0J1L&model_=JONSBO+PISA+A4+White&idSite_=1&idGood_=2415685"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 849,
+        "link": "https://ek.ua/en/clcp.php?ep_=PJQU031J58131J2K131J512J1J320J1J0M231J04031J51331J424J1J213J1J3N531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J0Q0J1L&model_=JONSBO+PISA+A4+White&idSite_=1&idGood_=2415685"
+      }
+    ],
+    "range": {
+      "minPrice": 729,
+      "maxPrice": 990
+    }
+  },
+  "brand": "Jonsbo",
+  "officialWebsite": "jonsbo.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "800 rpm",
+  "maxRPM": "1850 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "81.27 CFM",
+  "maxTDP": "250 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "37 dB",
+  "dimensions": "120x75x153 mm",
+  "height": "153 mm",
+  "weight": "620 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b77"
+  },
+  "id": "ID-COOLING-SE-234-ARGB",
+  "name": "ID-COOLING SE-234-ARGB",
+  "mainImage": "https://s.ek.ua/jpg/1751027.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q8OK031J510J1J2H3J1J4Q0J1J2M0J1J001J1J413J1J3Q0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=3M0M031J552J1J18231J512J1J30431J0P131J2G3J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J5243&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=S9KA031J51031J254J1J0Q0J1J2M131J010J1J1J4J1J3A0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J3Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1759,
+        "link": "https://ek.ua/en/clcp.php?ep_=445O031J57331J421J1J512J1J320J1J1L431J154J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J54531J0Q031371331J5243&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=7H0N031J58331J054J1J512J1J30431J0H3J1J0I331J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J5243&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 1725,
+        "link": "https://ek.ua/en/clcp.php?ep_=0L1Q031J55331J28131J512J1J311J1J18131J201J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5243&model_=ID-COOLING+SE-234-ARGB+SE&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1781,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1UP031J55331J0K131J512J1J32031J0L131J0H231J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5243&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+ID-Coo&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=RHNQ031J510J1J34131J3A0J1J2M131J09031J443J1J2Q0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=4N36031J59431J282J1J512J1J32331J1M2J1J0O231J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5243&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+ID-Cool&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1602,
+        "link": "https://ek.ua/en/clcp.php?ep_=TKUD031J59331J193J1J512J1J32031J1M331J0H331J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=0FUH031J560J1J393J1J512J1J301J1J443J1J0N231J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=RVVQ031J58131J2K131J512J1J321J1J22231J3J1J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=NHOB031J510J1J2H031J4Q0J1J2M031J403J1J1M0J1J0Q0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1759,
+        "link": "https://ek.ua/en/clcp.php?ep_=5A4M031J543J1J271J1J512J1J304J1J28431J36231J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5243&model_=ID-Cooling+SE-234-ARGB+SE&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=LJRK031J510J1J27231J0A0J1J2M0J1J02431J4P131J3A0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1678,
+        "link": "https://ek.ua/en/clcp.php?ep_=5N0V031J58431J0G031J512J1J313J1J3H231J2L2J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5243&model_=ID-Cooling+SE-234-ARGB&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1759,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LVR031J560J1J2N2J1J512J1J320J1J422J1J29131J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5243&model_=ID-COOLING+SE-234-ARGB+SE&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5OB031J510J1J36231J1Q0J1J2M131J343J1J110J1J4Q0J1J38131J4K0J1J3P0J1J50531J1L0J1J51531J1Q0J1J4A0J1J50721J0Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=4EVS031J592J1J2P231J512J1J32331J30131J300J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3Q131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 1351,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKTD031J59031J45131J512J1J30031J36231J0M1J1J51331J424J1J213J1J4H531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=2G32031J57331J421J1J512J1J32231J43231J39331J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J3A131O&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 1506,
+        "link": "https://ek.ua/en/clcp.php?ep_=PVSK031J55331J0K131J512J1J32031J0L131J192J1J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J0Q131O&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0+ID-C&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=6B16031J543J1J271J1J512J1J304J1J29131J2I3J1J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J5243&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1604,
+        "link": "https://ek.ua/en/clcp.php?ep_=NJRK031J510J1J27231J0A0J1J2M0J1J02431J4P131J3Q0J1J38131J4K0J1J3P231J50531J1L0J1J51531J1Q131J2A0J1J50721J0Q131O&model_=ID-Cooling+SE-234-ARGB&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=6734031J58431J0G031J512J1J313J1J3H231J4M3J1J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J5243&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=4JS7031J560J1J2N2J1J512J1J320J1J48031J29331J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3Q131O&model_=ID-COOLING+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 1479,
+        "link": "https://ek.ua/en/clcp.php?ep_=64SG031J59031J45131J512J1J311J1J4M1J1J054J1J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J523J1J51531I0E031J3A131O&model_=ID-Cooling+SE-234-ARGB+V2&idSite_=1&idGood_=1751027"
+      },
+      {
+        "storeId": "6322f86d332e9aa6943d9d35",
+        "price": 1740,
+        "link": "https://ek.ua/en/clcp.php?ep_=50US031J59031J45131J512J1J30331J3I2J1J1I2J1J51331J424J1J213J1J4K531J0A1J1J2H531J0Q1J1J52431J51531I0E031J3A131O&model_=ID-Cooling+SE-234-ARGB&idSite_=1&idGood_=1751027"
+      }
+    ],
+    "range": {
+      "minPrice": 1351,
+      "maxPrice": 1781
+    }
+  },
+  "brand": "ID-COOLING",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "rolling",
+  "minRPM": "900 rpm",
+  "maxRPM": "2000 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "56.5 CFM",
+  "maxTDP": "200 W",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "4-pin",
+  "minNoiseLevel": "16 dB",
+  "noiseLevel": "32 dB",
+  "dimensions": "126x88x154 mm",
+  "height": "154 mm",
+  "weight": "950 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b78"
+  },
+  "id": "JONSBO-PISA-A5-GRAY",
+  "name": "Jonsbo PISA A5 Gray",
+  "mainImage": "https://s.ek.ua/jpg/2415683.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 1021,
+        "link": "https://ek.ua/en/clcp.php?ep_=RON8031J510J1J2H3J1J4Q0J1J2M0J1J3G1J1J352J1J2A0J1J38131J4K0J1J40131J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1H&model_=Jonsbo+PISA+A5+ARGB+Gray+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=SGOA031J51031J254J1J0Q0J1J2M0J1J382J1J43131J4A0J1J38131J4K0J1J40131J50531J1L0J1J51531J1Q131J51531I0E0J1J3Q0J1H&model_=JONSBO+PISA+A5+ARGB+Gray+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 888,
+        "link": "https://ek.ua/en/clcp.php?ep_=0HUA031J57331J421J1J512J1J320J1J241J1J3N0J1J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J53531J0Q031371331J510J&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+JONSBO+PISA+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=PGOE031J51031J25131J2A0J1J2M0J1J18431J2N3J1J2Q0J1J38131J4K0J1J40131J50531J1L0J1J51531J1Q231J51531I0E0J1J2Q0J1H&model_=JONSBO+PISA+A5+ARGB+Gray+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 1158,
+        "link": "https://ek.ua/en/clcp.php?ep_=2MR2031J59331J193J1J512J1J32031J1N0J1J463J1J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J55531J0Q031371131J510J&model_=JONSBO+PISA+A5+Gray&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=6COG031J560J1J393J1J512J1J31431J2G2J1J04331J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J510J&model_=JONSBO+PISA+A5+Gray&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=S4NT031J58131J2K131J512J1J320J1J0M231J040J1J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J510J&model_=JONSBO+PISA+A5+Gray&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=1EPK031J58431J0G031J512J1J313J1J3H2J1J0H1J1J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0H&model_=JONSBO+PISA+A5+ARGB+Gray&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 1002,
+        "link": "https://ek.ua/en/clcp.php?ep_=2BPG031J560J1J2N2J1J512J1J320J1J4G231J24231J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0H&model_=Jonsbo+PISA+A5+Gray+PISA+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 999,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHQQ031J543J1J271J1J512J1J32231J21031J4N131J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J510J&model_=JONSBO+PISA+A5+ARGB+Gray+&idSite_=1&idGood_=2415683"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 895,
+        "link": "https://ek.ua/en/clcp.php?ep_=5PP8031J592J1J2P231J512J1J32331J2K0J1J334J1J51331J424J1J21431J02531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J510J&model_=Jonsbo+PISA+A5+Gray&idSite_=1&idGood_=2415683"
+      }
+    ],
+    "range": {
+      "minPrice": 888,
+      "maxPrice": 1158
+    }
+  },
+  "brand": "Jonsbo",
+  "officialWebsite": "jonsbo.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 5,
+  "plateMaterial": "aluminum",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "800 rpm",
+  "maxRPM": "1850 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "81.27 CFM",
+  "maxTDP": "265 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "4-pin",
+  "noiseLevel": "37 dB",
+  "dimensions": "120x75x153 mm",
+  "height": "153 mm",
+  "weight": "670 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b79"
+  },
+  "id": "DEEPCOOL-AG400-BK-ARGB",
+  "name": "Deepcool AG400 BK ARGB",
+  "mainImage": "https://s.ek.ua/jpg/2317395.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=UU1B031J552J1J18231J512J1J32031J43431J2H131J51331J424J1J21431J0I531J0A1J1J2H531J0Q1J1J51531J0Q031371431J56&model_=Deepcool+AG400+ARGB+Black&idSite_=1&idGood_=2317395"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=SJ2R031J543J1J35031J512J1J32231J39231J33031J51331J424J1J21431J0I531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J56&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Deepcool+AG400+Bk+A&idSite_=1&idGood_=2317395"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=T03E031J57331J421J1J512J1J32231J43231J38131J51331J424J1J21431J0I531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J56&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Deepcool+AG4&idSite_=1&idGood_=2317395"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=30S9031J543J1J271J1J512J1J311J1J374J1J01431J51331J424J1J21431J0I531J0A1J1J2H531J0Q1J1J54531J0Q031371531M&model_=Deepcool+AG400+BK+ARGB+In&idSite_=1&idGood_=2317395"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=S1TL031J58431J0G031J512J1J322J1J0K131J101J1J51331J424J1J21431J0I531J0A1J1J2H531J0Q1J1J55531J0Q0313703J1J56&model_=DeepCool+AG400+BK+ARGB+%28R&idSite_=1&idGood_=2317395"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1369,
+        "link": "https://ek.ua/en/clcp.php?ep_=V4SV031J59031J45131J512J1J311J1J4M1J1J04131J51331J424J1J21431J0J531J0A1J1J2H531J0Q1J1J56531J0Q031370331J56&model_=DeepCool+AG400+ARGB+Black&idSite_=1&idGood_=2317395"
+      }
+    ],
+    "range": {
+      "minPrice": 1369,
+      "maxPrice": 1369
+    }
+  },
+  "brand": "Deepcool",
+  "officialWebsite": "deepcool.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "2000 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "75.89 CFM",
+  "maxTDP": "220 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "4-pin",
+  "noiseLevel": "32 dB",
+  "dimensions": "125x92x150 mm",
+  "height": "150 mm",
+  "weight": "614 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7a"
+  },
+  "id": "BE-QUIET--PURE-ROCK-2-BLACK",
+  "name": "be quiet! Pure Rock 2 Black",
+  "mainImage": "https://s.ek.ua/jpg/1826824.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1969,
+        "link": "https://ek.ua/en/clcp.php?ep_=VJ0I031J552J1J18231J512J1J30431J0O4J1J0L4J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J59&model_=Be+Quiet%21+Pure+Rock+2+%28BK&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 1969,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHN8031J51031J254J1J0Q0J1J2M031J4P0J1J2G3J1J4A0J1J38131J4K0J1J421J1J50531J1L0J1J51531J1Q131J51531I0E0J1J1Q4J&model_=be+quiet%21+Pure+Rock+2+Bla&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 1969,
+        "link": "https://ek.ua/en/clcp.php?ep_=TI3I031J573J1J3P131J512J1J304J1J05031J4J3J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J59&model_=BE+QUIET%21+Pure+Rock+2+Bla&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 1956,
+        "link": "https://ek.ua/en/clcp.php?ep_=3KTM031J59231J31231J512J1J31331J362J1J3G2J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J54531J0Q031371531P&model_=be+quiet%21+Pure+Rock+2+%28BK&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 1969,
+        "link": "https://ek.ua/en/clcp.php?ep_=SOLC031J510J1J27231J0A0J1J2M0J1J3G031J0I3J1J3A0J1J38131J4K0J1J421J1J50531J1L0J1J51531J1Q2J1J51531I0E031J3Q4J&model_=be+quiet%21+Pure+Rock+2+Bla&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1969,
+        "link": "https://ek.ua/en/clcp.php?ep_=VKVL031J59031J45131J512J1J30031J361J1J284J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J56531J0Q031370331J59&model_=be+quiet%21+Pure+Rock+2+Bla&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 1950,
+        "link": "https://ek.ua/en/clcp.php?ep_=6LPN031J59231J354J1J512J1J322J1J27031J1P4J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J57531J0Q031371531P&model_=be+quiet%21+Pure+Rock+2+%28BK&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 1953,
+        "link": "https://ek.ua/en/clcp.php?ep_=1MQ8031J591J1J073J1J512J1J322J1J280J1J05231J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J58531J0Q0313703J1J59&model_=be+quiet%21+Pure+Rock+2+%28BK&idSite_=1&idGood_=1826824"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 2073,
+        "link": "https://ek.ua/en/clcp.php?ep_=UL1H031J59031J45131J512J1J30031J361J1J413J1J51331J424J1J21431J13531J0A1J1J2H531J0Q1J1J59531J0Q031370331J59&model_=Be+quiet%21+Pure+Rock+2+Bla&idSite_=1&idGood_=1826824"
+      }
+    ],
+    "range": {
+      "minPrice": 1950,
+      "maxPrice": 2073
+    }
+  },
+  "brand": "be quiet!",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> tower-type CPU cooler with an excellent balance between price, temperature characteristics and noise level. Like most be quiet! products, this model is very quiet during operation (range from 19 to 27 dB) and fully claims to be a silent CBO. The model is part of the Pure Rock CPU cooler product family, which surpasses budget Shadow Rock coolers in terms of efficiency, but is inferior to Dark Rock super towers in terms of coolness.</p><p>The cooler of the second generation Pure Wings on a threaded bearing with PMW-speed control should be thanked for this. The cooler is located on the side of a massive aluminum heatsink with a high density of plates, the heatsink is pierced by 4 metal heat sinks that are in direct contact with the processor sole. Be quiet! Pure Rock 2 Black has decent thermal power dissipation (up to 150W) and significant weight (575g).</p><p>Its performance is designed to cool a high-performance processor of the caliber of Inte Core i7 and AMD Ryzen 7 in automatic or manual overclocking mode. The included mounting kit ensures compatibility with most Intel and AMD processors released between 2005 and 2022. A characteristic feature of this model is the jet black color of the entire body, including the turntable, radiator and heat pipes. Otherwise, this model duplicates the characteristics of the original Pure Rock 2 cooler.</p>",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm / Pure Wings 2 PWM /",
+  "bearing": "sliding",
+  "maxRPM": "1500 rpm",
+  "speedController": "auto (PWM)",
+  "maxTDP": "150 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "19 dB",
+  "noiseLevel": "27 dB",
+  "dimensions": "121x87x155 mm",
+  "height": "155 mm",
+  "weight": "575 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7b"
+  },
+  "id": "ID-COOLING-SE-223-BASIC",
+  "name": "ID-COOLING SE-223 BASIC",
+  "mainImage": "https://s.ek.ua/jpg/1951319.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=ROLT031J510J1J2H3J1J4Q0J1J2M0J1J001J1J14431J3A0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131K&model_=ID-Cooling+SE-223+Basic+S&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=35TP031J552J1J18231J512J1J30431J0P131J40331J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J5223&model_=ID-Cooling+SE-223+BASIC+%28&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=QBOD031J51031J254J1J0Q0J1J2M0J1J03431J20131J3A0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q1J1J51531I0E0J1J4A131K&model_=ID-Cooling+SE-223+Basic+%28&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 776,
+        "link": "https://ek.ua/en/clcp.php?ep_=2L00031J543J1J35031J512J1J32231J39231J27131J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5223&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+ID-Cooling+SE-223+B&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=6HUS031J57331J421J1J512J1J32231J431J1J15331J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5223&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=9M1A031J58331J054J1J512J1J31331J364J1J4G3J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5223&model_=ID-Cooling+SE-223+Basic+S&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 813,
+        "link": "https://ek.ua/en/clcp.php?ep_=T1QD031J55331J0K131J512J1J32031J0L131J0I031J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5223&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+ID-Coo&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=SHO0031J510J1J34131J3A0J1J2M131J09031J442J1J3A0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=3615031J59431J282J1J512J1J32331J1L4J1J140J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5223&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+ID-Cool&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 900,
+        "link": "https://ek.ua/en/clcp.php?ep_=V5QD031J59331J193J1J512J1J32031J1N031J224J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J1A131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=UFRR031J560J1J393J1J512J1J301J1J443J1J0I031J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=RJTO031J58131J2K131J512J1J320J1J0M1J1J4I3J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J0Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHOG031J510J1J2H031J4Q0J1J2M031J403J1J1L4J1J2A0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q0J1J1Q0J1J50721J0Q131K&model_=ID-Cooling+SE-223+Basic+S&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=3Q0C031J543J1J271J1J512J1J304J1J28431J390J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5223&model_=ID-Cooling+SE-223+Basic+S&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=O3RQ031J510J1J27231J0A0J1J2M0J1J02431J4P131J4A0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=12OO031J510J1J36231J1Q0J1J2M0J1J311J1J384J1J4Q0J1J38131J4K0J1J43231J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=B8PM031J55131J153J1J512J1J313J1J36031J444J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5223&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=66TI031J58431J0G031J512J1J313J1J3H231J3L231J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5223&model_=ID-COOLING+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=65UE031J560J1J2N2J1J512J1J320J1J42431J3P1J1J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5223&model_=ID-COOLING+%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=0BOM031J583J1J122J1J512J1J32231J0M0J1J05231J51331J424J1J21431J1K531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J5223&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ERI031J592J1J2P231J512J1J32331J30131J133J1J51331J424J1J21431J1N531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=0KRD031J59031J45131J512J1J30031J361J1J1K4J1J51331J424J1J21431J1N531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131K&model_=ID-Cooling+SE-223+Basic&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 819,
+        "link": "https://ek.ua/en/clcp.php?ep_=0HTF031J59031J45131J512J1J313J1J03431J153J1J51331J424J1J21431J1N531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131K&model_=ID-Cooling+SE-223+Basic%2C+&idSite_=1&idGood_=1951319"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 734,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHTH031J59031J45131J512J1J313J1J03431J17131J51331J424J1J21431J1N531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131K&model_=ID-Cooling+SE-223+Basic%2C+&idSite_=1&idGood_=1951319"
+      }
+    ],
+    "range": {
+      "minPrice": 734,
+      "maxPrice": 900
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span> tower-type CPU cooler from ID-COOLING with a thin profile and an average nameplate TDP. The model belongs to the initial price segment and is capable of removing up to 130 W of heat from the processor, that is, its performance will be optimal for cooling a 6- or 8-core processor with automatic overclocking activated. Typically, these towers are seen as a more powerful and quieter alternative to the inexpensive hop-on turrets that come with the processor.</p><p>Design ID-COOLING SE-223 BASIC consists of a massive copper-aluminum radiator with a dense fin structure and an aluminum substrate. For additional cooling, 3 heat pipes of direct contact are passed through the radiator, and a 120 mm fan based on a hydrodynamic bearing blows on the side. As expected, the fan supports PWM blade speed control ranging from 500 to 1600 rpm. If necessary, the turntable can be replaced with any other model of the same size.</p><p>Depending on the load on the processor, the manufacturer claims a noise level in the range from 16 to 20 dB. At peak load, the LSS delivers 56 CFM airflow at 1.7 mmH2O static pressure. The tower cooler comes with a motherboard mount kit with all current Intel and AMD sockets, so the cooler will fit almost any consumer-grade processor that was released between 2005 and 2021. The new revisions of the SE-223 BASIC also feature mounts for Intel LGA 1700 and AMD AM5 sockets.</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 3,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "1600 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "56 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "16 dB",
+  "noiseLevel": "20 dB",
+  "dimensions": "120x73x135 mm",
+  "height": "135 mm",
+  "weight": "560 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7c"
+  },
+  "id": "ARCTIC-LIQUID-FREEZER-II-240-A-RGB",
+  "name": "ARCTIC Liquid Freezer II 240 A-RGB",
+  "mainImage": "https://s.ek.ua/jpg/2042908.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 4199,
+        "link": "https://ek.ua/en/clcp.php?ep_=QGKA031J51031J254J1J0Q0J1J2M131J1O1J1J10431J2A0J1J38131J4K0J1J442J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q23&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=2042908"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 5064,
+        "link": "https://ek.ua/en/clcp.php?ep_=02UK031J59231J31231J512J1J322J1J244J1J1I0J1J51331J424J1J21431J25531J0A1J1J2H531J0Q1J1J52531J0Q031371531K&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=2042908"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 5058,
+        "link": "https://ek.ua/en/clcp.php?ep_=4LQS031J59231J354J1J512J1J322J1J27031J252J1J51331J424J1J21431J25531J0A1J1J2H531J0Q1J1J53531J0Q031371531K&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=2042908"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 5061,
+        "link": "https://ek.ua/en/clcp.php?ep_=5MPS031J591J1J073J1J512J1J322J1J280J1J424J1J51331J424J1J21431J25531J0A1J1J2H531J0Q1J1J54531J0Q031371531K&model_=Arctic+Liquid+Freezer+II+&idSite_=1&idGood_=2042908"
+      }
+    ],
+    "range": {
+      "minPrice": 4199,
+      "maxPrice": 5064
+    }
+  },
+  "brand": "ARCTIC",
+  "officialWebsite": "arctic.de",
+  "target": "for processor",
+  "type": "liquid cooling",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm / ARCTIC P12 PWM A-RGB /",
+  "bearing": "hydrodynamic",
+  "minRPM": "200 rpm",
+  "maxRPM": "1800 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "48.8 CFM",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "4-pin",
+  "dimensions": "277x120x38 mm / radiator /",
+  "weight": "1213 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7d"
+  },
+  "id": "ARCTIC-BIONIX-P140",
+  "name": "ARCTIC BioniX P140",
+  "mainImage": "https://s.ek.ua/jpg/1622639.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 480,
+        "link": "https://ek.ua/en/clcp.php?ep_=T8OU031J510J1J2H3J1J4Q0J1J2M0J1J000J1J404J1J3A0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q8PL031J510J1J2H3J1J4Q0J1J2M0J1J000J1J4N231J2A0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q131J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 464,
+        "link": "https://ek.ua/en/clcp.php?ep_=QOO5031J510J1J2H3J1J4Q0J1J2M0J1J001J1J271J1J2Q0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q1J1J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=SOP0031J510J1J2H3J1J4Q0J1J2M0J1J002J1J224J1J1A0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q231J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 419,
+        "link": "https://ek.ua/en/clcp.php?ep_=471M031J552J1J18231J512J1J30431J0O4J1J1P0J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J55531J0Q031371431J543J&model_=Arctic+BioniX+P140+%28ACFAN&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 604,
+        "link": "https://ek.ua/en/clcp.php?ep_=4N1U031J543J1J35031J512J1J32231J39231J1H331J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J56531J0Q0313713J1J543J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Arctic+BioniX+P140+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 364,
+        "link": "https://ek.ua/en/clcp.php?ep_=0L62031J57331J421J1J512J1J320J1J1K431J37331J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J57531J0Q031371131J543J&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+Arctic+BioniX+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 364,
+        "link": "https://ek.ua/en/clcp.php?ep_=3J0M031J560J1J393J1J512J1J301J1J433J1J1L131J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 364,
+        "link": "https://ek.ua/en/clcp.php?ep_=S5SV031J58131J2K131J512J1J320J1J0K0J1J100J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=5C2M031J543J1J271J1J512J1J304J1J283J1J3H431J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 453,
+        "link": "https://ek.ua/en/clcp.php?ep_=LJR7031J510J1J27231J0A0J1J2M0J1J023J1J3H231J1Q0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q0J1J0Q0J1J50721J0Q231N&model_=Arctic+BioniX+P140+PWM+PS&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 364,
+        "link": "https://ek.ua/en/clcp.php?ep_=V2N5031J510J1J36231J1Q0J1J2M0J1J311J1J0G3J1J4Q0J1J38131J4K0J1J45331J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q231N&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 445,
+        "link": "https://ek.ua/en/clcp.php?ep_=2P0L031J58431J0G031J512J1J313J1J3H231J46131J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 569,
+        "link": "https://ek.ua/en/clcp.php?ep_=67S8031J560J1J2N2J1J512J1J320J1J422J1J0H431J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=6EU9031J592J1J2P231J512J1J32331J30131J1P4J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3Q231N&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 369,
+        "link": "https://ek.ua/en/clcp.php?ep_=U4VS031J59031J45131J512J1J30031J36131J4I031J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3A231N&model_=ARCTIC+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 483,
+        "link": "https://ek.ua/en/clcp.php?ep_=2315031J543J1J35031J512J1J32231J39231J291J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J3Q231N&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Arctic+BioniX+P140+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 483,
+        "link": "https://ek.ua/en/clcp.php?ep_=1J1E031J543J1J35031J512J1J32231J39231J2I0J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J3Q231N&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Arctic+BioniX+P140+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 472,
+        "link": "https://ek.ua/en/clcp.php?ep_=3J1I031J543J1J35031J512J1J32231J39231J2M231J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J3Q231N&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Arctic+BioniX+P140+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 346,
+        "link": "https://ek.ua/en/clcp.php?ep_=UH4H031J57331J421J1J512J1J320J1J1K431J373J1J51331J424J1J21431J2M531J0A1J1J2H531J0Q1J1J52031J51531I0E0J1J3A231N&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+Arctic+BioniX+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 379,
+        "link": "https://ek.ua/en/clcp.php?ep_=T210031J57331J421J1J512J1J320J1J1L031J3J1J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J520J1J51531I0E0J1J3A231N&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+Arctic+BioniX+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 414,
+        "link": "https://ek.ua/en/clcp.php?ep_=S210031J57331J421J1J512J1J320J1J1L031J3J231J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J52131J51531I0E0J1J1A231N&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+Arctic+BioniX+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 365,
+        "link": "https://ek.ua/en/clcp.php?ep_=0UV7031J560J1J393J1J512J1J301J1J433J1J1L1J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 379,
+        "link": "https://ek.ua/en/clcp.php?ep_=3EV7031J560J1J393J1J512J1J301J1J433J1J1L3J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 419,
+        "link": "https://ek.ua/en/clcp.php?ep_=4EV7031J560J1J393J1J512J1J301J1J433J1J1L431J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J522J1J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 379,
+        "link": "https://ek.ua/en/clcp.php?ep_=THRF031J58131J2K131J512J1J320J1J0K0J1J103J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J52331J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 419,
+        "link": "https://ek.ua/en/clcp.php?ep_=41VG031J58131J2K131J512J1J322J1J3K2J1J314J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J523J1J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 365,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VRM031J58131J2K131J512J1J32331J121J1J07331J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J52431J51531I0E0J1J0Q231N&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 418,
+        "link": "https://ek.ua/en/clcp.php?ep_=AC2Q031J543J1J271J1J512J1J304J1J283J1J3H4J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J524J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=2C3R031J543J1J271J1J512J1J304J1J283J1J4H131J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J53031J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=3C3R031J543J1J271J1J512J1J304J1J283J1J4H1J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J530J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 453,
+        "link": "https://ek.ua/en/clcp.php?ep_=QJR7031J510J1J27231J0A0J1J2M0J1J023J1J3H231J3Q0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q1J1J1A0J1J50721J0Q231N&model_=Arctic+BioniX+P140+PWM+PS&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 417,
+        "link": "https://ek.ua/en/clcp.php?ep_=UJRT031J510J1J27231J0A0J1J2M0J1J023J1J474J1J4Q0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q1J1J1Q0J1J50721J0Q231N&model_=Arctic+BioniX+P140+PWM+PS&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 488,
+        "link": "https://ek.ua/en/clcp.php?ep_=Q3RU031J510J1J27231J0A0J1J2M0J1J023J1J480J1J3Q0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q1J1J2A0J1J50721J0Q231N&model_=Arctic+BioniX+P140+PWM+PS&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 379,
+        "link": "https://ek.ua/en/clcp.php?ep_=2IN5031J510J1J36231J1Q0J1J2M0J1J311J1J0G431J3Q0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q1J1J2Q0J1J50721J0Q231N&model_=Arctic+BioniX+P140+Grey+%28&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 473,
+        "link": "https://ek.ua/en/clcp.php?ep_=590Q031J58431J0G031J512J1J313J1J3H231J46231J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J53331J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 508,
+        "link": "https://ek.ua/en/clcp.php?ep_=3QV7031J58431J0G031J512J1J314J1J23031J4J0J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J533J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 473,
+        "link": "https://ek.ua/en/clcp.php?ep_=4QV7031J58431J0G031J512J1J314J1J23031J4J131J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J53431J51531I0E0J1J543J&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 549,
+        "link": "https://ek.ua/en/clcp.php?ep_=97SD031J560J1J2N2J1J512J1J320J1J422J1J0H4J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J534J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 519,
+        "link": "https://ek.ua/en/clcp.php?ep_=2CRM031J560J1J2N2J1J512J1J320J1J47131J19231J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J54031J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 404,
+        "link": "https://ek.ua/en/clcp.php?ep_=VLQT031J510J1J36231J1Q0J1J2M131J34331J2O431J1Q0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q231J0Q0J1J50721J0Q231N&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 365,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LTA031J510J1J36231J1Q0J1J2M131J34431J45431J4A0J1J38131J4K0J1J454J1J50531J1L0J1J51531J1Q231J1A0J1J50721J0Q231N&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=2OUF031J592J1J2P231J512J1J32331J30131J20031J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J541J1J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Grey%2FW&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=3OUF031J592J1J2P231J512J1J32331J30131J200J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J54231J51531I0E0J1J543J&model_=Arctic+BioniX+P140+Red+%28A&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 500,
+        "link": "https://ek.ua/en/clcp.php?ep_=2UUM031J592J1J2P231J512J1J32331J30131J20131J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J542J1J51531I0E031J3Q231N&model_=Arctic+BioniX+P140+White+&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 379,
+        "link": "https://ek.ua/en/clcp.php?ep_=2KS4031J59031J45131J512J1J30031J361J1J044J1J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J54331J51531I0E031J3A231N&model_=Arctic+BioniX+P140+%E2%80%94+Grey&idSite_=1&idGood_=1622639"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 419,
+        "link": "https://ek.ua/en/clcp.php?ep_=31VI031J59031J45131J512J1J313J1J03431J11431J51331J424J1J21431J2P531J0A1J1J2H531J0Q1J1J543J1J51531I0E031J3A231N&model_=Arctic+BioniX+P140+%E2%80%94+Grey&idSite_=1&idGood_=1622639"
+      }
+    ],
+    "range": {
+      "minPrice": 346,
+      "maxPrice": 604
+    }
+  },
+  "brand": "ARCTIC",
+  "description": "<p><span class=\"desc-ai-initcap\">H</span>igh performance controlled 120mm fan with long life fluid dynamic bearing, stylish exterior design and reduced noise/vibration. It is positioned as a product of the middle price category, designed for use in large tower CPU coolers, cases and on radiators of liquid cooling systems. Differs in non-standard overall dimensions (thickness 28 mm, 2 mm adds a rubberized ring in the outer part of the case to focus the air flow).</p><p>The ARCTIC BioniX P140 fan is equipped with a 5-blade impeller whose optimized shape maintains high efficiency over a wide range of rotor speeds. It also provides a high level of static pressure (up to 2.85 mm wg), which is essential for efficient operation on dense heatsinks with high flow resistance. Damping rubber pads are provided in the corners of the end surface of the frame.</p><p>The fan is connected to the motherboard using a standard 4-pin connector or using an additional 4-pin connector with a socket, which allows you to connect several fans to one PWM connector in a chain. PWM control makes it possible to change the rotation speed in the range from 200 to 1950 rpm. The chassis cooling system with these fans can remain silent when idle and provide high performance (up to 2.2 m³/min) under load.</p>",
+  "officialWebsite": "arctic.ac",
+  "target": "to the body",
+  "type": "fan",
+  "mountType": "bolts",
+  "fanSize": "140 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "200 rpm",
+  "maxRPM": "1950 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "77.6 CFM / 131.92 m³/h /",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "dimensions": "140x140x28 mm",
+  "weight": "181 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7e"
+  },
+  "id": "ID-COOLING-SE-903-SD",
+  "name": "ID-COOLING SE-903-SD",
+  "mainImage": "https://s.ek.ua/jpg/2171708.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=U8MN031J510J1J2H3J1J4Q0J1J2M0J1J001J1J1P431J3Q0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131M&model_=ID-Cooling+SE-903-SD+SE-9&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=1LUT031J552J1J18231J512J1J30431J0P131J2G1J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J5233&model_=ID-Cooling+SE-903-SD+%28SE-&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1LJ031J51031J254J1J0Q0J1J2M031J4P0J1J2H0J1J2A0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q1J1J51531I0E0J1J4A131M&model_=ID-Cooling+SE-903-SD+1700&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3L24031J543J1J35031J512J1J32231J39231J1N231J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5233&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+ID-Cooling+SE-903-S&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=1472031J57331J421J1J512J1J320J1J1L3J1J4N1J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5233&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=810I031J58331J054J1J512J1J30431J0H2J1J353J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5233&model_=ID-Cooling+SE-903-SD+SE-9&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 555,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHT0031J55331J0K131J512J1J32031J0L131J0H2J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5233&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+ID-Coo&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=T1O5031J510J1J34131J3A0J1J2M131J09031J44231J2A0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3M39031J59431J282J1J512J1J32331J1L4J1J0K2J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J59531J0Q031371131J5233&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+ID-Cool&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VTG031J560J1J393J1J512J1J301J1J443J1J0H331J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=O3VE031J58131J2K131J512J1J320J1J0M1J1J4I0J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=1HOL031J510J1J2H031J4Q0J1J2M031J403J1J1L3J1J4Q0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131M&model_=ID-Cooling+SE-903-SD+SE-9&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=5A1D031J543J1J271J1J512J1J304J1J284J1J162J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5233&model_=ID-Cooling+SE-903-SD+SE-9&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=PJPM031J510J1J27231J0A0J1J2M0J1J02431J2G431J1A0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131M&model_=ID-Cooling+%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86.+SE&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=7JRT031J55131J153J1J512J1J31031J41131J2N4J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5233&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=66VO031J58431J0G031J512J1J313J1J3H231J37331J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5233&model_=ID-COOLING+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 513,
+        "link": "https://ek.ua/en/clcp.php?ep_=45U2031J560J1J2N2J1J512J1J320J1J422J1J290J1J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J513J1J51531I0E0J1J5233&model_=ID-COOLING+SE-903-SD+SE-9&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=3BR8031J583J1J122J1J512J1J32231J0M0J1J04131J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5233&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 448,
+        "link": "https://ek.ua/en/clcp.php?ep_=35KQ031J510J1J36231J1Q0J1J2M131J24031J0L3J1J4Q0J1J38131J4K0J1J46431J50531J1L0J1J51531J1Q0J1J4Q0J1J50721J0Q131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=VET6031J592J1J2P231J512J1J32331J30131J14031J51331J424J1J21431J38531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3Q131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 499,
+        "link": "https://ek.ua/en/clcp.php?ep_=TKS7031J59031J45131J512J1J30031J361J1J0J231J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "63219f35332e9aa694fa7a02",
+        "price": 607,
+        "link": "https://ek.ua/en/clcp.php?ep_=S4VB031J59031J45131J512J1J30031J361J1J3N031J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 462,
+        "link": "https://ek.ua/en/clcp.php?ep_=14TQ031J59031J45131J512J1J30031J36231J1M4J1J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J521J1J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6322f86d332e9aa6943d9d35",
+        "price": 497,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VVU031J59031J45131J512J1J32031J3H4J1J183J1J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J52231J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "6322f843332e9aa6943d0f83",
+        "price": 559,
+        "link": "https://ek.ua/en/clcp.php?ep_=0L1E031J59031J45131J512J1J321J1J1M331J48331J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD&idSite_=1&idGood_=2171708"
+      },
+      {
+        "storeId": "644e920cb68c4f46eb8530e6",
+        "price": 579,
+        "link": "https://ek.ua/en/clcp.php?ep_=0MT6031J59031J45131J512J1J30431J18031J320J1J51331J424J1J21431J3G531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131M&model_=ID-Cooling+SE-903-SD%2C+Int&idSite_=1&idGood_=2171708"
+      }
+    ],
+    "range": {
+      "minPrice": 448,
+      "maxPrice": 607
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of the most affordable CPU coolers with U-shaped copper heat pipes with a diameter of 6 mm. It has a classic tower layout with a relatively small aluminum heatsink, Heatpipe Direct Touch technology and a 92mm durable 7-blade fluid dynamic bearing fan with low noise. It has modest overall dimensions (height 123 mm) and the most affordable price, which makes it one of the best choices for equipping multi-purpose home and budget gaming systems.</p><p>It can be correctly installed in many models of compact microATX cases of small thickness. The ID-COOLING SE-903-SD CPU cooler is designed for use with a wide range of Intel and AMD processors with typical TDP up to 130W. Ideal for pairing with CPUs sold without boxed (complete) cooling systems. Can be installed on motherboards with Intel LGA1151/1151v2/1150/1155/1156/775 and AMD AM4/AM3/AM2/FM2/FM1 processor sockets. Able to fully cool any AMD and Intel Mainstream processors and many Performance class CPUs released between 2005 and 2022. It is fixed on the motherboard using a complete set of fasteners, which does not require dismantling the board from the case. The rotation speed of the 92 mm fan with a 4-pin connector is adjustable from 800 to 2000 rpm using PWM control.</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 3,
+  "plateMaterial": "aluminum",
+  "mountType": "latches",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 775",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "92 mm / 92x92x25 /",
+  "bearing": "hydrodynamic",
+  "maxRPM": "2000 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "37.44 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "3-pin",
+  "noiseLevel": "23 dB",
+  "dimensions": "104x75x123 mm",
+  "height": "123 mm",
+  "weight": "370 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b7f"
+  },
+  "id": "ID-COOLING-XF-12025-SD-K",
+  "name": "ID-COOLING XF-12025-SD-K",
+  "mainImage": "https://s.ek.ua/jpg/1727601.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=TOO7031J510J1J2H3J1J4Q0J1J2M0J1J000J1J4L431J2Q0J1J38131J4K0J1J474J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1P&model_=ID-Cooling+XF-12025-SD-K%2C&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 158,
+        "link": "https://ek.ua/en/clcp.php?ep_=1J05031J552J1J18231J512J1J311J1J07031J2N131J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J52531J0Q031371431J514J&model_=ID-Cooling+XF+12025+SD-K+&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 174,
+        "link": "https://ek.ua/en/clcp.php?ep_=2K4F031J543J1J35031J512J1J32231J39231J22131J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J53531J0Q0313713J1J514J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+ID-Cooling+XF-12025&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=VI8F031J57331J421J1J512J1J320J1J1K3J1J44031J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J54531J0Q031371331J514J&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+ID-Cooling+XF-&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 220,
+        "link": "https://ek.ua/en/clcp.php?ep_=4M37031J59431J282J1J512J1J32331J1M2J1J0L231J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J55531J0Q0313712J1J514J&model_=%D0%92%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80+ID-Cooling+XF-&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=SGOD031J510J1J34131J3A0J1J2M131J381J1J38031J3A0J1J38131J4K0J1J474J1J50531J1L0J1J51531J1Q331J51531I0E0J1J0Q0J1P&model_=ID-Cooling+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=1FQF031J510J1J2H031J4Q0J1J2M031J403J1J1M231J1A0J1J38131J4K0J1J474J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J514J&model_=ID-Cooling+XF-12025-SD-K+&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 210,
+        "link": "https://ek.ua/en/clcp.php?ep_=0UV2031J543J1J271J1J512J1J312J1J25231J19231J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0P&model_=ID-Cooling+XF-12025-SD-K+&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 186,
+        "link": "https://ek.ua/en/clcp.php?ep_=2LN0031J510J1J27231J0A0J1J2M0J1J361J1J0H2J1J3Q0J1J38131J4K0J1J474J1J50531J1L0J1J51531J1Q4J1J51531I0E0J1J514J&model_=ID-Cooling+XF-12025-SD-K%2C&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=57ST031J55131J153J1J512J1J313J1J360J1J26231J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J514J&model_=ID-Cooling+XF-12025-SD-K+&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 194,
+        "link": "https://ek.ua/en/clcp.php?ep_=4M36031J58431J0G031J512J1J313J1J3H231J4K431J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J514J&model_=ID-Cooling+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 245,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KUF031J560J1J2N2J1J512J1J320J1J422J1J0L0J1J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J514J&model_=ID-COOLING+%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320cda7332e9aa69419f0da",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=2AT7031J583J1J122J1J512J1J32231J0M0J1J022J1J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J514J&model_=ID-COOLING+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 139,
+        "link": "https://ek.ua/en/clcp.php?ep_=05O9031J510J1J36231J1Q0J1J2M131J343J1J10431J2A0J1J38131J4K0J1J474J1J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q0J1P&model_=ID-Cooling+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=1UT7031J592J1J2P231J512J1J32331J30131J12031J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J512J1J51531I0E031J3Q0J1P&model_=ID-Cooling+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=V213031J59031J45131J512J1J313J1J033J1J3J0J1J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J51331J51531I0E031J3A0J1P&model_=ID-Cooling+XF-12025-SD-K&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab53",
+        "price": 159,
+        "link": "https://ek.ua/en/clcp.php?ep_=V1V9031J59031J45131J512J1J313J1J03431J19031J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J513J1J51531I0E031J3A0J1P&model_=ID-Cooling+XF-12025-SD-K%2C&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "63219efd332e9aa694f9f03e",
+        "price": 160,
+        "link": "https://ek.ua/en/clcp.php?ep_=1HV8031J59031J45131J512J1J313J1J03431J18231J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3A0J1P&model_=ID-Cooling+XF-12025-SD-K%2C&idSite_=1&idGood_=1727601"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 142,
+        "link": "https://ek.ua/en/clcp.php?ep_=01V8031J59031J45131J512J1J313J1J03431J18031J51331J424J1J21431J3P531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A0J1P&model_=ID-Cooling+XF-12025-SD-K%2C&idSite_=1&idGood_=1727601"
+      }
+    ],
+    "range": {
+      "minPrice": 139,
+      "maxPrice": 245
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">O</span>ne of the most affordable branded 120mm case fans with a standard 4-pin connection and PWM rotor speed control. It features affordable cost, low noise level at minimum speed (18 dBA) and impressive performance at maximum. It is positioned as a product of the basic price category, designed to organize the ventilation of computer cases designed for the use of coolers with a size of 120x120x25 mm.</p><p>It can be used as a part of high-performance one/two-section tower coolers and for heat dissipation from radiators of liquid cooling systems. Equipped with an 11-blade impeller, the shape of which is specially optimized for efficient operation and noise reduction. The ID-COOLING XF-12025-SD-K case fan is installed using standard steel screws. To significantly reduce vibration and noise, they can be replaced with elastic damping silicone studs. Thanks to the standard connector, it is easy to connect to any current models of motherboards. The fan capacity can reach up to 2.1 m³/min and a pair of these blow-in and blow-out fans is enough to dissipate the heat generated by an inexpensive gaming, multi-purpose home system or entry-level workstation.</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "to the body",
+  "type": "fan",
+  "mountType": "bolts",
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "700 rpm",
+  "maxRPM": "1800 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "74.5 CFM",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "18 dB",
+  "noiseLevel": "35 dB",
+  "dimensions": "120x120x25 mm",
+  "weight": "150 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b80"
+  },
+  "id": "NOCTUA-NH-D15-CHROMAX-BLACK",
+  "name": "Noctua NH-D15 chromax.black",
+  "mainImage": "https://s.ek.ua/jpg/1669872.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=3K2O031J552J1J18231J512J1J30431J0O4J1J25031J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J51531J0Q031371431J512J&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=411P031J560J1J0M1J1J512J1J313J1J24431J460J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J512J&model_=Noctua+NH-D15+CHROMAX.BLA&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 4351,
+        "link": "https://ek.ua/en/clcp.php?ep_=032O031J57331J421J1J512J1J320J1J1L031J370J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J53531J0Q031371331J512J&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Noctua+NH-D1&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 4582,
+        "link": "https://ek.ua/en/clcp.php?ep_=0GTC031J55331J0K131J512J1J32031J0L131J083J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J54531J0Q0313712J1J512J&model_=%D0%92%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80+%D1%81pu+Noctua+nh-&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 5264,
+        "link": "https://ek.ua/en/clcp.php?ep_=8643031J59331J193J1J512J1J322J1J46331J493J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J55531J0Q0313711J1J512J&model_=Noctua+NH-D15+CHROMAX.BLA&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=V44B031J573J1J3P131J512J1J32131J164J1J00231J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J56531J0Q031371131J512J&model_=NOCTUA+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=TL2F031J58131J2K131J512J1J320J1J0M1J1J4O231J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J57531J0Q0313710J1J512J&model_=Noctua+NH-D15+CHROMAX.BLA&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=UF4C031J543J1J271J1J512J1J31131J1L3J1J4G1J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0L&model_=Noctua+NH-D15+CH.BL.+%28NH-&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=1UV8031J58431J0G031J512J1J313J1J3H231J22231J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J59531J0Q031371531J0L&model_=Noctua+NH-D15+CHROMAX.BLA&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=2E3G031J592J1J32131J512J1J314J1J0O331J45331J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J512J&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "644e91deb68c4f46eb85024d",
+        "price": 4306,
+        "link": "https://ek.ua/en/clcp.php?ep_=3QVE031J59231J31231J512J1J322J1J25131J2J3J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J512J&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 4921,
+        "link": "https://ek.ua/en/clcp.php?ep_=0F09031J560J1J2N2J1J512J1J32331J234J1J230J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J51131J51531I0E031J3Q0J1L&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 5199,
+        "link": "https://ek.ua/en/clcp.php?ep_=07UM031J59031J45131J512J1J301J1J2P331J142J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J511J1J51531I0E031J3A0J1L&model_=Noctua+NH-D15+Chromax+Bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 4300,
+        "link": "https://ek.ua/en/clcp.php?ep_=6CSH031J59231J354J1J512J1J322J1J270J1J02231J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J512J&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc28",
+        "price": 4303,
+        "link": "https://ek.ua/en/clcp.php?ep_=6DSO031J591J1J073J1J512J1J322J1J28231J272J1J51331J424J1J21431J4G531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J512J&model_=Noctua+NH-D15+chromax.bla&idSite_=1&idGood_=1669872"
+      }
+    ],
+    "range": {
+      "minPrice": 4300,
+      "maxPrice": 5264
+    }
+  },
+  "brand": "Noctua",
+  "officialWebsite": "noctua.at",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 6,
+  "plateMaterial": "nickel-plated copper",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "140 mm / NF-A15 HS-PWM /",
+  "bearing": "hydrodynamic / SSO2 /",
+  "minRPM": "300 rpm",
+  "maxRPM": "1500 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "82.43 CFM / 140.2 m³/hour /",
+  "maxTDP": "220 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "19 dB",
+  "noiseLevel": "25 dB",
+  "dimensions": "150x161x165 mm",
+  "height": "165 mm",
+  "weight": "1320 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b81"
+  },
+  "id": "DEEPCOOL-GAMMAXX-400-EX",
+  "name": "Deepcool GAMMAXX 400 EX",
+  "mainImage": "https://s.ek.ua/jpg/1788993.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=421J031J552J1J18231J512J1J312J1J3N231J4P4J1J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J51531J0Q0313713J1J57&model_=Deepcool+GAMMAXX+400+EX+G&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=0VVU031J57331J421J1J512J1J32231J431J1J08431J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J52531J0Q0313711J1J57&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Deepcool+GAM&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=QU1M031J573J1J3P131J512J1J32231J212J1J0O1J1J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J53531J0Q0313710J1J57&model_=DEEPCOOL+Gammaxx+400+EX+%28&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=2GS9031J543J1J271J1J512J1J311J1J374J1J003J1J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J54531J0Q031371531N&model_=Deepcool+GAMMAXX+400EX+GA&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d66",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=3HRB031J592J1J32131J512J1J311J1J3J231J1M4J1J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J55531J0Q031371531N&model_=Deepcool+GAMMAXX+400+EX+%28&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=UHTF031J58431J0G031J512J1J322J1J0K131J0O431J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J56531J0Q0313703J1J57&model_=Deepcool+GAMMAXX+400EX&idSite_=1&idGood_=1788993"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 1319,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KSV031J59031J45131J512J1J311J1J4M1J1J033J1J51331J424J1J214J1J02531J0A1J1J2H531J0Q1J1J57531J0Q031370331J57&model_=DeepCool+GAMMAXX+400EX&idSite_=1&idGood_=1788993"
+      }
+    ],
+    "range": {
+      "minPrice": 1319,
+      "maxPrice": 1319
+    }
+  },
+  "brand": "Deepcool",
+  "description": "<p><span class=\"desc-ai-initcap\">T</span>he most powerful version of the folk supercooler Deepcool GAMMAX 400, which is a further development of this series. Compared to the original version of the GAMMAX 400, the developers were able to increase the number of fins in the heatsink by 20%, thereby increasing its area, and equipped the cooler with an additional 120mm fan. The Deepcool GAMMAXX 400 EX is a massive 158mm high tower based on a massive metal heatsink with increased fin density.</p><p>The radiator is pierced by 4 heat pipes that are in direct contact with the sole of the processor. On the sides of the radiator blows a pair of 120-mm turntables on a hydrodynamic bearing. The fan speed is adjustable from 500 to 1500 rpm, and the entire cooling structure can generate 52 CFM airflow and remove up to 180 watts of heat from the processor. This is quite enough for efficient overclocking of hot Ryzen 7/Core i7 chips with automatic or manual overclocking.</p><p>Despite the serious equipment and high heat dissipation, this model belongs to the lower part of the middle price segment and is perfect for budget gaming builds in which the owner seeks to maximize every dollar invested. Unlike its predecessors in the GAMMAXX series, this version with the EX prefix is friendly with all current processor sockets, including Intel LGA1700 and AMD AM5.</p>",
+  "officialWebsite": "deepcool.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 4,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1366",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "1500 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "52 CFM",
+  "maxTDP": "180 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "28 dB",
+  "dimensions": "129x103x157.5 mm",
+  "height": "158 mm",
+  "weight": "930 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b82"
+  },
+  "id": "BE-QUIET--DARK-ROCK-PRO-4",
+  "name": "be quiet! Dark Rock Pro 4",
+  "mainImage": "https://s.ek.ua/jpg/1392519.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=03U8031J552J1J18231J512J1J30431J0O4J1J31031J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J51531J0Q0313720J1J510J&model_=Be+Quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHL8031J51031J254J1J0Q0J1J2M031J4P0J1J2G3J1J3A0J1J38131J4K0J1J4H1J1J50531J1L0J1J51531J1Q131J51531I0E0J1J3Q0J1H&model_=Be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=4TRC031J57331J421J1J512J1J320J1J400J1J0O331J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J53531J0Q031371331J510J&model_=%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+be+quiet%21+D&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e43",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=QGOS031J51031J25131J2A0J1J2M0J1J18431J2K331J3Q0J1J38131J4K0J1J4H1J1J50531J1L0J1J51531J1Q231J51531I0E0J1J2Q0J1H&model_=be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 4044,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHNC031J55331J0K131J512J1J321J1J060J1J042J1J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J55531J0Q0313711J1J510J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+be+quiet%21+Dark+Rock&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=1IUG031J573J1J3P131J512J1J304J1J05031J442J1J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J56531J0Q0313710J1J510J&model_=BE+QUIET%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=QVHR031J510J1J27231J0A0J1J2M0J1J3G031J0I231J0A0J1J38131J4K0J1J4H1J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J510J&model_=Be+Quiet%21+Dark+Rock+PRO+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 3938,
+        "link": "https://ek.ua/en/clcp.php?ep_=VERO031J58431J0G031J512J1J321J1J31031J43231J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J58531J0Q031371531J0H&model_=be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a23",
+        "price": 4302,
+        "link": "https://ek.ua/en/clcp.php?ep_=96R2031J59231J354J1J512J1J322J1J27231J0M3J1J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J59531J0Q0313703J1J510J&model_=be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 3889,
+        "link": "https://ek.ua/en/clcp.php?ep_=SKQP031J59031J45131J512J1J30031J361J1J281J1J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J51031J51531I0E031J3A0J1H&model_=be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 4094,
+        "link": "https://ek.ua/en/clcp.php?ep_=U4SI031J59031J45131J512J1J30031J361J1J412J1J51331J424J1J214J1J0J531J0A1J1J2H531J0Q1J1J510J1J51531I0E031J3A0J1H&model_=Be+quiet%21+Dark+Rock+Pro+4&idSite_=1&idGood_=1392519"
+      }
+    ],
+    "range": {
+      "minPrice": 3889,
+      "maxPrice": 4302
+    }
+  },
+  "brand": "be quiet!",
+  "description": "<p><span class=\"desc-ai-initcap\">H</span>igh-performance tower-type CPU air cooler with a traditional U-shaped layout of seven heat pipes and two bundled low-noise branded fans. It has an impressive weight (1130 g) and considerable dimensions limiting the height of the heat spreaders installed on the memory modules (not higher than 40 mm). Belongs to the category of the most powerful air coolers, the so-called \"supercoolers\", capable of dissipating up to 250 W of heat, which makes it an excellent choice for overclocking experiments and regular operation of Intel High-End Desktop processors (up to 18 cores with a power of 165 W).</p><p>Despite such an impressive performance, it is positioned as a product of the middle price category. The Be quiet Dark Rock Pro 4 CPU cooler can easily remove and dissipate the heat generated by the operation of Intel or AMD Mainstream/Performance class processors (including CPUs that are constantly overclocked with an increase in supply voltage). Special mention deserves the outstanding acoustic performance of the model, provided by two fans with Fluid Dynamic Bearings and PWM control: 120 mm Be quiet! Silent Wings 3 (up to 1500 rpm) and 135 mm Silent Wings (up to 1200 rpm).</p>",
+  "officialWebsite": "bequiet.com",
+  "target": "for processor",
+  "type": "active fan",
+  "plateMaterial": "nickel-plated copper",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1366",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "135 mm / 120 /",
+  "bearing": "hydrodynamic",
+  "maxRPM": "1200 rpm / 1500 /",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "119 CFM",
+  "maxTDP": "250 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "minNoiseLevel": "13 dB",
+  "noiseLevel": "24 dB",
+  "dimensions": "124x136x163 mm",
+  "height": "163 mm",
+  "weight": "1130 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b83"
+  },
+  "id": "ID-COOLING-SE-903-XT",
+  "name": "ID-COOLING SE-903-XT",
+  "mainImage": "https://s.ek.ua/jpg/2171714.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=TBOA031J510J1J2H3J1J4Q0J1J2M0J1J434J1J05331J2A0J1J38131J4K0J1J4I1J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131H&model_=ID-Cooling+SE-903-XT+SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=6TNB031J552J1J18231J512J1J304J1J3H031J033J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J52531J0Q0313720J1J520J&model_=ID-Cooling+SE-903-XT+%28SE-&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=T1LQ031J51031J254J1J0Q0J1J2M031J4P0J1J2H0J1J2Q0J1J38131J4K0J1J4I1J1J50531J1L0J1J51531J1Q1J1J51531I0E0J1J4A131H&model_=ID-Cooling+SE-903-XT+1700&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 593,
+        "link": "https://ek.ua/en/clcp.php?ep_=54VH031J543J1J35031J512J1J32231J39231J393J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J520J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+ID-COOLING+SE-903-X&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=301M031J57331J421J1J512J1J320J1J212J1J4G331J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J55531J0Q031371331J520J&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+ID-Cooling+S&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=9LVQ031J58331J054J1J512J1J31331J364J1J4H3J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J520J&model_=ID-Cooling+SE-903-XT+SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 698,
+        "link": "https://ek.ua/en/clcp.php?ep_=11PF031J55331J0K131J512J1J32031J0L131J15431J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J520J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0+ID-C&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f8",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=QHOC031J510J1J34131J3A0J1J2M131J09031J44431J0A0J1J38131J4K0J1J4I1J1J50531J1L0J1J51531J1Q431J51531I0E0J1J2Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=56T8031J59431J282J1J512J1J32331J1M2J1J0O431J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J59531J0Q031371131J520J&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+ID-Cool&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=UVSU031J560J1J393J1J512J1J313J1J0K3J1J1O2J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J0Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=TFT5031J58131J2K131J512J1J321J1J22231J3J3J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J0Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=THOS031J510J1J2H031J4Q0J1J2M031J403J1J1L431J2Q0J1J38131J4K0J1J4I1J1J50531J1L0J1J51531J1Q0J1J1A0J1J50721J0Q131H&model_=ID-Cooling+SE-903-XT+SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=4AR4031J543J1J271J1J512J1J304J1J29131J2I1J1J51331J424J1J214J1J13531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J520J&model_=ID-Cooling+SE-903-XT+SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=L3S6031J510J1J27231J0A0J1J2M0J1J02431J4P131J1Q0J1J38131J4K0J1J4I231J50531J1L0J1J51531J1Q0J1J2A0J1J50721J0Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=2MT2031J58431J0G031J512J1J313J1J3H231J4L031J51331J424J1J214J1J14531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J520J&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=4BNE031J560J1J2N2J1J512J1J320J1J48031J29131J51331J424J1J214J1J14531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J520J&model_=ID-COOLING+SE-903-XT+SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=R5OT031J510J1J36231J1Q0J1J2M131J343J1J110J1J1Q0J1J38131J4K0J1J4I231J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=4UT8031J592J1J2P231J512J1J32331J30131J301J1J51331J424J1J214J1J14531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3Q131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "63219efd332e9aa694f9f03e",
+        "price": 629,
+        "link": "https://ek.ua/en/clcp.php?ep_=11V7031J59031J45131J512J1J313J1J033J1J3K131J51331J424J1J214J1J14531J0A1J1J2H531J0Q1J1J514J1J51531I0E031J3A131H&model_=ID-Cooling+SE-903-XT%2C+Int&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6c",
+        "price": 662,
+        "link": "https://ek.ua/en/clcp.php?ep_=VVOD031J59031J45131J512J1J322J1J3H031J08231J51331J424J1J214J1J14531J0A1J1J2H531J0Q1J1J52031J51531I0E031J3A131H&model_=ID-Cooling+1700+am5+%28SE-9&idSite_=1&idGood_=2171714"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6ba",
+        "price": 558,
+        "link": "https://ek.ua/en/clcp.php?ep_=VHTD031J59031J45131J512J1J313J1J03431J173J1J51331J424J1J214J1J16531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3A131H&model_=ID-Cooling+SE-903-XT&idSite_=1&idGood_=2171714"
+      }
+    ],
+    "range": {
+      "minPrice": 558,
+      "maxPrice": 698
+    }
+  },
+  "brand": "ID-COOLING",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>ffordable, compact and efficient RGB tower CPU cooler with U-shaped triple 6mm heatpipe design and durable 92mm fluid dynamic bearing controlled fan. Compared to other tower CPU coolers, it has a small height (only 123 mm) that allows it to be mounted in cases of small width. The manufacturer is positioned as a product of the basic price category. Due to its affordable cost, it is one of the best choices for equipping multi-purpose home and budget gaming systems.</p><p>Designed for use with Intel and AMD processors with typical heat dissipation up to 130W. Suitable for OEM versions of the CPU, which are sold without a complete air cooling system. The ID-COOLING SE-903-XT cooler is guaranteed to be compatible with motherboards equipped with Intel LGA115X/1200/1700 and AMD AM4/AM3(+) sockets. It is mounted on the motherboard with complete fasteners without dismantling the board. Heatpipe Direct Touch technology is used to reduce thermal resistance. To reduce noise, PWM fan speed control is supported (from 500 to 2200 rpm).</p>",
+  "officialWebsite": "idcooling.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 3,
+  "plateMaterial": "aluminum",
+  "mountType": "latches",
+  "socket": [
+    "AMD AM4",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "fanSize": "92 mm / 92x92x25 /",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "2200 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "45.8 CFM",
+  "maxTDP": "130 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "RGB",
+  "powerSource": "4-pin",
+  "minNoiseLevel": "14 dB",
+  "noiseLevel": "26 dB",
+  "dimensions": "100x65x123 mm",
+  "height": "123 mm",
+  "weight": "650 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b84"
+  },
+  "id": "DEEPCOOL-AK620-WH",
+  "name": "Deepcool AK620 WH",
+  "mainImage": "https://s.ek.ua/jpg/2361941.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=RBQ4031J510J1J2H3J1J4Q0J1J2M131J1J2J1J3P031J4A0J1J38131J4K0J1J4J2J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q131M&model_=DeepCool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=UFSS031J561J1J00131J512J1J31231J14331J3N1J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J52531J0Q031371531J16&model_=DEEPCOOL+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=251G031J552J1J18231J512J1J30431J0O3J1J3L231J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J53531J0Q0313720J1J5233&model_=Deepcool+AK620+%28R-AK620-W&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262f3",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=31LV031J51031J254J1J0Q0J1J2M031J4P0J1J2G4J1J3A0J1J38131J4K0J1J4J2J1J50531J1L0J1J51531J1Q231J51531I0E0J1J4A131M&model_=Deepcool+AK620+White+1700&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc23",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=4I0F031J560J1J0M1J1J512J1J313J1J24431J4K131J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J55531J0Q0313713J1J5233&model_=Deepcool+AK620+White&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=1G4H031J57331J421J1J512J1J320J1J212J1J481J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J56531J0Q031371331J5233&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Deepcool+AK6&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd92332e9aa69419bc26",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=4L02031J55331J28131J512J1J310J1J382J1J1J4J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J57531J0Q0313712J1J5233&model_=Deepcool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab51",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=6IV5031J58331J054J1J512J1J31231J0J2J1J2O431J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J58531J0Q0313712J1J5233&model_=DeepCool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2860,
+        "link": "https://ek.ua/en/clcp.php?ep_=11SK031J55331J0K131J512J1J32031J0L131J16431J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J59531J0Q0313712J1J5233&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+DeepCo&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cffe332e9aa6941f5e50",
+        "price": 2642,
+        "link": "https://ek.ua/en/clcp.php?ep_=0502031J59431J282J1J512J1J32331J1M2J1J2L231J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J51031J51531I0E0J1J2Q131M&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+DeepCoo&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 2880,
+        "link": "https://ek.ua/en/clcp.php?ep_=U7TI031J59331J193J1J512J1J32031J1P031J4K2J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J1Q131M&model_=Deepcool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fd",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=TTVF031J573J1J3P131J512J1J32231J212J1J112J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J1A131M&model_=DEEPCOOL+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=1UUS031J560J1J393J1J512J1J301J1J43231J4G2J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J0Q131M&model_=Deepcool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=PHRH031J58131J2K131J512J1J320J1J0K0J1J2O0J1J51331J424J1J214J1J1L531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J0Q131M&model_=Deepcool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab52",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=0HP2031J510J1J2H031J4Q0J1J2M031J40331J25431J2Q0J1J38131J4K0J1J4J331J50531J1L0J1J51531J1Q0J1J2Q0J1J50721J0Q131M&model_=DeepCool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=6QVA031J543J1J271J1J512J1J304J1J29131J3L2J1J51331J424J1J214J1J1M531J0A1J1J2H531J0Q1J1J51331J51531I0E0J1J5233&model_=DeepCool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=O3RO031J510J1J27231J0A0J1J2M0J1J02431J451J1J1Q0J1J38131J4K0J1J4J331J50531J1L0J1J51531J1Q0J1J3Q0J1J50721J0Q131M&model_=Deepcool+AK620+WHITE&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=6N05031J58431J0G031J512J1J313J1J3H231J4M2J1J51331J424J1J214J1J1M531J0A1J1J2H531J0Q1J1J51431J51531I0E0J1J5233&model_=Deepcool+AK620+WHITE&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=9BR9031J560J1J2N2J1J512J1J320J1J480J1J2I4J1J51331J424J1J214J1J1M531J0A1J1J2H531J0Q1J1J514J1J51531I0E0J1J5233&model_=Deepcool+AK620+AK620+WHIT&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 2563,
+        "link": "https://ek.ua/en/clcp.php?ep_=RLS2031J510J1J36231J1Q0J1J2M131J34331J4G231J2Q0J1J38131J4K0J1J4J331J50531J1L0J1J51531J1Q131J0A0J1J50721J0Q131M&model_=Deepcool+AK620+WH+%28R-AK62&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=4ETA031J592J1J2P231J512J1J32331J30131J284J1J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J520J1J51531I0E031J3Q131M&model_=DeepCool+AK620+White&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=U4UL031J59031J45131J512J1J30031J36131J4P231J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J52131J51531I0E031J3A131M&model_=DeepCool+AK620+White&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 2798,
+        "link": "https://ek.ua/en/clcp.php?ep_=QFQK031J55331J0K131J512J1J32031J0L131J172J1J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J521J1J51531I0E0J1J0Q131M&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0+Deep&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=VMVB031J543J1J271J1J512J1J31131J1L431J0I0J1J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J52231J51531I0E0J1J5233&model_=Deepcool+AK620+%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9+Inte&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 2859,
+        "link": "https://ek.ua/en/clcp.php?ep_=13Q9031J560J1J2N2J1J512J1J320J1J48231J09031J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J522J1J51531I0E031J3Q131M&model_=Deepcool+AK620+WH+R-AK620&idSite_=1&idGood_=2361941"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6f",
+        "price": 3089,
+        "link": "https://ek.ua/en/clcp.php?ep_=UKU5031J59031J45131J512J1J30031J361J1J3P0J1J51331J424J1J214J1J1O531J0A1J1J2H531J0Q1J1J52331J51531I0E031J3A131M&model_=Deepcool+AK620+WHITE&idSite_=1&idGood_=2361941"
+      }
+    ],
+    "range": {
+      "minPrice": 2563,
+      "maxPrice": 3089
+    }
+  },
+  "brand": "Deepcool",
+  "description": "<p><span class=\"desc-ai-initcap\">P</span>owerful tower-type CPU cooler with a two-section design, a U-shaped heat pipe layout and a powerful 120 mm fan based on a durable fluid dynamic bearing. It is distinguished by the use of six copper heat pipes of a standard diameter, securely soldered into the base of the nickel-plated copper base and an impressive area of a two-section aluminum plate radiator (9690 cm²), which quickly dissipates heat.</p><p>It is positioned as a product of the middle price category in 2022, designed to cool AMD and Intel Mainstream/Performance class processors, including top models. Thanks to high-quality materials and good assembly, the Deepcool AK620 WH CPU cooler can remove up to 260 W of heat, which makes it possible to recommend it for overclocking experiments and the operation of overclocked CPUs (without an extreme increase in supply voltage).</p><p>The manufacturer guarantees full compatibility with motherboards equipped with AMD AM4, AM3(+), AM2(+), FM2, FM1 and Intel LGA2066, 2011(v3), 115X, 1200 and 1700 processor sockets. Deepcool FK120 fan (DF1202512CM) supports PWM - regulation of the speed of rotation of the nine-bladed impeller in the range from 500 to 1800 rpm (from noiselessness to 28 dBA). The cooler is installed using a complete backplate, which requires the removal of the motherboard.</p>",
+  "officialWebsite": "deepcool.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 6,
+  "plateMaterial": "nickel-plated copper",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM4",
+    " AMD AM5",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 2011 / 2011 v3",
+    " Intel 2066",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200",
+    " Intel 1700"
+  ],
+  "fanSize": "120 mm / FK120 (DF1202512CM) /",
+  "bearing": "hydrodynamic",
+  "minRPM": "500 rpm",
+  "maxRPM": "1850 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "68.99 CFM",
+  "maxTDP": "260 W",
+  "airFlowDirection": "sideways (dispersion)",
+  "replaceable": true,
+  "lighting": true,
+  "powerSource": "4-pin",
+  "noiseLevel": "28 dB",
+  "dimensions": "129x138x160 mm",
+  "height": "160 mm",
+  "weight": "1456 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b85"
+  },
+  "id": "GAMEMAX-GAMMA-300-RAINBOW",
+  "name": "Gamemax Gamma 300 Rainbow",
+  "mainImage": "https://s.ek.ua/jpg/2001435.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 803,
+        "link": "https://ek.ua/en/clcp.php?ep_=S8MG031J510J1J2H3J1J4Q0J1J2M0J1J002J1J0I131J4Q0J1J38131J4K0J1J4K431J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q0J1O&model_=Gamemax+GAMMA300+Rainbow+&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320cd8a332e9aa69419ab50",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=60P9031J561J1J00131J512J1J2P4J1J35231J174J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J52531J0Q031371531J0O&model_=GAMEMAX+GAMMA+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d54",
+        "price": 803,
+        "link": "https://ek.ua/en/clcp.php?ep_=8442031J552J1J18231J512J1J30431J0O431J454J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J53531J0Q031371431J5143&model_=GAMEMAX+Gamma+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 790,
+        "link": "https://ek.ua/en/clcp.php?ep_=2K2J031J543J1J35031J512J1J32231J39231J1M131J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J54531J0Q0313713J1J5143&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+GameMax+GAMMA300+Ra&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 750,
+        "link": "https://ek.ua/en/clcp.php?ep_=2F0T031J57331J421J1J512J1J32231J11131J0I231J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J55531J0Q031371331J5143&model_=%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D0%BE%D1%80%D0%B0+Gamemax+GAMM&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5f",
+        "price": 865,
+        "link": "https://ek.ua/en/clcp.php?ep_=V0TH031J55331J0K131J512J1J32031J0L131J0J231J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J56531J0Q0313712J1J5143&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0+Game&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb8262fb",
+        "price": 950,
+        "link": "https://ek.ua/en/clcp.php?ep_=0J28031J59331J193J1J512J1J32031J1J331J2K1J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J57531J0Q031371131J5143&model_=Gamemax+GAMMA300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 803,
+        "link": "https://ek.ua/en/clcp.php?ep_=6029031J560J1J393J1J512J1J301J1J43231J463J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J58531J0Q0313710J1J5143&model_=Gamemax+GAMMA300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 803,
+        "link": "https://ek.ua/en/clcp.php?ep_=VIV4031J58131J2K131J512J1J320J1J0K0J1J2J431J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J59531J0Q0313710J1J5143&model_=Gamemax+GAMMA300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d65",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=L3QE031J510J1J27231J0A0J1J2M0J1J02431J380J1J2A0J1J38131J4K0J1J4K431J50531J1L0J1J51531J1Q0J1J0A0J1J50721J0Q0J1O&model_=GAMEMAX+GAMMA+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "63219eda332e9aa694f992b4",
+        "price": 785,
+        "link": "https://ek.ua/en/clcp.php?ep_=0V13031J59131J3G4J1J512J1J31031J1P231J42131J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J510J1J51531I0E0J1J5143&model_=GAMEMAX+GAMMA300+Rainbow+&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320cdc2332e9aa6941a2e46",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=4JUP031J55131J153J1J512J1J31231J0I231J434J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J51131J51531I0E0J1J5143&model_=Gamemax+Gamma+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5d",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=5LVP031J58431J0G031J512J1J313J1J3H231J2O431J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J511J1J51531I0E0J1J5143&model_=GAMEMAX+GAMMA300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d67",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=44VP031J560J1J2N2J1J512J1J320J1J42331J30231J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J51231J51531I0E0J1J5143&model_=GAMEMAX+Gamma+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=1720031J543J1J271J1J512J1J32131J16431J1N231J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J512J1J51531I0E0J1J5143&model_=GAMEMAX+GAMMA300+Rainbow+&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 746,
+        "link": "https://ek.ua/en/clcp.php?ep_=T5KP031J510J1J36231J1Q0J1J2M131J24031J0K1J1J2A0J1J38131J4K0J1J4K431J50531J1L0J1J51531J1Q0J1J3A0J1J50721J0Q0J1O&model_=Gamemax+GAMMA300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320d03a332e9aa6941fe6b9",
+        "price": 758,
+        "link": "https://ek.ua/en/clcp.php?ep_=3ETJ031J592J1J2P231J512J1J32331J30131J2G0J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J513J1J51531I0E031J3Q0J1O&model_=GameMax+GAMMA+300+Rainbow&idSite_=1&idGood_=2001435"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d6b",
+        "price": 809,
+        "link": "https://ek.ua/en/clcp.php?ep_=1KUM031J59031J45131J512J1J30031J36131J4P2J1J51331J424J1J214J1J28531J0A1J1J2H531J0Q1J1J51431J51531I0E031J3A0J1O&model_=GameMax+Gamma+300+Rainbow&idSite_=1&idGood_=2001435"
+      }
+    ],
+    "range": {
+      "minPrice": 746,
+      "maxPrice": 950
+    }
+  },
+  "brand": "Gamemax",
+  "description": "<p><span class=\"desc-ai-initcap\">A</span>n inexpensive low-profile cooler from Gamemax, which belongs to the budget segment, but is not much inferior to more expensive tower coolers. It is easy to install, efficient in operation, not too noisy and does not conflict with other components due to the low profile design. Unlike traditional tower COs, in which the heatsink is located perpendicular to the processor, in Gamemax Gamma 300 Rainbow the design resembles a sandwich: the heatsink hangs over the processor, a 120mm fan blows over it, and 5 heat pipes directly contact the processor.</p><p>The fan speed can be adjusted from near-silent (800 rpm) to high speed (1900 rpm), which provides an impressive airflow with a power of 58.8 CFM and a pressure of 2.18 mm H2O. The manufacturer claims that the design is capable of dissipating up to 180 W of heat from the processor. Considering that it will most likely be installed in a compact case with limited interior decoration, the Gamma 300 Rainbow CO will be the best choice for entry-level and mid-level builds with a compact motherboard, a small-sized Cube Case, and a mid-range processor with 6 or 8 physical cores. An important advantage of this model compared to other entry-level coolers is a full-fledged addressable ARGB backlight with the ability to synchronize with other components. In particular, the manufacturer claims support for Asus Aura Sync, Gigabyte Fusion and MSi Mystic Light systems.</p>",
+  "officialWebsite": "gamemaxpc.com",
+  "target": "for processor",
+  "type": "active fan",
+  "heatPipes": 5,
+  "plateMaterial": "aluminum",
+  "mountType": "bilateral (backplate)",
+  "socket": [
+    "AMD AM2/AM3/FM1/FM2",
+    " AMD AM4",
+    " Intel 775",
+    " Intel 1150",
+    " Intel 1155/1156",
+    " Intel 1366",
+    " Intel 1151 / 1151 v2",
+    " Intel 1200"
+  ],
+  "bearing": "hydrodynamic",
+  "minRPM": "800 rpm",
+  "maxRPM": "1900 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "58.8 CFM",
+  "maxTDP": "180 W",
+  "airFlowDirection": "down (on motherboard)",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "4-pin",
+  "noiseLevel": "29 dB",
+  "dimensions": "125x125x85 mm",
+  "height": "85 mm",
+  "weight": "640 g"
+},{
+  "_id": {
+    "$oid": "644fa80b6aae09cb75f73b86"
+  },
+  "id": "AEROCOOL-ASTRO-12-ARGB",
+  "name": "Aerocool Astro 12 ARGB",
+  "mainImage": "https://s.ek.ua/jpg/1863142.jpg",
+  "price": {
+    "offers": [
+      {
+        "storeId": "6320c248332e9aa694fe5d53",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=UPQR031J510J1J2H3J1J4Q0J1J2M131J313J1J2K1J1J2Q0J1J38131J4K0J1J4L4J1J50531J1L0J1J51531J1Q0J1J51531I0E0J1J0Q3J&model_=AeroCool+Astro+12+ARGB+6-&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d58",
+        "price": 439,
+        "link": "https://ek.ua/en/clcp.php?ep_=UC46031J543J1J35031J512J1J322J1J2I231J1M231J51331J424J1J214J1J2P531J0A1J1J2H531J0Q1J1J52531J0Q0313713J1J57&model_=%D0%9A%D1%83%D0%BB%D0%B5%D1%80+Aerocool+Astro+12+A&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d5a",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=061U031J57331J421J1J512J1J322J1J4P131J002J1J51331J424J1J214J1J2P531J0A1J1J2H531J0Q1J1J53531J0Q031371131J57&model_=%D0%B4%D0%BE+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D1%83+AeroCool+Astro&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "6320cd6f332e9aa694196a22",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=U117031J560J1J393J1J512J1J314J1J052J1J121J1J51331J424J1J214J1J2P531J0A1J1J2H531J0Q1J1J54531J0Q0313710J1J57&model_=AeroCool+Astro+12+ARGB+6-&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "6320c248332e9aa694fe5d64",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=QHV3031J58131J2K131J512J1J320J1J0K0J1J11431J51331J424J1J214J1J2P531J0A1J1J2H531J0Q1J1J55531J0Q0313710J1J57&model_=AeroCool+Astro+12+ARGB+6-&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "644e8f56b68c4f46eb826302",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=0E0J031J543J1J271J1J512J1J322J1J241J1J4G1J1J51331J424J1J214J1J2P531J0A1J1J2H531J0Q1J1J56531J0Q031371531N&model_=AeroCool+Astro+12+ARGB+6-&idSite_=1&idGood_=1863142"
+      },
+      {
+        "storeId": "644f94d5b68c4f46eb852a36",
+        "price": 299,
+        "link": "https://ek.ua/en/clcp.php?ep_=T2U6031J510J1J36231J1Q0J1J2M131J344J1J2M0J1J4A0J1J38131J4K0J1J4L4J1J50531J1L0J1J51531J1Q3J1J51531I0E0J1J57&model_=AeroCool+Astro+12+ARGB+6-&idSite_=1&idGood_=1863142"
+      }
+    ],
+    "range": {
+      "minPrice": 299,
+      "maxPrice": 439
+    }
+  },
+  "brand": "Aerocool",
+  "description": "<p><span class=\"desc-ai-initcap\">i</span>a and backlight settings. It is positioned as an affordable product of the middle price category, designed for use in cooling systems for modding and gaming systems, assembled in transparent acrylic cases or steel cases with a transparent side cover. It has standard body dimensions of 120x120x25 mm and is fully compatible with typical seats. Equipped with a 9-blade impeller, the shape of which maintains high efficiency over a wide range of rotor speeds.</p><p>Provides a decent level of static pressure (1.68 mm w.c.), which allows you to install it even on tower coolers and large radiators of water cooling systems. The attachment points are provided with damping rubber pads that reduce the level of noise and vibrations. The Aerocool Astro 12 ARGB fan is connected to the motherboard using the original proprietary cable, which provides compatibility with any models and supports ASUS Aura Sync, MSI Mystic Light Sync and Gigabyte RGB Fusion technologies. It is possible to control the speed of the impeller by the PWM method, and it can vary from 500 to 1000 rpm. Thanks to hydrodynamic bearings, it remains virtually silent throughout the entire operating range.</p>",
+  "target": "to the body",
+  "type": "fan",
+  "mountType": "bolts",
+  "fanSize": "120 mm",
+  "bearing": "hydrodynamic",
+  "maxRPM": "1000 rpm",
+  "speedController": "auto (PWM)",
+  "maxAirFlow": "42.1 CFM",
+  "replaceable": true,
+  "lighting": true,
+  "lightingColour": "ARGB",
+  "powerSource": "6-pin",
+  "noiseLevel": "18 dB",
+  "dimensions": "120x120x25 mm"
+}]
